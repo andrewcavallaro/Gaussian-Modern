@@ -2,7 +2,7 @@
 from pathlib import Path
 from fontTools.ttLib import TTFont
 ROOT = Path(__file__).resolve().parent.parent
-fonts = sorted((ROOT / 'fonts').glob('*/*'))
+fonts = sorted([*(ROOT / 'fonts').glob('otf/*'), *(ROOT / 'fonts').glob('ttf/*')])
 assert len(fonts) == 10
 for path in fonts:
     f = TTFont(path)

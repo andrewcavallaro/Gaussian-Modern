@@ -1,0 +1,15 @@
+\ProvidesFile{t1gmd.fd}[2026/10/18 v0.107 Gaussian Modern, T1 encoding]
+\DeclareFontFamily{T1}{gmd}{}
+\DeclareFontShape{T1}{gmd}{m}{n}{<-> gmd-regular-t1}{}
+\DeclareFontShape{T1}{gmd}{m}{it}{<-> gmd-italic-t1}{}
+\DeclareFontShape{T1}{gmd}{sb}{n}{<-> gmd-semibold-t1}{}
+\DeclareFontShape{T1}{gmd}{sb}{it}{<-> gmd-semibolditalic-t1}{}
+\DeclareFontShape{T1}{gmd}{m}{sl}{<-> ssub * gmd/m/it}{}
+\DeclareFontShape{T1}{gmd}{sb}{sl}{<-> ssub * gmd/sb/it}{}
+\DeclareFontShape{T1}{gmd}{b}{n}{<-> ssub * gmd/sb/n}{}
+\DeclareFontShape{T1}{gmd}{b}{it}{<-> ssub * gmd/sb/it}{}
+\DeclareFontShape{T1}{gmd}{b}{sl}{<-> ssub * gmd/sb/it}{}
+\DeclareFontShape{T1}{gmd}{bx}{n}{<-> ssub * gmd/sb/n}{}
+\DeclareFontShape{T1}{gmd}{bx}{it}{<-> ssub * gmd/sb/it}{}
+\DeclareFontShape{T1}{gmd}{bx}{sl}{<-> ssub * gmd/sb/it}{}
+\endinput

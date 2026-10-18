@@ -12,6 +12,9 @@
 | Semibold Italic | 311 | 303 | OTF, TTF |
 | Math Regular | 2,403 | 981 | OTF, TTF |
 
+The four text styles also exist as Type 1 fonts (310 glyphs each, Adobe Standard Encoding)
+and as TeX metrics in the T1 (Cork) encoding.
+
 The math count includes unencoded size variants, assembly components, and script-size alternates; it does not mean 2,403 independently encoded characters.
 
 ## Checks completed
@@ -26,6 +29,14 @@ The math count includes unencoded size variants, assembly components, and script
 - Fonts built from the UFO masters match those built from the JSON masters in every metric, mapping, feature and MATH table. Outlines draw identical shapes; in three OTFs, a few glyphs store their contours in a different order.
 - Name records were checked for family, PostScript name, version, copyright and license scope (`scripts/check_identity.py`).
 - The three-page specimen compiled with XeTeX and `unicode-math`. PDF font inspection confirmed that only the five Gaussian Modern faces were embedded, with no fallback math font, and the pages were rendered and visually inspected.
+
+## Type 1 and TeX checks
+
+- Each PFB passed `t1lint` and has the standard three-segment structure; every AFM glyph width matches the OpenType advance exactly, and each AFM carries 2,700–3,500 kerning pairs and the f-ligatures.
+- PFB and OTF rasters were compared for every encoded character at 120 px. They agree apart from hinting differences (median 2%), except four glyphs that FreeType cannot map to Unicode from their traditional names (`dotlessj`, `asteriskcentered`, `bardbl`, `interrobangdown`); their outlines are present and TeX addresses them by name.
+- A test document with accents, ligatures, kerning, quotes, dashes and guillemets compiled with pdfLaTeX, and with `latex` + `dvips` + Ghostscript. Both PDFs embed the four Gaussian Modern Type 1 fonts and render identically.
+- A plain TeX file, a PostScript program using the fonts by name (with Latin-1 reencoding), and Ghostscript's PDF output were checked.
+- Rebuilding the Type 1 fonts and TeX files reproduces them byte for byte. `scripts/check_type1.py` rechecks them against the OpenType fonts.
 
 `source/validate.py` reruns the structural font checks. `source/validation.json` records file hashes and counts. The archive also includes a SHA-256 manifest.
 

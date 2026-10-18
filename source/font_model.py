@@ -73,7 +73,7 @@ def build_font(glyphs,path,family='Gaussian Modern',style='Regular',features='',
     fb.setupOS2(version=4,sTypoAscender=800,sTypoDescender=-240,sTypoLineGap=160,
       usWinAscent=1100,usWinDescent=340,usWeightClass=weight,
       sxHeight=515,sCapHeight=710,fsSelection=(1 if italic else 64)|128)
-    fb.setupPost(italicAngle=-11 if italic else 0)
+    fb.setupPost(italicAngle=-11 if italic else 0,underlinePosition=-100,underlineThickness=50)
     fb.setupMaxp()
     fb.font['head'].macStyle=(2 if italic else 0)
     fb.font['head'].created=fb.font['head'].modified=3875000000

@@ -20,6 +20,10 @@
 	<string>MIT License for original font work and project code. Inherited Computer Modern material retains Knuth terms, including renaming modified files. See LICENSE and THIRD-PARTY-NOTICES.md.</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
 	<key>styleName</key>
 	<string>Italic</string>
 	<key>unitsPerEm</key>

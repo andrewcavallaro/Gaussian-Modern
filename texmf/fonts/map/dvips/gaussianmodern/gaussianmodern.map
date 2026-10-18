@@ -1,0 +1,5 @@
+% Gaussian Modern Type 1 fonts, T1 (Cork) encoding
+gmd-italic-t1--base GaussianModern-Italic "AutoEnc_xggzzuevg3qoxcf6e2r24vlx6h ReEncodeFont" <[a_xggzzu.enc <GaussianModern-Italic.pfb
+gmd-regular-t1--base GaussianModern-Regular "AutoEnc_xggzzuevg3qoxcf6e2r24vlx6h ReEncodeFont" <[a_xggzzu.enc <GaussianModern-Regular.pfb
+gmd-semibold-t1--base GaussianModern-Semibold "AutoEnc_xggzzuevg3qoxcf6e2r24vlx6h ReEncodeFont" <[a_xggzzu.enc <GaussianModern-Semibold.pfb
+gmd-semibolditalic-t1--base GaussianModern-SemiboldItalic "AutoEnc_xggzzuevg3qoxcf6e2r24vlx6h ReEncodeFont" <[a_xggzzu.enc <GaussianModern-SemiboldItalic.pfb

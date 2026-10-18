@@ -30,6 +30,14 @@ Both OTF and TTF are included. Install **one format**, using the five files in
 The mathematical companion has 2,403 glyphs, including unencoded size variants
 and assembly parts.
 
+For older software and classic TeX, the four text styles also come as hinted
+**Type 1** fonts (`fonts/type1/`: PFB outlines with AFM and PFM metrics) and as a
+ready-to-install TeX tree (`texmf/`) for pdfLaTeX, dvips and plain TeX. The
+mathematics companion is OpenType only.
+
+**How to use the fonts** in applications, on the web, and in XeLaTeX, LuaLaTeX,
+pdfLaTeX, plain TeX and PostScript: see [USAGE.md](USAGE.md).
+
 The current design keeps a distinctive A, rounded Q tails, smooth J hooks,
 refined E/F front serifs, and a slightly stronger regular lowercase l. Text
 features include kerning, common f-ligatures, tabular lining digits, and basic
@@ -59,15 +67,24 @@ python source/build.py --from-ufo
 Create a release archive with `python scripts/package.py`; the result is placed
 in `dist/`.
 
-Both routes write five OTF and five TTF files into `fonts/`. They use only the
+Both routes write five OTF and five TTF files into `fonts/otf/` and `fonts/ttf/`. They use only the
 included masters and FontTools; a METAFONT installation is not needed. Changes are not
 synchronized automatically between JSON and UFO. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+The Type 1 fonts and TeX files are generated from the OTF files:
+
+```sh
+python scripts/build_type1.py   # needs FontForge, LCDF Typetools and TeX Live
+python scripts/check_type1.py   # FontTools only
+```
 
 The METAFONT programs under `source/metafont/` build with TeX Live
 (`mf '\mode=ljfour; input gwr10'`). They are kept as the origin of the
 Gauss-modelled shapes; the JSON and UFO masters are authoritative for the fonts.
 
-## Use with XeLaTeX
+## Quick start in LaTeX
+
+XeLaTeX or LuaLaTeX, with the OpenType text and maths fonts:
 
 ```tex
 \usepackage{fontspec}
@@ -80,6 +97,12 @@ Gauss-modelled shapes; the JSON and UFO masters are authoritative for the fonts.
 \setmathfont{GaussianModernMath-Regular.otf}[Path=fonts/otf/]
 ```
 
+pdfLaTeX, with the Type 1 text fonts (install `texmf/` first, see USAGE.md):
+
+```tex
+\usepackage{gaussianmodern}
+```
+
 To regenerate the specimen, run `xelatex GaussianModern-Specimen.tex` from
 `specimens/`, with fontspec, unicode-math, and the document's other packages
 installed. The supplied specimen has been checked in XeTeX; other math layout
@@ -89,22 +112,27 @@ engines have not yet been qualified.
 
 | Path | Contents |
 | --- | --- |
-| `fonts/` | Ten installable OTF/TTF files |
+| `fonts/otf/`, `fonts/ttf/` | Ten installable OpenType files |
+| `fonts/type1/` | Type 1 text fonts: PFB, AFM, PFM |
+| `texmf/` | TeX tree: TFM, VF, encoding, map, `gaussianmodern.sty` |
 | `source/masters/` | Cubic JSON masters and MATH layout data |
 | `source/ufo/` | Editable UFO 3 masters |
 | `source/features/` | OpenType feature definitions |
 | `source/metafont/` | METAFONT programs for the Gauss-modelled roman (Computer Modern based) |
-| `specimens/` | PDF, TeX, preview, and historical design proofs |
-| `.github/workflows/build.yml` | JSON/UFO build and validation checks |
+| `specimens/` | Specimen PDF, its TeX source, and the preview image |
+| `scripts/` | Type 1 build, checks, and release packaging |
+| `tests/` | pdfLaTeX test document for the Type 1 fonts |
+| `.github/workflows/build.yml` | Build and validation checks, including Type 1 |
 
-See [GITHUB.md](GITHUB.md) for repository setup, [CHANGES.md](CHANGES.md) for
+See [USAGE.md](USAGE.md) for using the fonts, [GITHUB.md](GITHUB.md) for repository setup, [CHANGES.md](CHANGES.md) for
 revision history, and [VALIDATION.md](VALIDATION.md) for checks and limitations.
 
 ## Development limits
 
 This is a working design release. Dedicated screen hinting, optical sizes,
 small capitals, broader language proofing, and cross-engine math qualification
-remain future work. Combining-mark support handles basic single accents, not
+remain future work. The OpenType files are unhinted; the Type 1 files carry
+FontForge autohints. Combining-mark support handles basic single accents, not
 arbitrary stacked accents. Some source math variants remain unencoded, listed
 in `source/math-unencoded.txt`. No controlled reading or learning study has
 validated the design.

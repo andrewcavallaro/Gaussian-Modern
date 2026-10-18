@@ -1,0 +1,17 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{gaussianmodern}[2026/10/18 v0.107 Gaussian Modern Type 1 text fonts]
+% Text fonts only. Mathematics keeps the document's math fonts.
+\RequirePackage{iftex}
+\ifPDFTeX
+  % In PDF mode, load the map file directly so the fonts work without updmap.
+  % In DVI mode, dvips needs the map installed (or dvips -u +gaussianmodern.map).
+  \ifnum\pdfoutput>0 \pdfmapfile{=gaussianmodern.map}\fi
+\else
+  \PackageWarningNoLine{gaussianmodern}{%
+    This package loads the Type 1 fonts for pdfLaTeX.\MessageBreak
+    With XeLaTeX or LuaLaTeX, use fontspec and the OpenType\MessageBreak
+    fonts instead (see USAGE.md)}
+\fi
+\RequirePackage[T1]{fontenc}
+\renewcommand*{\rmdefault}{gmd}
+\endinput

@@ -9,7 +9,7 @@ COMMON='≠≤≥≈≡∈∉∋∌∅∀∃∄∇∂∞↦→←↔⇒⇔⊂⊃
 
 def validate():
     records=[]
-    for path in sorted((ROOT/'fonts').glob('*/*')):
+    for path in sorted([*(ROOT/'fonts').glob('otf/*'), *(ROOT/'fonts').glob('ttf/*')]):
         f=TTFont(path,checkChecksums=2)
         for table in f.keys():f[table]
         glyphs=f.getGlyphSet();cmap=f.getBestCmap();empty=[]
