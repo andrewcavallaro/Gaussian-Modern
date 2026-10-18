@@ -10,7 +10,7 @@ for path in fonts:
     family = 'Gaussian Modern Math' if 'Math' in path.name else 'Gaussian Modern'
     assert names.getDebugName(16) == family, path
     assert names.getDebugName(6).startswith(family.replace(' ', '') + '-'), path
-    assert names.getDebugName(5) == 'Version 0.107', path
+    assert names.getDebugName(5) == 'Version 0.108', path
     assert 'MIT License' in names.getDebugName(13) and 'Knuth' in names.getDebugName(13), path
     assert 'Knuth' in names.getDebugName(0) and 'Andrew Cavallaro' in names.getDebugName(0), path
     assert names.getDebugName(9) == 'Andrew Cavallaro', path

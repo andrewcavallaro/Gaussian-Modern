@@ -3,11 +3,11 @@ from pathlib import Path
 from hashlib import sha256
 import zipfile
 ROOT = Path(__file__).resolve().parent.parent
-VERSION = '0.107'
+VERSION = '0.108'
 EXCLUDE = {'.git', '__pycache__', '.rsync-tmp', '.venv', 'dist', 'work'}
 files = sorted(p for p in ROOT.rglob('*') if p.is_file()
                and not any(part in EXCLUDE for part in p.relative_to(ROOT).parts)
-               and p.suffix not in {'.pyc', '.pyo', '.aux', '.log', '.xdv'}
+               and p.suffix not in {'.pyc', '.pyo', '.aux', '.log', '.xdv', '.fls', '.fdb_latexmk'}
                and p.name not in {'SHA256SUMS.txt', '.DS_Store'})
 manifest = ROOT / 'SHA256SUMS.txt'
 manifest.write_text(''.join(sha256(p.read_bytes()).hexdigest() + '  ' +

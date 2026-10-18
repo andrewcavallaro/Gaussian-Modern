@@ -11,7 +11,7 @@ from fontTools.pens.t2CharStringPen import T2CharStringPen
 from fontTools.fontBuilder import FontBuilder
 from fontTools.feaLib.builder import addOpenTypeFeaturesFromString
 
-VERSION='0.107'
+VERSION='0.108'
 COPYRIGHT=('Copyright (c) 2026 Andrew Cavallaro. '
            'Includes material derived from Computer Modern by Donald E. Knuth.')
 LICENSE=('MIT License for original font work and project code. Inherited Computer Modern '

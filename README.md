@@ -2,7 +2,7 @@
 
 A serif text family with an OpenType mathematics companion, by Andrew Cavallaro.
 
-**Development release 0.107 · 18 October 2026**
+**Development release 0.108 · 18 October 2026**
 
 ![Gaussian Modern specimen](specimens/GaussianModern-Preview.png)
 
@@ -23,11 +23,11 @@ requirement to rename modified files/packages. See [LICENSE.md](LICENSE.md) and
 | Family | Styles | Unicode mappings per style |
 | --- | --- | ---: |
 | Gaussian Modern | Regular, Italic, Semibold, Semibold Italic | 303 |
-| Gaussian Modern Math | Regular | 981 |
+| Gaussian Modern Math | Regular | 990 |
 
 Both OTF and TTF are included. Install **one format**, using the five files in
 `fonts/otf/` or `fonts/ttf/`; installing both can create duplicate menu entries.
-The mathematical companion has 2,403 glyphs, including unencoded size variants
+The mathematical companion has 2,433 glyphs, including unencoded size variants
 and assembly parts.
 
 For older software and classic TeX, the four text styles also come as hinted
@@ -120,8 +120,8 @@ engines have not yet been qualified.
 | `source/features/` | OpenType feature definitions |
 | `source/metafont/` | METAFONT programs for the Gauss-modelled roman (Computer Modern based) |
 | `specimens/` | Specimen PDF, its TeX source, and the preview image |
-| `scripts/` | Type 1 build, checks, and release packaging |
-| `tests/` | pdfLaTeX test document for the Type 1 fonts |
+| `scripts/` | Type 1 build, maths additions builder, checks, and release packaging |
+| `tests/` | pdfLaTeX test for the Type 1 fonts; XeLaTeX/LuaLaTeX proof of the 0.108 changes |
 | `.github/workflows/build.yml` | Build and validation checks, including Type 1 |
 
 See [USAGE.md](USAGE.md) for using the fonts, [GITHUB.md](GITHUB.md) for repository setup, [CHANGES.md](CHANGES.md) for

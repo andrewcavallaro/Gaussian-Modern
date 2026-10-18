@@ -4,69 +4,69 @@
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "3d3c98986d1388d76b5bd3d65dc7201701a9a9dc48c99682cfcfa6a3d2b27cb5"
+    "sha256": "a27f4b7e4e0942c92b2228e803bc9abd57a61152d2fd799247f44a64354a2196"
   },
   {
     "file": "fonts/otf/GaussianModern-Regular.otf",
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "11dfccdd02193e733ff3aef44aae568e339f087dcc679aa9a90c5d89bbfe9046"
+    "sha256": "d67e67bf703078aecb481fbfa8320b02c803298eac17a040919576a2b0d03568"
   },
   {
     "file": "fonts/otf/GaussianModern-Semibold.otf",
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "ff4a78487a9a9ca426af63f54468c34ecbd16ebce5f7ed882dd642f8d036b19e"
+    "sha256": "0fbdc7e1066f6e4cbe8089ea2afd066fa7cac9d7ad1875d9a9672c93d8d10162"
   },
   {
     "file": "fonts/otf/GaussianModern-SemiboldItalic.otf",
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "726c25f49f546eeb8d1ec1acd108b88fece26280728181249ed9f27e00ddd8f4"
+    "sha256": "fe514c1a5d8bd24ab09c58d2ad02226bba035f44d527eef3e4410fd93e07dbe5"
   },
   {
     "file": "fonts/otf/GaussianModernMath-Regular.otf",
-    "glyphs": 2403,
-    "unicode_mappings": 981,
+    "glyphs": 2433,
+    "unicode_mappings": 990,
     "math": true,
-    "sha256": "659bc23fe7d2e04cd2c59ec450fce5f0ee99690fc27fa1e19a665550cfb56527"
+    "sha256": "b566f8d61ad2711780cb1cec4eaf19f56f6284deada214499b3aa4de054dbc1a"
   },
   {
     "file": "fonts/ttf/GaussianModern-Italic.ttf",
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "b5cc7124a21971615be65021b28cde3af83703ef3df562052b8c11584baaf7b0"
+    "sha256": "49ac1317608e89ea3337d239f75bb4d38feb5caaa9b581b56f87c704384843f5"
   },
   {
     "file": "fonts/ttf/GaussianModern-Regular.ttf",
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "0e2df5664766491dcecac703d4cd6acfba3cbb9bfa032a0eb118929dc64516a9"
+    "sha256": "9bb2692494f9766c3ede8a5120ecaa65577f5731607105d5a750226fcd858360"
   },
   {
     "file": "fonts/ttf/GaussianModern-Semibold.ttf",
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "09bbcf5e87f7436e7acaef185c0ce37e4f0d1a3436feff2eb46a0000a7b5014e"
+    "sha256": "8826f14ddbcec433529878fca404b4ace0b834519636080af1e53af1932bc6c6"
   },
   {
     "file": "fonts/ttf/GaussianModern-SemiboldItalic.ttf",
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "3b30ddb3aea77251a281cd63a3a89774bdce4e53b71f9c7b8f7a0e0e87ef95fd"
+    "sha256": "77f61c254e47ffb568cebcb646152d6fb68be79cda510f6987bd4752ef07de81"
   },
   {
     "file": "fonts/ttf/GaussianModernMath-Regular.ttf",
-    "glyphs": 2403,
-    "unicode_mappings": 981,
+    "glyphs": 2433,
+    "unicode_mappings": 990,
     "math": true,
-    "sha256": "6e9db0ea0ccd780d36a856dba64457f462ef16119b03156d1f5c9c9ecc6eb2b3"
+    "sha256": "7598ec06ed5da0a593293531b3b687431585f5064bafa71a643f23cf87b2a11c"
   }
 ]
