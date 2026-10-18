@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.ltimes" format="2">
+  <advance width="696.924"/>
+  <unicode hex="22C9"/>
+  <outline>
+    <contour>
+      <point x="67.068" y="561.816" type="line"/>
+      <point x="67.068" y="0.0" type="line"/>
+      <point x="100.116" y="0.0" type="line"/>
+      <point x="347.976" y="247.85999999999999" type="line"/>
+      <point x="595.836" y="0.0" type="line"/>
+      <point x="628.884" y="33.048" type="line"/>
+      <point x="381.024" y="280.908" type="line"/>
+      <point x="628.884" y="528.768" type="line"/>
+      <point x="595.836" y="561.816" type="line"/>
+      <point x="347.976" y="313.956" type="line"/>
+      <point x="100.116" y="561.816" type="line"/>
+    </contour>
+    <contour>
+      <point x="314.928" y="280.908" type="line"/>
+      <point x="113.724" y="80.676" type="line"/>
+      <point x="113.724" y="482.11199999999997" type="line"/>
+    </contour>
+  </outline>
+</glyph>

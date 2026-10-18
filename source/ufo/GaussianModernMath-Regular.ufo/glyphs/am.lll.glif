@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.lll" format="2">
+  <advance width="1323.864"/>
+  <unicode hex="22D8"/>
+  <outline>
+    <contour>
+      <point x="628.884" y="0.0" type="line"/>
+      <point x="628.884" y="52.488" type="line"/>
+      <point x="173.016" y="280.908" type="line"/>
+      <point x="628.884" y="509.328" type="line"/>
+      <point x="628.884" y="561.816" type="line"/>
+      <point x="67.068" y="280.908" type="line"/>
+    </contour>
+    <contour>
+      <point x="942.84" y="0.0" type="line"/>
+      <point x="942.84" y="52.488" type="line"/>
+      <point x="486.972" y="280.908" type="line"/>
+      <point x="942.84" y="509.328" type="line"/>
+      <point x="942.84" y="561.816" type="line"/>
+      <point x="381.024" y="280.908" type="line"/>
+    </contour>
+    <contour>
+      <point x="1256.796" y="0.0" type="line"/>
+      <point x="1256.796" y="52.488" type="line"/>
+      <point x="800.928" y="280.908" type="line"/>
+      <point x="1256.796" y="509.328" type="line"/>
+      <point x="1256.796" y="561.816" type="line"/>
+      <point x="694.98" y="280.908" type="line"/>
+    </contour>
+  </outline>
+</glyph>

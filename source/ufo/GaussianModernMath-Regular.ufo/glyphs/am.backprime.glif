@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.backprime" format="2">
+  <advance width="234.25199999999998"/>
+  <unicode hex="2035"/>
+  <outline>
+    <contour>
+      <point x="234.25199999999998" y="14.58" type="line"/>
+      <point x="90.396" y="561.816" type="line"/>
+      <point x="0.0" y="532.656" type="line"/>
+      <point x="187.596" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

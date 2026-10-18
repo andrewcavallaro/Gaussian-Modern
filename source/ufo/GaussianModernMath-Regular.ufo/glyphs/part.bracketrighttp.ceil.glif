@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="part.bracketrighttp.ceil" format="2">
+  <advance width="934.092"/>
+  <outline>
+    <contour>
+      <point x="24.3" y="1618.3799999999999" type="line"/>
+      <point x="24.3" y="1525.068" type="line"/>
+      <point x="411.156" y="1525.068" type="line"/>
+      <point x="411.156" y="0.0" type="line"/>
+      <point x="551.124" y="0.0" type="line"/>
+      <point x="551.124" y="1618.3799999999999" type="line"/>
+    </contour>
+  </outline>
+</glyph>

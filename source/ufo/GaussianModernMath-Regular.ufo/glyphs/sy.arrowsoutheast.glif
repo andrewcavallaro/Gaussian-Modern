@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.arrowsoutheast" format="2">
+  <advance width="612.36"/>
+  <unicode hex="2198"/>
+  <outline>
+    <contour>
+      <point x="563.76" y="86.508" type="line"/>
+      <point x="502.524" y="312.012" type="line"/>
+      <point x="469.476" y="212.868" type="line"/>
+      <point x="83.592" y="599.7239999999999" type="line"/>
+      <point x="50.544" y="566.6759999999999" type="line"/>
+      <point x="437.4" y="179.82" type="line"/>
+      <point x="337.284" y="146.772" type="line"/>
+    </contour>
+  </outline>
+</glyph>

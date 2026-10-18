@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.parenrightbt" format="2">
+  <advance width="873.828"/>
+  <outline>
+    <contour>
+      <point x="402.408" y="749.018" type="line" smooth="yes"/>
+      <point x="402.408" y="430.202"/>
+      <point x="317.844" y="-116.0619999999999"/>
+      <point x="62.208" y="-458.2059999999999" type="curve"/>
+      <point x="62.208" y="-528.19" type="line"/>
+      <point x="361.584" y="-197.71000000000004"/>
+      <point x="546.264" y="232.88599999999997"/>
+      <point x="542.376" y="1038.674" type="curve" smooth="yes"/>
+      <point x="542.376" y="1090.19" type="line"/>
+      <point x="402.408" y="1090.19" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.intersectiondisplay" format="2">
+  <advance width="1067.256"/>
+  <outline>
+    <contour>
+      <point x="164.268" y="-368.78200000000004" type="line"/>
+      <point x="164.268" y="445.7540000000001" type="line" smooth="yes"/>
+      <point x="164.268" y="648.902"/>
+      <point x="319.788" y="825.806"/>
+      <point x="533.628" y="825.806" type="curve" smooth="yes"/>
+      <point x="747.468" y="825.806"/>
+      <point x="902.9879999999999" y="648.902"/>
+      <point x="902.9879999999999" y="445.7540000000001" type="curve" smooth="yes"/>
+      <point x="902.9879999999999" y="-368.78200000000004" type="line"/>
+      <point x="1007.9639999999999" y="-368.78200000000004" type="line"/>
+      <point x="1007.9639999999999" y="443.81000000000006" type="line" smooth="yes"/>
+      <point x="1007.9639999999999" y="701.3900000000001"/>
+      <point x="813.564" y="930.782"/>
+      <point x="533.628" y="930.782" type="curve" smooth="yes"/>
+      <point x="253.692" y="930.782"/>
+      <point x="59.292" y="701.3900000000001"/>
+      <point x="59.292" y="443.81000000000006" type="curve" smooth="yes"/>
+      <point x="59.292" y="-368.78200000000004" type="line"/>
+    </contour>
+  </outline>
+</glyph>

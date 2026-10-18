@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="up.Delta.ssty2" format="2">
+  <advance width="813.9771"/>
+  <outline>
+    <contour>
+      <point x="60.60419999999999" y="0.0" type="line"/>
+      <point x="752.328" y="0.0" type="line"/>
+      <point x="752.328" y="64.152" type="line"/>
+      <point x="419.00489999999996" y="709.56" type="line"/>
+      <point x="383.4783" y="708.588" type="line"/>
+      <point x="60.60419999999999" y="64.152" type="line"/>
+    </contour>
+    <contour>
+      <point x="103.4451" y="64.152" type="line"/>
+      <point x="367.8048" y="592.92" type="line"/>
+      <point x="640.5237" y="64.152" type="line"/>
+    </contour>
+  </outline>
+</glyph>

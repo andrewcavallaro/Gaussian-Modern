@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bb.Vbb.ssty2" format="2">
+  <advance width="820.2465"/>
+  <outline>
+    <contour>
+      <point x="729.3402" y="702.756" type="line"/>
+      <point x="493.1928" y="217.728" type="line"/>
+      <point x="258.0903" y="702.756" type="line"/>
+      <point x="34.4817" y="702.756" type="line"/>
+      <point x="377.20889999999997" y="0.0" type="line"/>
+      <point x="444.0824999999999" y="0.0" type="line"/>
+      <point x="785.7647999999999" y="702.756" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.60859999999997" y="656.1" type="line"/>
+      <point x="466.0254" y="161.352" type="line"/>
+      <point x="410.6457" y="47.628" type="line"/>
+      <point x="111.80429999999998" y="656.1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

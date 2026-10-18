@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="up.Sigma.ssty2" format="2">
+  <advance width="764.8668"/>
+  <outline>
+    <contour>
+      <point x="72.09809999999999" y="0.0" type="line"/>
+      <point x="691.7237999999999" y="0.0" type="line"/>
+      <point x="691.7237999999999" y="155.51999999999998" type="line"/>
+      <point x="635.2991999999999" y="155.51999999999998" type="line"/>
+      <point x="634.2543" y="145.79999999999998" type="line"/>
+      <point x="632.1644999999999" y="104.00399999999999"/>
+      <point x="626.9399999999999" y="80.676"/>
+      <point x="618.5808" y="74.844" type="curve" smooth="yes"/>
+      <point x="611.2665" y="69.984"/>
+      <point x="576.7847999999999" y="67.068"/>
+      <point x="516.1806" y="67.068" type="curve" smooth="yes"/>
+      <point x="127.4778" y="67.068" type="line"/>
+      <point x="519.3153" y="371.304" type="line"/>
+      <point x="240.327" y="664.848" type="line"/>
+      <point x="520.3602" y="664.848" type="line" smooth="yes"/>
+      <point x="577.8296999999999" y="664.848"/>
+      <point x="609.1766999999999" y="657.072"/>
+      <point x="612.3113999999999" y="641.52" type="curve"/>
+      <point x="612.3113999999999" y="588.06" type="line"/>
+      <point x="613.3562999999999" y="579.312" type="line"/>
+      <point x="669.7809" y="579.312" type="line"/>
+      <point x="670.8258" y="702.756" type="line"/>
+      <point x="97.17569999999999" y="702.756" type="line"/>
+      <point x="97.17569999999999" y="659.016" type="line"/>
+      <point x="414.82529999999997" y="330.48" type="line"/>
+      <point x="72.09809999999999" y="67.068" type="line"/>
+    </contour>
+  </outline>
+</glyph>

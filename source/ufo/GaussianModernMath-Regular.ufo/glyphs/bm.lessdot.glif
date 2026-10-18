@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.lessdot" format="2">
+  <advance width="746.496"/>
+  <unicode hex="22D6"/>
+  <outline>
+    <contour>
+      <point x="654.156" y="0.0" type="line"/>
+      <point x="654.156" y="52.488" type="line"/>
+      <point x="198.28799999999998" y="280.908" type="line"/>
+      <point x="654.156" y="509.328" type="line"/>
+      <point x="654.156" y="561.816" type="line"/>
+      <point x="92.34" y="280.908" type="line"/>
+    </contour>
+    <contour>
+      <point x="514.188" y="234.25199999999998" type="line"/>
+      <point x="607.5" y="234.25199999999998" type="line"/>
+      <point x="607.5" y="327.56399999999996" type="line"/>
+      <point x="514.188" y="327.56399999999996" type="line"/>
+    </contour>
+  </outline>
+</glyph>

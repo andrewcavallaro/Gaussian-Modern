@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mi.psi.ssty2" format="2">
+  <advance width="929.9609999999999"/>
+  <outline>
+    <contour>
+      <point x="310.33529999999996" y="-187.596" type="line"/>
+      <point x="411.6906" y="-187.596" type="line"/>
+      <point x="451.3968" y="0.0" type="line"/>
+      <point x="657.2421" y="21.384"/>
+      <point x="781.5851999999999" y="134.136"/>
+      <point x="825.471" y="338.256" type="curve" smooth="yes"/>
+      <point x="863.0873999999999" y="515.16" type="line"/>
+      <point x="762.7769999999999" y="515.16" type="line"/>
+      <point x="720.9809999999999" y="323.676" type="line" smooth="yes"/>
+      <point x="700.083" y="221.61599999999999"/>
+      <point x="669.7809" y="149.688"/>
+      <point x="631.1196" y="107.892" type="curve" smooth="yes"/>
+      <point x="592.4583" y="65.124"/>
+      <point x="534.9888" y="39.852"/>
+      <point x="457.66619999999995" y="33.048" type="curve"/>
+      <point x="580.9644" y="608.472" type="line"/>
+      <point x="480.654" y="608.472" type="line"/>
+      <point x="357.3558" y="33.048" type="line"/>
+      <point x="247.6413" y="47.628"/>
+      <point x="193.30649999999997" y="99.14399999999999"/>
+      <point x="193.30649999999997" y="187.596" type="curve" smooth="yes"/>
+      <point x="193.30649999999997" y="209.952"/>
+      <point x="198.531" y="248.832"/>
+      <point x="211.0698" y="303.264" type="curve" smooth="yes"/>
+      <point x="256.0005" y="515.16" type="line"/>
+      <point x="154.6452" y="515.16" type="line"/>
+      <point x="117.0288" y="334.368" type="line" smooth="yes"/>
+      <point x="104.49" y="278.964"/>
+      <point x="99.2655" y="237.168"/>
+      <point x="99.2655" y="208.98" type="curve" smooth="yes"/>
+      <point x="99.2655" y="85.536"/>
+      <point x="182.8575" y="16.524"/>
+      <point x="350.0415" y="0.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.bracketlefttp.ceil" format="2">
+  <advance width="934.092"/>
+  <outline>
+    <contour>
+      <point x="383.94" y="1090.19" type="line"/>
+      <point x="383.94" y="-528.1899999999999" type="line"/>
+      <point x="523.908" y="-528.1899999999999" type="line"/>
+      <point x="523.908" y="996.8779999999999" type="line"/>
+      <point x="910.764" y="996.8779999999999" type="line"/>
+      <point x="910.764" y="1090.19" type="line"/>
+    </contour>
+  </outline>
+</glyph>

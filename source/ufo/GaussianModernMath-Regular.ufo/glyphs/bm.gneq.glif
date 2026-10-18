@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.gneq" format="2">
+  <advance width="742.608"/>
+  <unicode hex="2A88"/>
+  <outline>
+    <contour>
+      <point x="90.396" y="561.816" type="line"/>
+      <point x="90.396" y="511.272" type="line"/>
+      <point x="525.852" y="338.256" type="line"/>
+      <point x="90.396" y="162.32399999999998" type="line"/>
+      <point x="90.396" y="112.752" type="line"/>
+      <point x="652.212" y="337.284" type="line"/>
+    </contour>
+    <contour>
+      <point x="652.212" y="0.0" type="line"/>
+      <point x="652.212" y="46.656" type="line"/>
+      <point x="413.4402" y="46.656" type="line"/>
+      <point x="455.868" y="175.932" type="line"/>
+      <point x="406.296" y="175.932" type="line"/>
+      <point x="363.46968" y="46.656" type="line"/>
+      <point x="90.396" y="46.656" type="line"/>
+      <point x="90.396" y="0.0" type="line"/>
+      <point x="348.01488" y="0.0" type="line"/>
+      <point x="301.32" y="-140.94" type="line"/>
+      <point x="351.864" y="-140.94" type="line"/>
+      <point x="398.12147999999996" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

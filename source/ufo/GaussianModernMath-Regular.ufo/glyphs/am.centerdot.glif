@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.centerdot" format="2">
+  <advance width="248.832"/>
+  <unicode hex="22C5"/>
+  <outline>
+    <contour>
+      <point x="82.42559999999999" y="238.9176" type="line"/>
+      <point x="166.4064" y="238.9176" type="line"/>
+      <point x="166.4064" y="322.8984" type="line"/>
+      <point x="82.42559999999999" y="322.8984" type="line"/>
+    </contour>
+  </outline>
+</glyph>

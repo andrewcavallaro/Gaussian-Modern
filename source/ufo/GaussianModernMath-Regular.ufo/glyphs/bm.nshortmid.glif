@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.nshortmid" format="2">
+  <advance width="491.69592"/>
+  <outline>
+    <contour>
+      <point x="222.588" y="0.0" type="line"/>
+      <point x="269.10792" y="0.0" type="line"/>
+      <point x="269.10792" y="196.2468" type="line"/>
+      <point x="386.33112" y="254.86811999999998" type="line"/>
+      <point x="386.33112" y="307.07424000000003" type="line"/>
+      <point x="269.10792" y="248.46264" type="line"/>
+      <point x="269.10792" y="421.44947999999994" type="line"/>
+      <point x="222.588" y="421.44947999999994" type="line"/>
+      <point x="222.588" y="225.20268" type="line"/>
+      <point x="105.3648" y="166.59107999999998" type="line"/>
+      <point x="105.3648" y="114.38496" type="line"/>
+      <point x="222.588" y="172.99656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

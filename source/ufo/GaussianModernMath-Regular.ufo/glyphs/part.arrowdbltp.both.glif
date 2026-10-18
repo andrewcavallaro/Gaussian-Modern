@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="part.arrowdbltp.both" format="2">
+  <advance width="625.968"/>
+  <outline>
+    <contour>
+      <point x="301.32" y="546.264" type="line"/>
+      <point x="243.0" y="459.75600000000003"/>
+      <point x="164.268" y="383.94000000000005"/>
+      <point x="67.068" y="344.088" type="curve"/>
+      <point x="67.068" y="290.62800000000004" type="line"/>
+      <point x="104.00399999999999" y="305.208"/>
+      <point x="138.996" y="321.732"/>
+      <point x="172.04399999999998" y="344.088" type="curve"/>
+      <point x="172.04399999999998" y="0.0" type="line"/>
+      <point x="218.7" y="0.0" type="line"/>
+      <point x="218.7" y="381.024" type="line"/>
+      <point x="312.984" y="481.14" type="line"/>
+      <point x="407.268" y="381.024" type="line"/>
+      <point x="407.268" y="0.0" type="line"/>
+      <point x="453.924" y="0.0" type="line"/>
+      <point x="453.924" y="344.088" type="line"/>
+      <point x="486.972" y="321.732"/>
+      <point x="521.9639999999999" y="305.208"/>
+      <point x="558.9" y="290.62800000000004" type="curve"/>
+      <point x="558.9" y="344.088" type="line"/>
+      <point x="461.7" y="383.94000000000005"/>
+      <point x="382.968" y="459.75600000000003"/>
+      <point x="324.64799999999997" y="546.264" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

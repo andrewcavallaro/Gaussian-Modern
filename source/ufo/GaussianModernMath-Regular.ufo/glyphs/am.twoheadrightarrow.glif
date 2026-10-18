@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.twoheadrightarrow" format="2">
+  <advance width="835.92"/>
+  <unicode hex="21A0"/>
+  <outline>
+    <contour>
+      <point x="769.824" y="280.908" type="line"/>
+      <point x="566.6759999999999" y="398.52" type="line"/>
+      <point x="613.332" y="304.236" type="line"/>
+      <point x="566.6759999999999" y="304.236" type="line"/>
+      <point x="404.352" y="398.52" type="line"/>
+      <point x="451.008" y="304.236" type="line"/>
+      <point x="67.068" y="304.236" type="line"/>
+      <point x="67.068" y="257.58" type="line"/>
+      <point x="451.008" y="257.58" type="line"/>
+      <point x="404.352" y="163.296" type="line"/>
+      <point x="566.6759999999999" y="257.58" type="line"/>
+      <point x="613.332" y="257.58" type="line"/>
+      <point x="566.6759999999999" y="163.296" type="line"/>
+    </contour>
+  </outline>
+</glyph>

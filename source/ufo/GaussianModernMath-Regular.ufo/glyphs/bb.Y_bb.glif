@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bb.Ybb" format="2">
+  <advance width="732.888"/>
+  <unicode hex="1D550"/>
+  <outline>
+    <contour>
+      <point x="467.532" y="277.02" type="line"/>
+      <point x="703.728" y="702.756" type="line"/>
+      <point x="649.2959999999999" y="702.756" type="line"/>
+      <point x="455.868" y="352.836" type="line"/>
+      <point x="246.888" y="702.756" type="line"/>
+      <point x="29.16" y="702.756" type="line"/>
+      <point x="280.908" y="277.02" type="line"/>
+      <point x="280.908" y="0.0" type="line"/>
+      <point x="467.532" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="327.56399999999996" y="46.656" type="line"/>
+      <point x="327.56399999999996" y="290.628" type="line"/>
+      <point x="110.80799999999999" y="656.1" type="line"/>
+      <point x="220.644" y="656.1" type="line"/>
+      <point x="420.876" y="316.872" type="line"/>
+      <point x="420.876" y="46.656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

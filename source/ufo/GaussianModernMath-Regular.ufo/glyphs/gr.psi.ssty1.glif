@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gr.psi.ssty1" format="2">
+  <advance width="899.6831999999999"/>
+  <outline>
+    <contour>
+      <point x="300.23136" y="-187.596" type="line"/>
+      <point x="398.28672000000006" y="-187.596" type="line"/>
+      <point x="436.70016000000004" y="0.0" type="line"/>
+      <point x="635.84352" y="21.384"/>
+      <point x="756.13824" y="134.136"/>
+      <point x="798.5952" y="338.256" type="curve" smooth="yes"/>
+      <point x="834.9868799999999" y="515.16" type="line"/>
+      <point x="737.9424" y="515.16" type="line"/>
+      <point x="697.5072" y="323.676" type="line" smooth="yes"/>
+      <point x="677.2896000000001" y="221.61599999999999"/>
+      <point x="647.9740800000001" y="149.688"/>
+      <point x="610.57152" y="107.892" type="curve" smooth="yes"/>
+      <point x="573.1689600000001" y="65.124"/>
+      <point x="517.57056" y="39.852"/>
+      <point x="442.76544" y="33.048" type="curve"/>
+      <point x="562.0492800000001" y="608.472" type="line"/>
+      <point x="465.00480000000005" y="608.472" type="line"/>
+      <point x="345.72096" y="33.048" type="line"/>
+      <point x="239.57856" y="47.628"/>
+      <point x="187.0128" y="99.14399999999999"/>
+      <point x="187.0128" y="187.596" type="curve" smooth="yes"/>
+      <point x="187.0128" y="209.952"/>
+      <point x="192.0672" y="248.832"/>
+      <point x="204.19776" y="303.264" type="curve" smooth="yes"/>
+      <point x="247.66559999999998" y="515.16" type="line"/>
+      <point x="149.61024" y="515.16" type="line"/>
+      <point x="113.21856000000001" y="334.368" type="line" smooth="yes"/>
+      <point x="101.08800000000001" y="278.964"/>
+      <point x="96.0336" y="237.168"/>
+      <point x="96.0336" y="208.98" type="curve" smooth="yes"/>
+      <point x="96.0336" y="85.536"/>
+      <point x="176.904" y="16.524"/>
+      <point x="338.64480000000003" y="0.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

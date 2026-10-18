@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.Finv" format="2">
+  <advance width="645.408"/>
+  <unicode hex="2132"/>
+  <outline>
+    <contour>
+      <point x="539.46" y="702.756" type="line"/>
+      <point x="469.476" y="702.756" type="line"/>
+      <point x="469.476" y="388.8" type="line"/>
+      <point x="117.612" y="388.8" type="line"/>
+      <point x="117.612" y="330.48" type="line"/>
+      <point x="469.476" y="330.48" type="line"/>
+      <point x="469.476" y="58.32" type="line"/>
+      <point x="104.976" y="58.32" type="line"/>
+      <point x="104.976" y="0.0" type="line"/>
+      <point x="539.46" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

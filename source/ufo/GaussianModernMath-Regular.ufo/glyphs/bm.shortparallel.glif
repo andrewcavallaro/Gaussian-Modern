@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.shortparallel" format="2">
+  <advance width="561.93264"/>
+  <outline>
+    <contour>
+      <point x="158.0472" y="0.0" type="line"/>
+      <point x="205.03368" y="0.0" type="line"/>
+      <point x="205.03368" y="421.44947999999994" type="line"/>
+      <point x="158.0472" y="421.44947999999994" type="line"/>
+    </contour>
+    <contour>
+      <point x="356.90868" y="0.0" type="line"/>
+      <point x="403.89516" y="0.0" type="line"/>
+      <point x="403.89516" y="421.44947999999994" type="line"/>
+      <point x="356.90868" y="421.44947999999994" type="line"/>
+    </contour>
+  </outline>
+</glyph>

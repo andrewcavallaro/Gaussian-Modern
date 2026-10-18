@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.diamond" format="2">
+  <advance width="836.8919999999999"/>
+  <unicode hex="2666"/>
+  <outline>
+    <contour>
+      <point x="769.824" y="350.892" type="line"/>
+      <point x="697.896" y="397.548"/>
+      <point x="628.884" y="450.036"/>
+      <point x="574.452" y="515.16" type="curve" smooth="yes"/>
+      <point x="418.932" y="702.756" type="line"/>
+      <point x="372.276" y="630.828"/>
+      <point x="319.788" y="561.816"/>
+      <point x="254.664" y="507.384" type="curve" smooth="yes"/>
+      <point x="67.068" y="350.892" type="line"/>
+      <point x="138.996" y="305.20799999999997"/>
+      <point x="208.98" y="252.72"/>
+      <point x="263.412" y="186.624" type="curve" smooth="yes"/>
+      <point x="418.932" y="0.0" type="line"/>
+      <point x="464.616" y="71.928"/>
+      <point x="518.076" y="140.94"/>
+      <point x="583.1999999999999" y="195.37199999999999" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="657.072" y="350.892" type="curve"/>
+      <point x="566.6759999999999" y="283.824"/>
+      <point x="486.0" y="203.148"/>
+      <point x="418.932" y="112.752" type="curve"/>
+      <point x="350.892" y="203.148"/>
+      <point x="271.188" y="283.824"/>
+      <point x="179.82" y="350.892" type="curve"/>
+      <point x="270.216" y="420.876"/>
+      <point x="357.69599999999997" y="498.63599999999997"/>
+      <point x="418.932" y="595.836" type="curve"/>
+      <point x="480.168" y="498.63599999999997"/>
+      <point x="566.6759999999999" y="420.876"/>
+    </contour>
+  </outline>
+</glyph>

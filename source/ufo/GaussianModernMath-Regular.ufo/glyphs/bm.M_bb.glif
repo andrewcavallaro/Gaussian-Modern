@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.Mbb" format="2">
+  <advance width="995.328"/>
+  <outline>
+    <contour>
+      <point x="158.436" y="524.88" type="line"/>
+      <point x="343.116" y="46.656" type="line"/>
+      <point x="513.216" y="46.656" type="line"/>
+      <point x="696.924" y="562.788" type="line"/>
+      <point x="696.924" y="0.0" type="line"/>
+      <point x="884.52" y="0.0" type="line"/>
+      <point x="884.52" y="702.756" type="line"/>
+      <point x="696.924" y="702.756" type="line"/>
+      <point x="501.55199999999996" y="159.408" type="line"/>
+      <point x="292.572" y="702.756" type="line"/>
+      <point x="110.80799999999999" y="702.756" type="line"/>
+      <point x="110.80799999999999" y="0.0" type="line"/>
+      <point x="158.436" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="743.5799999999999" y="46.656" type="line"/>
+      <point x="743.5799999999999" y="656.1" type="line"/>
+      <point x="836.8919999999999" y="656.1" type="line"/>
+      <point x="836.8919999999999" y="46.656" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.164" y="93.312" type="line"/>
+      <point x="158.436" y="656.1" type="line"/>
+      <point x="259.524" y="656.1" type="line"/>
+      <point x="476.28" y="93.312" type="line"/>
+    </contour>
+  </outline>
+</glyph>

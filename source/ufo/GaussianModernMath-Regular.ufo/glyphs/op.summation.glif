@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="op.summation" format="2">
+  <advance width="902.016"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="833.976" y="-199.168" type="line"/>
+      <point x="828.144" y="-58.22799999999995" type="line"/>
+      <point x="775.656" y="-64.05999999999995" type="line"/>
+      <point x="769.824" y="-111.68799999999999" type="line"/>
+      <point x="699.84" y="-117.51999999999998" type="line"/>
+      <point x="167.184" y="-117.51999999999998" type="line"/>
+      <point x="555.984" y="286.832" type="line"/>
+      <point x="222.588" y="702.848" type="line"/>
+      <point x="634.716" y="702.848" type="line"/>
+      <point x="729.0" y="697.0160000000001" type="line"/>
+      <point x="734.832" y="650.36" type="line"/>
+      <point x="787.3199999999999" y="644.528" type="line"/>
+      <point x="793.1519999999999" y="761.168" type="line"/>
+      <point x="90.396" y="761.168" type="line"/>
+      <point x="90.396" y="707.708" type="line"/>
+      <point x="449.06399999999996" y="249.89600000000002" type="line"/>
+      <point x="67.068" y="-148.62400000000002" type="line"/>
+      <point x="67.068" y="-199.168" type="line"/>
+    </contour>
+  </outline>
+</glyph>

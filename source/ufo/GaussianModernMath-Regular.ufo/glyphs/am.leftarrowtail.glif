@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.leftarrowtail" format="2">
+  <advance width="835.92"/>
+  <unicode hex="21A2"/>
+  <outline>
+    <contour>
+      <point x="67.068" y="280.908" type="line"/>
+      <point x="269.24399999999997" y="163.296" type="line"/>
+      <point x="223.56" y="257.58" type="line"/>
+      <point x="609.444" y="257.58" type="line"/>
+      <point x="703.728" y="163.296" type="line"/>
+      <point x="769.824" y="163.296" type="line"/>
+      <point x="652.212" y="280.908" type="line"/>
+      <point x="769.824" y="398.52" type="line"/>
+      <point x="703.728" y="398.52" type="line"/>
+      <point x="609.444" y="304.236" type="line"/>
+      <point x="223.56" y="304.236" type="line"/>
+      <point x="269.24399999999997" y="398.52" type="line"/>
+    </contour>
+  </outline>
+</glyph>

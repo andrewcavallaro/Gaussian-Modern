@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.nleqq" format="2">
+  <advance width="742.608"/>
+  <outline>
+    <contour>
+      <point x="653.184" y="737.7479999999999" type="line"/>
+      <point x="507.44231999999994" y="679.6029599999999" type="line"/>
+      <point x="546.264" y="796.068" type="line"/>
+      <point x="496.692" y="796.068" type="line"/>
+      <point x="450.26928" y="656.79012" type="line"/>
+      <point x="90.396" y="513.216" type="line"/>
+      <point x="365.64696" y="402.92315999999994" type="line"/>
+      <point x="305.52876" y="222.588" type="line"/>
+      <point x="90.396" y="222.588" type="line"/>
+      <point x="90.396" y="175.932" type="line"/>
+      <point x="289.97675999999996" y="175.932" type="line"/>
+      <point x="246.888" y="46.656" type="line"/>
+      <point x="90.396" y="46.656" type="line"/>
+      <point x="90.396" y="0.0" type="line"/>
+      <point x="231.33599999999998" y="0.0" type="line"/>
+      <point x="196.344" y="-104.976" type="line"/>
+      <point x="245.916" y="-104.976" type="line"/>
+      <point x="280.908" y="0.0" type="line"/>
+      <point x="653.184" y="0.0" type="line"/>
+      <point x="653.184" y="46.656" type="line"/>
+      <point x="296.46" y="46.656" type="line"/>
+      <point x="339.54875999999996" y="175.932" type="line"/>
+      <point x="653.184" y="175.932" type="line"/>
+      <point x="653.184" y="222.588" type="line"/>
+      <point x="355.10076" y="222.588" type="line"/>
+      <point x="409.37724000000003" y="385.40772" type="line"/>
+      <point x="653.184" y="287.712" type="line"/>
+      <point x="653.184" y="338.256" type="line"/>
+      <point x="424.16136" y="429.76007999999996" type="line"/>
+      <point x="487.82736" y="620.7678" type="line"/>
+      <point x="653.184" y="687.204" type="line"/>
+    </contour>
+    <contour>
+      <point x="380.41164" y="447.23663999999997" type="line"/>
+      <point x="217.728" y="512.244" type="line"/>
+      <point x="430.596" y="597.77028" type="line"/>
+    </contour>
+  </outline>
+</glyph>

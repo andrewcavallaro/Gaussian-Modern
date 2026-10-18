@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mi.vector" format="2">
+  <advance width="561.816"/>
+  <unicode hex="20D7"/>
+  <outline>
+    <contour>
+      <point x="104.976" y="667.764" type="line"/>
+      <point x="368.388" y="667.764" type="line"/>
+      <point x="368.388" y="596.808" type="line"/>
+      <point x="456.84" y="685.26" type="line"/>
+      <point x="368.388" y="772.74" type="line"/>
+      <point x="368.388" y="702.756" type="line"/>
+      <point x="104.976" y="702.756" type="line"/>
+    </contour>
+  </outline>
+</glyph>

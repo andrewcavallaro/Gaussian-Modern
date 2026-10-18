@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.nleqslant" format="2">
+  <advance width="742.608"/>
+  <outline>
+    <contour>
+      <point x="653.184" y="600.696" type="line"/>
+      <point x="454.7502" y="521.5265999999999" type="line"/>
+      <point x="546.264" y="796.068" type="line"/>
+      <point x="496.692" y="796.068" type="line"/>
+      <point x="397.57715999999994" y="498.71376000000004" type="line"/>
+      <point x="90.396" y="376.164" type="line"/>
+      <point x="325.46448" y="282.38543999999996" type="line"/>
+      <point x="295.72128" y="193.15583999999998" type="line"/>
+      <point x="90.396" y="275.07599999999996" type="line"/>
+      <point x="90.396" y="224.53199999999998" type="line"/>
+      <point x="280.84968" y="148.55076" type="line"/>
+      <point x="196.344" y="-104.976" type="line"/>
+      <point x="245.916" y="-104.976" type="line"/>
+      <point x="324.60911999999996" y="131.09364" type="line"/>
+      <point x="653.184" y="0.0" type="line"/>
+      <point x="653.184" y="50.544" type="line"/>
+      <point x="339.471" y="175.69871999999998" type="line"/>
+      <point x="369.2142" y="264.92832" type="line"/>
+      <point x="653.184" y="151.632" type="line"/>
+      <point x="653.184" y="202.176" type="line"/>
+      <point x="384.13439999999997" y="309.67920000000004" type="line"/>
+      <point x="435.27132" y="463.08024" type="line"/>
+      <point x="653.184" y="550.1519999999999" type="line"/>
+    </contour>
+    <contour>
+      <point x="340.38468" y="327.15576" type="line"/>
+      <point x="217.728" y="376.164" type="line"/>
+      <point x="378.07884" y="440.23824" type="line"/>
+    </contour>
+  </outline>
+</glyph>

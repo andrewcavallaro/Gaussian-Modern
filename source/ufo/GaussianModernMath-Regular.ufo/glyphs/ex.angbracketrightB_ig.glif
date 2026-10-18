@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.angbracketrightBig" format="2">
+  <advance width="633.744"/>
+  <outline>
+    <contour>
+      <point x="72.89999999999999" y="-518.47" type="line"/>
+      <point x="160.38" y="-518.47" type="line"/>
+      <point x="450.036" y="281.4860000000001" type="line"/>
+      <point x="160.38" y="1080.47" type="line"/>
+      <point x="72.89999999999999" y="1080.47" type="line"/>
+      <point x="361.584" y="281.4860000000001" type="line"/>
+    </contour>
+  </outline>
+</glyph>

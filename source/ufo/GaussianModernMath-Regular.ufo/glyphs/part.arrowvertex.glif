@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="part.arrowvertex" format="2">
+  <advance width="434.484"/>
+  <outline>
+    <contour>
+      <point x="182.736" y="0.0" type="line"/>
+      <point x="252.72" y="0.0" type="line"/>
+      <point x="252.72" y="565.704" type="line"/>
+      <point x="182.736" y="565.704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

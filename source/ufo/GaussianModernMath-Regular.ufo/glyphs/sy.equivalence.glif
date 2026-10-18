@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.equivalence" format="2">
+  <advance width="695.952"/>
+  <unicode hex="2261"/>
+  <outline>
+    <contour>
+      <point x="67.068" y="81.648" type="line"/>
+      <point x="628.884" y="81.648" type="line"/>
+      <point x="628.884" y="128.304" type="line"/>
+      <point x="67.068" y="128.304" type="line"/>
+    </contour>
+    <contour>
+      <point x="67.068" y="257.58" type="line"/>
+      <point x="628.884" y="257.58" type="line"/>
+      <point x="628.884" y="304.236" type="line"/>
+      <point x="67.068" y="304.236" type="line"/>
+    </contour>
+    <contour>
+      <point x="67.068" y="433.512" type="line"/>
+      <point x="628.884" y="433.512" type="line"/>
+      <point x="628.884" y="480.168" type="line"/>
+      <point x="67.068" y="480.168" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.upharpoonright" format="2">
+  <advance width="341.17199999999997"/>
+  <unicode hex="21BE"/>
+  <outline>
+    <contour>
+      <point x="134.136" y="702.756" type="line"/>
+      <point x="134.136" y="0.0" type="line"/>
+      <point x="180.792" y="0.0" type="line"/>
+      <point x="180.792" y="506.412" type="line"/>
+      <point x="274.104" y="458.784" type="line"/>
+    </contour>
+  </outline>
+</glyph>

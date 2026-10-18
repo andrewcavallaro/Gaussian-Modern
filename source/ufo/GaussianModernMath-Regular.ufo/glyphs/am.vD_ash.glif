@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.vDash" format="2">
+  <advance width="695.952"/>
+  <unicode hex="22A8"/>
+  <outline>
+    <contour>
+      <point x="67.068" y="0.0" type="line"/>
+      <point x="113.724" y="0.0" type="line"/>
+      <point x="113.724" y="163.296" type="line"/>
+      <point x="628.884" y="163.296" type="line"/>
+      <point x="628.884" y="210.924" type="line"/>
+      <point x="113.724" y="210.924" type="line"/>
+      <point x="113.724" y="350.892" type="line"/>
+      <point x="628.884" y="350.892" type="line"/>
+      <point x="628.884" y="398.52" type="line"/>
+      <point x="113.724" y="398.52" type="line"/>
+      <point x="113.724" y="561.816" type="line"/>
+      <point x="67.068" y="561.816" type="line"/>
+    </contour>
+  </outline>
+</glyph>

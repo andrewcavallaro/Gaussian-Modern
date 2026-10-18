@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.floorleft" format="2">
+  <advance width="475.308"/>
+  <unicode hex="230A"/>
+  <outline>
+    <contour>
+      <point x="442.26" y="-140.94" type="line"/>
+      <point x="442.26" y="-93.312" type="line"/>
+      <point x="277.992" y="-93.312" type="line"/>
+      <point x="277.992" y="749.412" type="line"/>
+      <point x="208.00799999999998" y="749.412" type="line"/>
+      <point x="208.00799999999998" y="-140.94" type="line"/>
+    </contour>
+  </outline>
+</glyph>

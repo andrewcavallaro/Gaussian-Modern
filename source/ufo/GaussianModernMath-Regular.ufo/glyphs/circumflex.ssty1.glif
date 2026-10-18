@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.ssty1" format="2">
+  <advance width="607.842352"/>
+  <outline>
+    <contour>
+      <point x="139.89029599999998" y="612.459585492228" type="line"/>
+      <point x="182.249808" y="612.459585492228" type="line"/>
+      <point x="303.921176" y="709.6564766839379" type="line"/>
+      <point x="425.592544" y="612.459585492228" type="line"/>
+      <point x="467.95205599999997" y="612.459585492228" type="line"/>
+      <point x="358.598136" y="745.0" type="line"/>
+      <point x="249.244216" y="745.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,72 @@
+[
+  {
+    "file": "fonts/otf/GaussianModern-Italic.otf",
+    "glyphs": 311,
+    "unicode_mappings": 303,
+    "math": false,
+    "sha256": "aa1546daf11afb69c5066a0e2b61e624e9cbab7c721635fd52eb1cb422c8d092"
+  },
+  {
+    "file": "fonts/otf/GaussianModern-Regular.otf",
+    "glyphs": 311,
+    "unicode_mappings": 303,
+    "math": false,
+    "sha256": "a9f5fa4ae42e7d18126fba9d060208d0ecd80b7c7fda86e8cf62cd211864a596"
+  },
+  {
+    "file": "fonts/otf/GaussianModern-Semibold.otf",
+    "glyphs": 311,
+    "unicode_mappings": 303,
+    "math": false,
+    "sha256": "1f6ffe5cb2f5d393938d7cff2b484400c6ce7497c7eedf11f3b1aa1a843eb193"
+  },
+  {
+    "file": "fonts/otf/GaussianModern-SemiboldItalic.otf",
+    "glyphs": 311,
+    "unicode_mappings": 303,
+    "math": false,
+    "sha256": "2368a862c759122d47ecd592a3df780134f83a0b6d5b3db565052606e8870223"
+  },
+  {
+    "file": "fonts/otf/GaussianModernMath-Regular.otf",
+    "glyphs": 2403,
+    "unicode_mappings": 981,
+    "math": true,
+    "sha256": "4156ddab8443ea43cce5f0daadec9c278feb4b97c6b189ed3c31bf4f66cdb2f5"
+  },
+  {
+    "file": "fonts/ttf/GaussianModern-Italic.ttf",
+    "glyphs": 311,
+    "unicode_mappings": 303,
+    "math": false,
+    "sha256": "467418b99523ff7a6d428149109318299ac3633694bb1f7fc465b732866a667e"
+  },
+  {
+    "file": "fonts/ttf/GaussianModern-Regular.ttf",
+    "glyphs": 311,
+    "unicode_mappings": 303,
+    "math": false,
+    "sha256": "bbd89c7c68f6ecefa3aec53c7b0251c30d6591c780a6f0f4088777474e24ee44"
+  },
+  {
+    "file": "fonts/ttf/GaussianModern-Semibold.ttf",
+    "glyphs": 311,
+    "unicode_mappings": 303,
+    "math": false,
+    "sha256": "3311202bdc64712ead21491b1587b1a91133f36efe809c9ae90bd7da5903eace"
+  },
+  {
+    "file": "fonts/ttf/GaussianModern-SemiboldItalic.ttf",
+    "glyphs": 311,
+    "unicode_mappings": 303,
+    "math": false,
+    "sha256": "d2142f370f1cbd29c9c510d73e14e79ba11194e9e67190fcaea16ccc18cdf681"
+  },
+  {
+    "file": "fonts/ttf/GaussianModernMath-Regular.ttf",
+    "glyphs": 2403,
+    "unicode_mappings": 981,
+    "math": true,
+    "sha256": "d66784cb334b93563e63831a3e74236c77f5f65a03d54e159c8e5f5c3915436c"
+  }
+]

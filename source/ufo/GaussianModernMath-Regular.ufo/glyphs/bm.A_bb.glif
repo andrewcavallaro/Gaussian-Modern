@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.Abb" format="2">
+  <advance width="763.02"/>
+  <outline>
+    <contour>
+      <point x="84.564" y="0.0" type="line"/>
+      <point x="170.1" y="187.596" type="line"/>
+      <point x="439.344" y="187.596" type="line"/>
+      <point x="522.936" y="0.0" type="line"/>
+      <point x="730.944" y="0.0" type="line"/>
+      <point x="412.128" y="702.756" type="line"/>
+      <point x="349.92" y="702.756" type="line"/>
+      <point x="32.076" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="555.012" y="46.656" type="line"/>
+      <point x="329.508" y="541.404" type="line"/>
+      <point x="381.996" y="655.1279999999999" type="line"/>
+      <point x="659.016" y="46.656" type="line"/>
+    </contour>
+    <contour>
+      <point x="190.512" y="234.25199999999998" type="line"/>
+      <point x="304.236" y="485.02799999999996" type="line"/>
+      <point x="417.96" y="234.25199999999998" type="line"/>
+    </contour>
+  </outline>
+</glyph>

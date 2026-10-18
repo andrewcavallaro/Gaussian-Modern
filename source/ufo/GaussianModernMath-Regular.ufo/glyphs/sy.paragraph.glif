@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.paragraph" format="2">
+  <advance width="590.976"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="263.412" y="-140.94" type="line"/>
+      <point x="298.404" y="-140.94" type="line"/>
+      <point x="298.404" y="656.1" type="line"/>
+      <point x="416.01599999999996" y="656.1" type="line"/>
+      <point x="416.01599999999996" y="-140.94" type="line"/>
+      <point x="451.008" y="-140.94" type="line"/>
+      <point x="451.008" y="702.756" type="line"/>
+      <point x="344.08799999999997" y="702.756" type="line"/>
+      <point x="287.712" y="703.728" type="line"/>
+      <point x="203.148" y="705.672" type="line" smooth="yes"/>
+      <point x="95.256" y="705.672"/>
+      <point x="40.824" y="653.184"/>
+      <point x="40.824" y="549.18" type="curve" smooth="yes"/>
+      <point x="40.824" y="489.888"/>
+      <point x="61.236" y="442.26"/>
+      <point x="102.06" y="405.324" type="curve" smooth="yes"/>
+      <point x="142.884" y="369.36"/>
+      <point x="197.316" y="350.892"/>
+      <point x="263.412" y="350.892" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

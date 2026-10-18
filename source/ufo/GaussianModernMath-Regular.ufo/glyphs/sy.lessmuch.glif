@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.lessmuch" format="2">
+  <advance width="1066.2839999999999"/>
+  <unicode hex="226A"/>
+  <outline>
+    <contour>
+      <point x="971.028" y="0.0" type="line"/>
+      <point x="971.028" y="52.488" type="line"/>
+      <point x="514.188" y="280.908" type="line"/>
+      <point x="971.028" y="509.328" type="line"/>
+      <point x="971.028" y="561.816" type="line"/>
+      <point x="408.24" y="280.908" type="line"/>
+    </contour>
+    <contour>
+      <point x="656.1" y="0.0" type="line"/>
+      <point x="656.1" y="52.488" type="line"/>
+      <point x="200.232" y="280.908" type="line"/>
+      <point x="656.1" y="509.328" type="line"/>
+      <point x="656.1" y="561.816" type="line"/>
+      <point x="94.28399999999999" y="280.908" type="line"/>
+    </contour>
+  </outline>
+</glyph>

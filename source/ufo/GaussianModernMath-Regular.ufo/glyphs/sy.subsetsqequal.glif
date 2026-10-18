@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.subsetsqequal" format="2">
+  <advance width="743.5799999999999"/>
+  <unicode hex="2291"/>
+  <outline>
+    <contour>
+      <point x="90.396" y="163.296" type="line"/>
+      <point x="653.184" y="163.296" type="line"/>
+      <point x="653.184" y="210.924" type="line"/>
+      <point x="138.024" y="210.924" type="line"/>
+      <point x="138.024" y="515.16" type="line"/>
+      <point x="653.184" y="515.16" type="line"/>
+      <point x="653.184" y="561.816" type="line"/>
+      <point x="90.396" y="561.816" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.396" y="0.0" type="line"/>
+      <point x="653.184" y="0.0" type="line"/>
+      <point x="653.184" y="46.656" type="line"/>
+      <point x="90.396" y="46.656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

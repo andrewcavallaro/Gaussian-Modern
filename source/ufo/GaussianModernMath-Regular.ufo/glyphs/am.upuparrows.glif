@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.upuparrows" format="2">
+  <advance width="602.64"/>
+  <unicode hex="21C8"/>
+  <outline>
+    <contour>
+      <point x="183.708" y="702.756" type="line"/>
+      <point x="67.068" y="499.608" type="line"/>
+      <point x="160.38" y="547.236" type="line"/>
+      <point x="160.38" y="0.0" type="line"/>
+      <point x="207.036" y="0.0" type="line"/>
+      <point x="207.036" y="547.236" type="line"/>
+      <point x="301.32" y="499.608" type="line"/>
+      <point x="394.632" y="547.236" type="line"/>
+      <point x="394.632" y="0.0" type="line"/>
+      <point x="442.26" y="0.0" type="line"/>
+      <point x="442.26" y="547.236" type="line"/>
+      <point x="535.572" y="499.608" type="line"/>
+      <point x="417.96" y="702.756" type="line"/>
+      <point x="301.32" y="499.608" type="line"/>
+    </contour>
+  </outline>
+</glyph>

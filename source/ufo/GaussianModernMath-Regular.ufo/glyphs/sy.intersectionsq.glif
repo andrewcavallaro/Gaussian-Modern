@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.intersectionsq" format="2">
+  <advance width="706.644"/>
+  <unicode hex="2293"/>
+  <outline>
+    <contour>
+      <point x="95.256" y="0.0" type="line"/>
+      <point x="142.884" y="0.0" type="line"/>
+      <point x="142.884" y="491.832" type="line"/>
+      <point x="563.76" y="491.832" type="line"/>
+      <point x="563.76" y="0.0" type="line"/>
+      <point x="611.388" y="0.0" type="line"/>
+      <point x="611.388" y="538.4879999999999" type="line"/>
+      <point x="95.256" y="538.4879999999999" type="line"/>
+    </contour>
+  </outline>
+</glyph>

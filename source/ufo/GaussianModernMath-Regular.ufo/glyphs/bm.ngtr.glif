@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.ngtr" format="2">
+  <advance width="746.496"/>
+  <unicode hex="226F"/>
+  <outline>
+    <contour>
+      <point x="92.34" y="0.0" type="line"/>
+      <point x="275.562" y="91.611" type="line"/>
+      <point x="221.61599999999999" y="-69.984" type="line"/>
+      <point x="270.216" y="-69.984" type="line"/>
+      <point x="333.90144" y="120.78072" type="line"/>
+      <point x="654.156" y="280.908" type="line"/>
+      <point x="425.52216" y="395.22492" type="line"/>
+      <point x="481.14" y="561.816" type="line"/>
+      <point x="432.53999999999996" y="561.816" type="line"/>
+      <point x="383.87196" y="416.04515999999995" type="line"/>
+      <point x="92.34" y="561.816" type="line"/>
+      <point x="92.34" y="509.328" type="line"/>
+      <point x="369.02952" y="371.57615999999996" type="line"/>
+      <point x="296.77103999999997" y="155.14092000000002" type="line"/>
+      <point x="92.34" y="52.488" type="line"/>
+    </contour>
+    <contour>
+      <point x="355.15907999999996" y="184.45644000000001" type="line"/>
+      <point x="410.69915999999995" y="350.82396" type="line"/>
+      <point x="549.18" y="281.88" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.uniondisplay" format="2">
+  <advance width="1067.256"/>
+  <outline>
+    <contour>
+      <point x="902.9879999999999" y="930.782" type="line"/>
+      <point x="902.9879999999999" y="116.2460000000001" type="line" smooth="yes"/>
+      <point x="902.9879999999999" y="-86.90199999999993"/>
+      <point x="747.468" y="-263.8059999999999"/>
+      <point x="533.628" y="-263.8059999999999" type="curve" smooth="yes"/>
+      <point x="319.788" y="-263.8059999999999"/>
+      <point x="164.268" y="-86.90199999999993"/>
+      <point x="164.268" y="116.2460000000001" type="curve" smooth="yes"/>
+      <point x="164.268" y="930.782" type="line"/>
+      <point x="59.292" y="930.782" type="line"/>
+      <point x="59.292" y="118.19000000000005" type="line" smooth="yes"/>
+      <point x="59.292" y="-139.39"/>
+      <point x="253.692" y="-368.78200000000004"/>
+      <point x="533.628" y="-368.78200000000004" type="curve" smooth="yes"/>
+      <point x="813.564" y="-368.78200000000004"/>
+      <point x="1007.9639999999999" y="-139.39"/>
+      <point x="1007.9639999999999" y="118.19000000000005" type="curve" smooth="yes"/>
+      <point x="1007.9639999999999" y="930.782" type="line"/>
+    </contour>
+  </outline>
+</glyph>

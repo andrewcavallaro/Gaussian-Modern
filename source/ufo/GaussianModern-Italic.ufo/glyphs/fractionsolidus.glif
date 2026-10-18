@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fractionsolidus" format="2">
+  <advance width="35.0461"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="-280.40916857142855" y="-20.651428571428568" type="line"/>
+      <point x="-215.99146857142856" y="-20.651428571428568" type="line"/>
+      <point x="439.73384166666665" y="722.9208333333333" type="line"/>
+      <point x="374.3655416666666" y="722.9208333333333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

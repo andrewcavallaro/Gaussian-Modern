@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.trianglerighteq" format="2">
+  <advance width="695.952"/>
+  <unicode hex="22B5"/>
+  <outline>
+    <contour>
+      <point x="67.068" y="112.752" type="line"/>
+      <point x="628.884" y="337.284" type="line"/>
+      <point x="67.068" y="561.816" type="line"/>
+    </contour>
+    <contour>
+      <point x="67.068" y="0.0" type="line"/>
+      <point x="628.884" y="0.0" type="line"/>
+      <point x="628.884" y="46.656" type="line"/>
+      <point x="67.068" y="46.656" type="line"/>
+    </contour>
+    <contour>
+      <point x="113.724" y="181.76399999999998" type="line"/>
+      <point x="113.724" y="492.804" type="line"/>
+      <point x="503.496" y="337.284" type="line"/>
+    </contour>
+  </outline>
+</glyph>

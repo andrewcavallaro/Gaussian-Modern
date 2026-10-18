@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="part.radicaltp" format="2">
+  <advance width="772.74"/>
+  <outline>
+    <contour>
+      <point x="618.192" y="0.0" type="line"/>
+      <point x="664.848" y="0.0" type="line"/>
+      <point x="664.848" y="546.264" type="line"/>
+      <point x="770.7959999999999" y="546.264" type="line"/>
+      <point x="770.7959999999999" y="592.92" type="line"/>
+      <point x="618.192" y="592.92" type="line"/>
+    </contour>
+  </outline>
+</glyph>

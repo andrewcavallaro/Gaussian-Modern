@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mi.tau.ssty1" format="2">
+  <advance width="642.9196800000001"/>
+  <outline>
+    <contour>
+      <point x="295.17696" y="0.0" type="curve"/>
+      <point x="415.47168" y="0.0" type="line"/>
+      <point x="375.03648" y="35.964"/>
+      <point x="354.81888" y="77.75999999999999"/>
+      <point x="354.81888" y="125.38799999999999" type="curve" smooth="yes"/>
+      <point x="354.81888" y="141.912"/>
+      <point x="356.84064" y="158.436"/>
+      <point x="358.86240000000004" y="173.016" type="curve"/>
+      <point x="415.47168" y="445.176" type="line"/>
+      <point x="639.88704" y="445.176" type="line"/>
+      <point x="639.88704" y="515.16" type="line"/>
+      <point x="269.90496" y="515.16" type="line" smooth="yes"/>
+      <point x="205.20864" y="515.16"/>
+      <point x="161.74079999999998" y="513.216"/>
+      <point x="136.46880000000002" y="507.384" type="curve" smooth="yes"/>
+      <point x="111.19680000000001" y="502.524"/>
+      <point x="86.93568" y="491.832"/>
+      <point x="63.68544" y="474.336" type="curve"/>
+      <point x="63.68544" y="392.688" type="line"/>
+      <point x="103.10976" y="427.68"/>
+      <point x="158.70816" y="445.176"/>
+      <point x="231.49152" y="445.176" type="curve" smooth="yes"/>
+      <point x="318.4272" y="445.176" type="line"/>
+      <point x="267.8832" y="199.26" type="line" smooth="yes"/>
+      <point x="260.80704" y="168.156"/>
+      <point x="257.7744" y="140.94"/>
+      <point x="257.7744" y="118.584" type="curve" smooth="yes"/>
+      <point x="257.7744" y="77.75999999999999"/>
+      <point x="269.90496" y="37.908"/>
+    </contour>
+  </outline>
+</glyph>

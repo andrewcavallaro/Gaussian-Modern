@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.bracerighttp" format="2">
+  <advance width="879.66"/>
+  <outline>
+    <contour>
+      <point x="175.932" y="624.5238679326415" type="line"/>
+      <point x="302.292" y="620.6358679326415"/>
+      <point x="386.856" y="587.5878679326415"/>
+      <point x="387.828" y="292.0998679326415" type="curve" smooth="yes"/>
+      <point x="387.828" y="-132.66413206735854" type="line"/>
+      <point x="527.7959999999999" y="-132.66413206735854" type="line"/>
+      <point x="527.7959999999999" y="230.86386793264148" type="line" smooth="yes"/>
+      <point x="527.7959999999999" y="542.8758679326415"/>
+      <point x="409.212" y="700.3398679326415"/>
+      <point x="175.932" y="694.5078679326415" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

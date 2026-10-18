@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bardbl" format="2">
+  <advance width="649.2695"/>
+  <unicode hex="2016"/>
+  <outline>
+    <contour>
+      <point x="60.46619714285715" y="-165.17714285714288" type="line"/>
+      <point x="136.25229714285715" y="-165.17714285714288" type="line"/>
+      <point x="292.89450000000005" y="745.0" type="line"/>
+      <point x="217.10840000000002" y="745.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="464.3935971428571" y="-165.17714285714288" type="line"/>
+      <point x="540.1796971428571" y="-165.17714285714288" type="line"/>
+      <point x="696.8219" y="745.0" type="line"/>
+      <point x="621.0358" y="745.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

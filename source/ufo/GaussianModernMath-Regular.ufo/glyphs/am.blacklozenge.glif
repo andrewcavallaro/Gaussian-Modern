@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.blacklozenge" format="2">
+  <advance width="655.1279999999999"/>
+  <unicode hex="29EB"/>
+  <outline>
+    <contour>
+      <point x="327.56399999999996" y="-17.496" type="line"/>
+      <point x="588.06" y="350.892" type="line"/>
+      <point x="327.56399999999996" y="720.252" type="line"/>
+      <point x="67.068" y="350.892" type="line"/>
+    </contour>
+  </outline>
+</glyph>

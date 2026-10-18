@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bb.Wbb.ssty2" format="2">
+  <advance width="979.0713"/>
+  <outline>
+    <contour>
+      <point x="481.6989" y="442.26" type="line"/>
+      <point x="653.0625" y="0.0" type="line"/>
+      <point x="730.3851" y="0.0" type="line"/>
+      <point x="935.1854999999999" y="702.756" type="line"/>
+      <point x="882.9405" y="702.756" type="line"/>
+      <point x="759.6423" y="281.88" type="line"/>
+      <point x="596.6379" y="702.756" type="line"/>
+      <point x="525.5847" y="702.756" type="line"/>
+      <point x="369.89459999999997" y="287.712" type="line"/>
+      <point x="252.86579999999998" y="702.756" type="line"/>
+      <point x="43.885799999999996" y="702.756" type="line"/>
+      <point x="242.41679999999997" y="0.0" type="line"/>
+      <point x="317.64959999999996" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="282.123" y="47.628" type="line"/>
+      <point x="109.7145" y="656.1" type="line"/>
+      <point x="214.20449999999997" y="656.1" type="line"/>
+      <point x="340.6374" y="207.036" type="line"/>
+    </contour>
+    <contour>
+      <point x="690.6788999999999" y="47.628" type="line"/>
+      <point x="508.86629999999997" y="513.216" type="line"/>
+      <point x="561.1112999999999" y="656.1" type="line"/>
+      <point x="736.6545" y="203.148" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mi.arrowleftbothalf" format="2">
+  <advance width="835.92"/>
+  <unicode hex="21BD"/>
+  <outline>
+    <contour>
+      <point x="67.068" y="304.236" type="line"/>
+      <point x="310.068" y="163.296" type="line"/>
+      <point x="263.412" y="257.58" type="line"/>
+      <point x="769.824" y="257.58" type="line"/>
+      <point x="769.824" y="304.236" type="line"/>
+    </contour>
+  </outline>
+</glyph>

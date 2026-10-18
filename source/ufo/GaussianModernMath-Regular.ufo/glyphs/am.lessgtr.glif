@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.lessgtr" format="2">
+  <advance width="743.5799999999999"/>
+  <unicode hex="2276"/>
+  <outline>
+    <contour>
+      <point x="91.368" y="377.13599999999997" type="line"/>
+      <point x="91.368" y="326.592" type="line"/>
+      <point x="525.852" y="152.60399999999998" type="line"/>
+      <point x="91.368" y="-22.355999999999998" type="line"/>
+      <point x="91.368" y="-72.89999999999999" type="line"/>
+      <point x="653.184" y="151.632" type="line"/>
+    </contour>
+    <contour>
+      <point x="653.184" y="702.756" type="line"/>
+      <point x="91.368" y="478.224" type="line"/>
+      <point x="653.184" y="252.72" type="line"/>
+      <point x="653.184" y="303.264" type="line"/>
+      <point x="217.728" y="477.252" type="line"/>
+      <point x="653.184" y="652.212" type="line"/>
+    </contour>
+  </outline>
+</glyph>

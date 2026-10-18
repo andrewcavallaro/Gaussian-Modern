@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.arrowup" format="2">
+  <advance width="281.88"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="140.94" y="702.756" type="line"/>
+      <point x="24.3" y="499.608" type="line"/>
+      <point x="117.612" y="547.236" type="line"/>
+      <point x="117.612" y="0.0" type="line"/>
+      <point x="164.268" y="0.0" type="line"/>
+      <point x="164.268" y="547.236" type="line"/>
+      <point x="258.552" y="499.608" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,90 @@
+% gwr10.mf -- Gaussian Modern METAFONT roman, 10 point.
+% Parameters fitted to the type of C. F. Gauss, Werke, Band III
+% (Goettingen, 2nd printing 1876), measured from averaged scans.
+% Glyph programs: D. E. Knuth, Computer Modern (cmbase + roman driver).
+% Units are 1/36pt; x-height = 155 units, so any value / 155 = fraction of x-height.
+if unknown cmbase: input cmbase fi
+
+font_identifier:="GWR"; font_size 10pt#;
+
+u#:=17/36pt#;                 % unit width
+width_adj#:=-2.75/36pt#;      % width adjustment for certain characters
+serif_fit#:=0/36pt#;          % extra sidebar near lowercase serifs
+cap_serif_fit#:=-1.4/36pt#;   % extra sidebar near uppercase serifs
+letter_fit#:=4/36pt#;         % extra space added to all sidebars
+body_height#:=262/36pt#;      % height of tallest characters
+asc_height#:=231/36pt#;       % height of lowercase ascenders
+cap_height#:=229/36pt#;       % height of caps
+fig_height#:=197/36pt#;       % height of numerals
+x_height#:=155/36pt#;         % height of lowercase without ascenders
+math_axis#:=90/36pt#;         % axis of symmetry for math symbols
+bar_height#:=83/36pt#;        % height of crossbar in lowercase e
+comma_depth#:=70/36pt#;       % depth of comma below baseline
+desc_depth#:=75/36pt#;        % depth of lowercase descenders
+crisp#:=0/36pt#;              % diameter of serif corners
+tiny#:=8/36pt#;               % diameter of rounded corners
+fine#:=7/36pt#;               % diameter of sharply rounded corners
+thin_join#:=9/36pt#;          % width of extrafine details
+hair#:=14/36pt#;              % lowercase hairline breadth
+stem#:=33/36pt#;              % lowercase stem breadth
+curve#:=35.5/36pt#;           % lowercase curve breadth
+ess#:=33/36pt#;               % breadth in middle of lowercase s
+flare#:=41.625/36pt#;         % diameter of bulbs or breadth of terminals
+dot_size#:=40/36pt#;          % diameter of dots
+cap_hair#:=13/36pt#;          % uppercase hairline breadth
+cap_stem#:=39/36pt#;          % uppercase stem breadth
+cap_curve#:=38/36pt#;         % uppercase curve breadth
+cap_ess#:=42/36pt#;           % breadth in middle of uppercase s
+rule_thickness#:=14.4/36pt#;  % thickness of lines in math symbols
+dish#:=1/36pt#;               % amount erased at top or bottom of serifs
+bracket#:=40/36pt#;           % vertical distance from serif base to tangent
+jut#:=16/36pt#;               % protrusion of lowercase serifs
+cap_jut#:=22/36pt#;           % protrusion of uppercase serifs
+beak_jut#:=6/36pt#;           % horizontal protrusion of beak serifs
+beak#:=52/36pt#;              % vertical protrusion of beak serifs
+vair#:=14/36pt#;              % vertical diameter of hairlines
+notch_cut#:=10pt#;            % maximum breadth above or below notches
+bar#:=16/36pt#;               % lowercase bar thickness
+slab#:=17/36pt#;              % serif and arm thickness
+cap_bar#:=8/36pt#;            % uppercase bar thickness
+cap_band#:=8/36pt#;           % uppercase thickness above/below lobes
+cap_notch_cut#:=10pt#;        % max breadth above/below uppercase notches
+serif_drop#:=5/36pt#;         % vertical drop of sloped serifs
+stem_corr#:=1/36pt#;          % for small refinements of stem breadth
+vair_corr#:=1/36pt#;          % for small refinements of hairline height
+apex_corr#:=0/36pt#;          % extra width at diagonal junctions
+o#:=0/36pt#;                  % amount of overshoot for curves
+apex_o#:=0/36pt#;             % amount of overshoot for diagonal junctions
+
+slant:=0;                     % tilt ratio
+fudge:=1;                     % factor applied to weights of heavy characters
+math_spread:=0;               % extra openness of math symbols
+superness:=0.70711;           % parameter for superellipses
+superpull:=0.16667;           % extra openness inside bowls
+beak_darkness:=0.36667;       % fraction of triangle inside beak serifs
+ligs:=2;                      % level of ligatures to be included
+
+% Additions not in Computer Modern
+cap_unit:=1.0;                % width unit of capitals, in multiples of u
+fig_unit:=0.94;               % width unit of numerals, in multiples of u
+q_tail_depth:=0.4;            % depth of Q below baseline, in comma depths
+q_tail_weight:=0.9;           % heaviest breadth of Q tail, in cap curves
+q_tail_in_angle:=0;           % pen angle at start of Q tail
+q_tail_mid_angle:=60;         % pen angle in the middle of Q tail
+q_tail_end_angle:=20;         % pen angle at end of Q tail
+q_tail_dir5:=-60;             % direction of Q tail at start
+q_tail_dir7:=-30;             % direction of Q tail at end
+q_tail_x5:=0.45;              % Q tail start x, fraction of width
+q_tail_y5:=0.08;              % Q tail start y, fraction of cap height
+q_tail_x6:=0.62;              % Q tail middle x
+q_tail_x7:=0.97;              % Q tail end x
+
+square_dots:=false;           % should dots be square?
+hefty:=false;                 % should we try hard not to be overweight?
+serifs:=true;                 % should serifs and bulbs be attached?
+monospace:=false;             % should all characters have the same width?
+variant_g:=false;             % should an italic-style g be used?
+low_asterisk:=false;          % should the asterisk be centered at the axis?
+math_fitting:=false;          % should math-mode spacing be used?
+
+generate gwroman

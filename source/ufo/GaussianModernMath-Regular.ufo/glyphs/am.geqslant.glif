@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.geqslant" format="2">
+  <advance width="742.608"/>
+  <unicode hex="2A7E"/>
+  <outline>
+    <contour>
+      <point x="90.396" y="600.696" type="line"/>
+      <point x="90.396" y="550.1519999999999" type="line"/>
+      <point x="525.852" y="377.13599999999997" type="line"/>
+      <point x="90.396" y="202.176" type="line"/>
+      <point x="90.396" y="151.632" type="line"/>
+      <point x="652.212" y="376.164" type="line"/>
+    </contour>
+    <contour>
+      <point x="652.212" y="224.53199999999998" type="line"/>
+      <point x="652.212" y="275.07599999999996" type="line"/>
+      <point x="90.396" y="50.544" type="line"/>
+      <point x="90.396" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

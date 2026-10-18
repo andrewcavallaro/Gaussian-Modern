@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.nshortparallel" format="2">
+  <advance width="561.93264"/>
+  <outline>
+    <contour>
+      <point x="158.0472" y="0.0" type="line"/>
+      <point x="205.03368" y="0.0" type="line"/>
+      <point x="205.03368" y="146.49984" type="line"/>
+      <point x="357.38496" y="222.75323999999998" type="line"/>
+      <point x="357.38496" y="0.0" type="line"/>
+      <point x="404.37143999999995" y="0.0" type="line"/>
+      <point x="404.37143999999995" y="246.26592" type="line"/>
+      <point x="509.72651999999994" y="299.00664" type="line"/>
+      <point x="509.72651999999994" y="351.21276" type="line"/>
+      <point x="404.37143999999995" y="298.58868" type="line"/>
+      <point x="404.37143999999995" y="421.44947999999994" type="line"/>
+      <point x="357.38496" y="421.44947999999994" type="line"/>
+      <point x="357.38496" y="275.11488" type="line"/>
+      <point x="205.03368" y="199.017" type="line"/>
+      <point x="205.03368" y="421.44947999999994" type="line"/>
+      <point x="158.0472" y="421.44947999999994" type="line"/>
+      <point x="158.0472" y="175.55292" type="line"/>
+      <point x="52.6824" y="122.91911999999999" type="line"/>
+      <point x="52.6824" y="70.24643999999999" type="line"/>
+      <point x="158.0472" y="122.97743999999999" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mi.greater" format="2">
+  <advance width="699.84"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="92.34" y="23.328" type="line"/>
+      <point x="608.472" y="280.908" type="line"/>
+      <point x="92.34" y="538.4879999999999" type="line"/>
+      <point x="92.34" y="482.11199999999997" type="line"/>
+      <point x="493.776" y="280.908" type="line"/>
+      <point x="92.34" y="79.704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

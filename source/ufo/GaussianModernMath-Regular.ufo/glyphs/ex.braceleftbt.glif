@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.braceleftbt" format="2">
+  <advance width="879.66"/>
+  <outline>
+    <contour>
+      <point x="703.728" y="-62.52386793264145" type="line"/>
+      <point x="577.3679999999999" y="-58.63586793264153"/>
+      <point x="492.804" y="-25.58786793264153"/>
+      <point x="491.832" y="269.90013206735847" type="curve" smooth="yes"/>
+      <point x="491.832" y="694.6641320673584" type="line"/>
+      <point x="351.864" y="694.6641320673584" type="line"/>
+      <point x="351.864" y="331.1361320673585" type="line" smooth="yes"/>
+      <point x="351.864" y="19.12413206735846"/>
+      <point x="470.448" y="-138.33986793264148"/>
+      <point x="703.728" y="-132.5078679326415" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

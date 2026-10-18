@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bb.Ybb.ssty2" format="2">
+  <advance width="787.8546"/>
+  <outline>
+    <contour>
+      <point x="502.59689999999995" y="277.02" type="line"/>
+      <point x="756.5075999999999" y="702.756" type="line"/>
+      <point x="697.9931999999999" y="702.756" type="line"/>
+      <point x="490.05809999999997" y="352.836" type="line"/>
+      <point x="265.4046" y="702.756" type="line"/>
+      <point x="31.346999999999998" y="702.756" type="line"/>
+      <point x="301.97610000000003" y="277.02" type="line"/>
+      <point x="301.97610000000003" y="0.0" type="line"/>
+      <point x="502.59689999999995" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="352.13129999999995" y="46.656" type="line"/>
+      <point x="352.13129999999995" y="290.628" type="line"/>
+      <point x="119.11859999999999" y="656.1" type="line"/>
+      <point x="237.1923" y="656.1" type="line"/>
+      <point x="452.44169999999997" y="316.872" type="line"/>
+      <point x="452.44169999999997" y="46.656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

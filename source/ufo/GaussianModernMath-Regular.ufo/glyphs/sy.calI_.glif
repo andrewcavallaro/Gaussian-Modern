@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.calI" format="2">
+  <advance width="590.976"/>
+  <unicode hex="2110"/>
+  <outline>
+    <contour>
+      <point x="17.496" y="0.0" type="line"/>
+      <point x="313.956" y="-11.664" type="line"/>
+      <point x="381.996" y="58.32" type="line"/>
+      <point x="197.316" y="63.18" type="line"/>
+      <point x="282.852" y="115.66799999999999"/>
+      <point x="336.312" y="193.428"/>
+      <point x="356.724" y="296.46" type="curve" smooth="yes"/>
+      <point x="423.792" y="631.8" type="line"/>
+      <point x="501.55199999999996" y="631.8" type="line"/>
+      <point x="573.48" y="702.756" type="line"/>
+      <point x="264.384" y="702.756" type="line"/>
+      <point x="195.37199999999999" y="631.8" type="line"/>
+      <point x="323.676" y="631.8" type="line"/>
+      <point x="246.888" y="244.944" type="line" smooth="yes"/>
+      <point x="233.28" y="175.932"/>
+      <point x="217.728" y="129.276"/>
+      <point x="200.232" y="105.948" type="curve" smooth="yes"/>
+      <point x="183.708" y="81.648"/>
+      <point x="156.492" y="69.984"/>
+      <point x="120.52799999999999" y="69.984" type="curve" smooth="yes"/>
+      <point x="88.452" y="69.984" type="line"/>
+    </contour>
+  </outline>
+</glyph>

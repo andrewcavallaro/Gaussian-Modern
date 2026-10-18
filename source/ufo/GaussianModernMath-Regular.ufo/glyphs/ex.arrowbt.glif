@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.arrowbt" format="2">
+  <advance width="434.484"/>
+  <outline>
+    <contour>
+      <point x="182.736" y="136.172" type="line"/>
+      <point x="142.884" y="181.85599999999997"/>
+      <point x="83.592" y="206.15599999999998"/>
+      <point x="24.3" y="211.016" type="curve"/>
+      <point x="24.3" y="172.136" type="line"/>
+      <point x="112.752" y="143.948"/>
+      <point x="172.04399999999998" y="94.376"/>
+      <point x="206.064" y="7.868000000000023" type="curve"/>
+      <point x="229.392" y="7.868000000000023" type="line"/>
+      <point x="263.412" y="94.376"/>
+      <point x="322.704" y="143.948"/>
+      <point x="411.156" y="172.136" type="curve"/>
+      <point x="411.156" y="211.016" type="line"/>
+      <point x="351.864" y="206.15599999999998"/>
+      <point x="292.572" y="181.85599999999997"/>
+      <point x="252.72" y="136.172" type="curve"/>
+      <point x="252.72" y="554.132" type="line"/>
+      <point x="182.736" y="554.132" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bb.Xbb" format="2">
+  <advance width="707.616"/>
+  <unicode hex="1D54F"/>
+  <outline>
+    <contour>
+      <point x="299.376" y="265.356" type="line"/>
+      <point x="449.06399999999996" y="0.0" type="line"/>
+      <point x="666.792" y="0.0" type="line"/>
+      <point x="425.736" y="425.736" type="line"/>
+      <point x="643.4639999999999" y="702.756" type="line"/>
+      <point x="584.172" y="702.756" type="line"/>
+      <point x="401.436" y="469.476" type="line"/>
+      <point x="269.24399999999997" y="702.756" type="line"/>
+      <point x="53.46" y="702.756" type="line"/>
+      <point x="275.07599999999996" y="309.096" type="line"/>
+      <point x="29.16" y="0.0" type="line"/>
+      <point x="89.42399999999999" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="476.28" y="46.656" type="line"/>
+      <point x="134.136" y="656.1" type="line"/>
+      <point x="243.0" y="656.1" type="line"/>
+      <point x="586.116" y="46.656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

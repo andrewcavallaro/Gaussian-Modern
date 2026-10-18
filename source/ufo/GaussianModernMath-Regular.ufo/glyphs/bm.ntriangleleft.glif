@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.ntriangleleft" format="2">
+  <advance width="772.66224"/>
+  <unicode hex="22EA"/>
+  <outline>
+    <contour>
+      <point x="667.2974399999999" y="0.0" type="line"/>
+      <point x="667.2974399999999" y="561.93264" type="line"/>
+      <point x="503.32104000000004" y="479.94444" type="line"/>
+      <point x="561.93264" y="655.9055999999999" type="line"/>
+      <point x="512.57448" y="655.9055999999999" type="line"/>
+      <point x="444.09707999999995" y="450.33732" type="line"/>
+      <point x="105.3648" y="280.96632" type="line"/>
+      <point x="347.36364" y="159.96204" type="line"/>
+      <point x="262.93572" y="-93.49668" type="line"/>
+      <point x="312.29388" y="-93.49668" type="line"/>
+      <point x="389.68452" y="138.81132" type="line"/>
+    </contour>
+    <contour>
+      <point x="620.78724" y="75.93264" type="line"/>
+      <point x="404.6922" y="183.86352" type="line"/>
+      <point x="482.42303999999996" y="417.21156" type="line"/>
+      <point x="620.78724" y="486.47628" type="line"/>
+    </contour>
+    <contour>
+      <point x="362.37131999999997" y="204.9948" type="line"/>
+      <point x="210.25332" y="280.96632" type="line"/>
+      <point x="423.17964" y="387.55584" type="line"/>
+    </contour>
+  </outline>
+</glyph>

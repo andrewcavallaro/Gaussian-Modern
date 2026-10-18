@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="visiblespace" format="2">
+  <advance width="485.0"/>
+  <outline>
+    <contour>
+      <point x="61.21714285714285" y="-137.14285714285717" type="line"/>
+      <point x="429.81714285714287" y="-137.14285714285717" type="line"/>
+      <point x="420.8143396226415" y="272.07547169811323" type="line"/>
+      <point x="52.2143396226415" y="272.07547169811323" type="line"/>
+    </contour>
+    <contour>
+      <point x="61.21714285714285" y="-137.14285714285717" type="line"/>
+      <point x="449.21714285714285" y="-137.14285714285717" type="line"/>
+      <point x="441.92452830188677" y="194.33962264150944" type="line"/>
+      <point x="53.92452830188679" y="194.33962264150944" type="line"/>
+    </contour>
+    <contour>
+      <point x="41.817142857142855" y="-137.14285714285717" type="line"/>
+      <point x="429.81714285714287" y="-137.14285714285717" type="line"/>
+      <point x="422.5245283018868" y="194.33962264150944" type="line"/>
+      <point x="34.52452830188679" y="194.33962264150944" type="line"/>
+    </contour>
+  </outline>
+</glyph>

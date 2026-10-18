@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gr.iota.ssty2" format="2">
+  <advance width="407.51099999999997"/>
+  <outline>
+    <contour>
+      <point x="335.4129" y="9.719999999999999" type="curve"/>
+      <point x="347.95169999999996" y="60.263999999999996" type="line"/>
+      <point x="317.64959999999996" y="47.628"/>
+      <point x="289.43729999999994" y="40.824"/>
+      <point x="261.22499999999997" y="40.824" type="curve" smooth="yes"/>
+      <point x="240.327" y="40.824"/>
+      <point x="224.65349999999998" y="44.711999999999996"/>
+      <point x="214.20449999999997" y="52.488" type="curve"/>
+      <point x="203.75549999999998" y="61.236"/>
+      <point x="198.531" y="72.89999999999999"/>
+      <point x="198.531" y="88.452" type="curve" smooth="yes"/>
+      <point x="198.531" y="100.116"/>
+      <point x="202.71059999999997" y="128.304"/>
+      <point x="213.15959999999998" y="173.016" type="curve" smooth="yes"/>
+      <point x="285.2577" y="515.16" type="line"/>
+      <point x="184.94729999999998" y="515.16" type="line"/>
+      <point x="112.8492" y="178.84799999999998" type="line" smooth="yes"/>
+      <point x="106.57979999999999" y="146.772"/>
+      <point x="103.4451" y="120.52799999999999"/>
+      <point x="103.4451" y="99.14399999999999" type="curve" smooth="yes"/>
+      <point x="103.4451" y="62.208"/>
+      <point x="113.8941" y="34.019999999999996"/>
+      <point x="135.837" y="15.552" type="curve" smooth="yes"/>
+      <point x="157.7799" y="-2.916"/>
+      <point x="190.1718" y="-11.664"/>
+      <point x="234.0576" y="-11.664" type="curve" smooth="yes"/>
+      <point x="266.4495" y="-11.664"/>
+      <point x="299.8863" y="-4.859999999999999"/>
+    </contour>
+  </outline>
+</glyph>

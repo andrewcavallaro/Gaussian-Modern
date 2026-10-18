@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.Lbb" format="2">
+  <advance width="667.764"/>
+  <outline>
+    <contour>
+      <point x="110.80799999999999" y="0.0" type="line"/>
+      <point x="579.312" y="0.0" type="line"/>
+      <point x="579.312" y="46.656" type="line"/>
+      <point x="298.404" y="46.656" type="line"/>
+      <point x="298.404" y="702.756" type="line"/>
+      <point x="110.80799999999999" y="702.756" type="line"/>
+    </contour>
+    <contour>
+      <point x="158.436" y="46.656" type="line"/>
+      <point x="158.436" y="656.1" type="line"/>
+      <point x="251.748" y="656.1" type="line"/>
+      <point x="251.748" y="46.656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+sy.negationslash
+sy.mapstochar
+bm.nleqslant
+bm.ngeqslant
+bm.nleqq
+bm.ngeqq
+bm.nsubseteqq
+bm.nsupseteqq
+bm.nshortmid
+bm.nshortparallel
+bm.shortmid
+bm.shortparallel
+bm.smallsetminus
+bm.thicksim
+bm.thickapprox

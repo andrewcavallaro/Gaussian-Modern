@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sy.triangle" format="2">
+  <advance width="924.372"/>
+  <unicode hex="25B3"/>
+  <outline>
+    <contour>
+      <point x="56.376" y="0.0" type="line"/>
+      <point x="867.024" y="0.0" type="line"/>
+      <point x="461.7" y="702.756" type="line"/>
+    </contour>
+    <contour>
+      <point x="137.052" y="46.656" type="line"/>
+      <point x="461.7" y="608.472" type="line"/>
+      <point x="786.348" y="46.656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

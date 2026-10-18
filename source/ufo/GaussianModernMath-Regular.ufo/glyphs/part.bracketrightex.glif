@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="part.bracketrightex" format="2">
+  <advance width="934.092"/>
+  <outline>
+    <contour>
+      <point x="411.156" y="0.0" type="line"/>
+      <point x="551.124" y="0.0" type="line"/>
+      <point x="551.124" y="565.704" type="line"/>
+      <point x="411.156" y="565.704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

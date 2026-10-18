@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.triangledown" format="2">
+  <advance width="680.2444800000001"/>
+  <unicode hex="25BF"/>
+  <outline>
+    <contour>
+      <point x="631.95552" y="505.9843199999999" type="line"/>
+      <point x="48.288959999999996" y="505.9843199999999" type="line"/>
+      <point x="340.12224000000003" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="573.8688" y="472.392" type="line"/>
+      <point x="340.12224000000003" y="67.18464" type="line"/>
+      <point x="106.37567999999999" y="472.392" type="line"/>
+    </contour>
+  </outline>
+</glyph>

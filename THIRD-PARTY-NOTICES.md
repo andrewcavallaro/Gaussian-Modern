@@ -1,0 +1,30 @@
+# Third-party notices
+
+## Computer Modern
+
+Author: Donald E. Knuth.
+
+Some upright Gaussian Modern shapes were produced with Computer Modern
+METAFONT programs driven by new parameters fitted to the type of C. F. Gauss,
+*Werke*, Band III (Göttingen, 1876). Those METAFONT sources are in
+`source/metafont/`. The modified capitals file is renamed `gwromanu.mf` and
+keeps Knuth's notice; the parameter, driver and Q files (`gwr10.mf`,
+`gwroman.mf`, `gwq.mf`) have their own names. The other Computer Modern files
+they read (`cmbase.mf`, `romanl.mf` and so on) are used unchanged from TeX Live
+and are not copied here.
+
+CTAN classifies the original Computer Modern package under the Knuth License:
+copying and redistribution are permitted, and modified packages/files must be
+renamed. Preserve the actual notices in the supplied files. The project's MIT
+grant does not override these conditions.
+
+References checked 18 October 2026:
+- https://ctan.org/pkg/cm
+- https://ctan.org/license/knuth
+
+## Build dependencies
+
+FontTools and the TeX/Python tools used to build proofs are separate dependencies
+with their own licenses. Their implementations are not vendored in this
+repository. Installing a build dependency does not relicense it under this
+project's MIT grant.

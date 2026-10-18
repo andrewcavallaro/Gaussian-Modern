@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.arrowvertexdbl" format="2">
+  <advance width="625.968"/>
+  <outline>
+    <contour>
+      <point x="172.04399999999998" y="-1.8519999999999754" type="line"/>
+      <point x="218.7" y="-1.8519999999999754" type="line"/>
+      <point x="218.7" y="563.8520000000001" type="line"/>
+      <point x="172.04399999999998" y="563.8520000000001" type="line"/>
+    </contour>
+    <contour>
+      <point x="407.268" y="-1.8519999999999754" type="line"/>
+      <point x="453.924" y="-1.8519999999999754" type="line"/>
+      <point x="453.924" y="563.8520000000001" type="line"/>
+      <point x="407.268" y="563.8520000000001" type="line"/>
+    </contour>
+  </outline>
+</glyph>

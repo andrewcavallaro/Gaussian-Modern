@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bb.Kbb.ssty1" format="2">
+  <advance width="844.0848000000001"/>
+  <outline>
+    <contour>
+      <point x="310.34016" y="282.852" type="line"/>
+      <point x="555.984" y="0.0" type="line"/>
+      <point x="807.6931199999999" y="0.0" type="line"/>
+      <point x="422.54784" y="443.23199999999997" type="line"/>
+      <point x="739.96416" y="702.756" type="line"/>
+      <point x="661.1155200000001" y="702.756" type="line"/>
+      <point x="310.34016" y="411.156" type="line"/>
+      <point x="310.34016" y="702.756" type="line"/>
+      <point x="115.24032" y="702.756" type="line"/>
+      <point x="115.24032" y="0.0" type="line"/>
+      <point x="310.34016" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="164.77344000000002" y="46.656" type="line"/>
+      <point x="164.77344000000002" y="656.1" type="line"/>
+      <point x="261.81792" y="656.1" type="line"/>
+      <point x="261.81792" y="46.656" type="line"/>
+    </contour>
+    <contour>
+      <point x="579.23424" y="46.656" type="line"/>
+      <point x="310.34016" y="351.864" type="line"/>
+      <point x="385.14528" y="413.09999999999997" type="line"/>
+      <point x="705.59424" y="46.656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

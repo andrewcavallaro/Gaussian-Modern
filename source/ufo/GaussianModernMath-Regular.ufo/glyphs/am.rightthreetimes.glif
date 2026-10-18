@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="am.rightthreetimes" format="2">
+  <advance width="696.924"/>
+  <unicode hex="22CC"/>
+  <outline>
+    <contour>
+      <point x="68.03999999999999" y="33.048" type="line"/>
+      <point x="101.088" y="0.0" type="line"/>
+      <point x="348.948" y="247.85999999999999" type="line"/>
+      <point x="597.78" y="0.0" type="line"/>
+      <point x="629.856" y="33.048" type="line"/>
+      <point x="381.996" y="280.908" type="line"/>
+      <point x="629.856" y="528.768" type="line"/>
+      <point x="597.78" y="561.816" type="line"/>
+    </contour>
+  </outline>
+</glyph>

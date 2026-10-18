@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bm.nleftarrow" format="2">
+  <advance width="835.92"/>
+  <unicode hex="219A"/>
+  <outline>
+    <contour>
+      <point x="458.784" y="257.58" type="line"/>
+      <point x="412.128" y="117.612" type="line"/>
+      <point x="462.67199999999997" y="117.612" type="line"/>
+      <point x="508.356" y="257.58" type="line"/>
+      <point x="769.824" y="257.58" type="line"/>
+      <point x="769.824" y="304.236" type="line"/>
+      <point x="523.908" y="304.236" type="line"/>
+      <point x="570.564" y="445.176" type="line"/>
+      <point x="520.992" y="445.176" type="line"/>
+      <point x="474.336" y="304.236" type="line"/>
+      <point x="223.56" y="304.236" type="line"/>
+      <point x="269.24399999999997" y="398.52" type="line"/>
+      <point x="67.068" y="280.908" type="line"/>
+      <point x="269.24399999999997" y="163.296" type="line"/>
+      <point x="223.56" y="257.58" type="line"/>
+    </contour>
+  </outline>
+</glyph>

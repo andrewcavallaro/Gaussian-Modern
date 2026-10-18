@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mi.sharp" format="2">
+  <advance width="620.136"/>
+  <unicode hex="266F"/>
+  <outline>
+    <contour>
+      <point x="199.26" y="-140.94" type="line"/>
+      <point x="228.42" y="-140.94" type="line"/>
+      <point x="228.42" y="54.432" type="line"/>
+      <point x="391.716" y="133.164" type="line"/>
+      <point x="391.716" y="-23.328" type="line"/>
+      <point x="421.848" y="-23.328" type="line"/>
+      <point x="421.848" y="147.744" type="line"/>
+      <point x="491.832" y="182.736" type="line"/>
+      <point x="491.832" y="258.552" type="line"/>
+      <point x="421.848" y="223.56" type="line"/>
+      <point x="421.848" y="449.06399999999996" type="line"/>
+      <point x="491.832" y="484.056" type="line"/>
+      <point x="491.832" y="561.816" type="line"/>
+      <point x="421.848" y="526.824" type="line"/>
+      <point x="421.848" y="702.756" type="line"/>
+      <point x="391.716" y="702.756" type="line"/>
+      <point x="391.716" y="511.272" type="line"/>
+      <point x="228.42" y="434.484" type="line"/>
+      <point x="228.42" y="586.116" type="line"/>
+      <point x="199.26" y="586.116" type="line"/>
+      <point x="199.26" y="420.876" type="line"/>
+      <point x="128.304" y="386.856" type="line"/>
+      <point x="128.304" y="309.096" type="line"/>
+      <point x="199.26" y="343.116" type="line"/>
+      <point x="199.26" y="119.556" type="line"/>
+      <point x="128.304" y="84.564" type="line"/>
+      <point x="128.304" y="4.859999999999999" type="line"/>
+      <point x="199.26" y="39.852" type="line"/>
+    </contour>
+    <contour>
+      <point x="228.42" y="132.192" type="line"/>
+      <point x="228.42" y="356.724" type="line"/>
+      <point x="391.716" y="435.456" type="line"/>
+      <point x="391.716" y="209.952" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ex.ceilingrightbig" format="2">
+  <advance width="510.3"/>
+  <outline>
+    <contour>
+      <point x="302.292" y="-251.65599999999995" type="line"/>
+      <point x="302.292" y="813.656" type="line"/>
+      <point x="33.048" y="813.656" type="line"/>
+      <point x="33.048" y="755.336" type="line"/>
+      <point x="220.644" y="755.336" type="line"/>
+      <point x="220.644" y="-251.65599999999995" type="line"/>
+    </contour>
+  </outline>
+</glyph>
