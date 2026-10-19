@@ -3308,7 +3308,7 @@ markClass uni0328 <anchor 0 0> @Below;
 feature mark {
   pos base circumflex <anchor 299 797> mark @Above <anchor 299 567> mark @Below;
   pos base caron <anchor 299 797> mark @Above <anchor 299 567> mark @Below;
-  pos base dotlessi <anchor 161 573> mark @Above <anchor 161 -45> mark @Below;
+  pos base dotlessi <anchor 160 573> mark @Above <anchor 161 -45> mark @Below;
   pos base dotlessj <anchor 103 573> mark @Above <anchor 103 -279> mark @Below;
   pos base ff <anchor 400 809> mark @Above <anchor 400 -45> mark @Below;
   pos base fi <anchor 336 809> mark @Above <anchor 336 -48> mark @Below;
@@ -3349,10 +3349,10 @@ feature mark {
   pos base f <anchor 224 809> mark @Above <anchor 224 -45> mark @Below;
   pos base g <anchor 275 573> mark @Above <anchor 275 -283> mark @Below;
   pos base h <anchor 312 798> mark @Above <anchor 312 -47> mark @Below;
-  pos base i <anchor 155 798> mark @Above <anchor 155 -48> mark @Below;
+  pos base i <anchor 157 795> mark @Above <anchor 157 -45> mark @Below;
   pos base j <anchor 110 798> mark @Above <anchor 110 -283> mark @Below;
   pos base k <anchor 309 799> mark @Above <anchor 309 -46> mark @Below;
-  pos base l <anchor 154 797> mark @Above <anchor 154 -45> mark @Below;
+  pos base l <anchor 154 782> mark @Above <anchor 154 -45> mark @Below;
   pos base m <anchor 460 581> mark @Above <anchor 460 -46> mark @Below;
   pos base n <anchor 313 581> mark @Above <anchor 313 -46> mark @Below;
   pos base o <anchor 286 582> mark @Above <anchor 286 -56> mark @Below;
@@ -3405,8 +3405,8 @@ feature mark {
   pos base ecaron <anchor 257 797> mark @Above <anchor 257 -55> mark @Below;
   pos base eogonek <anchor 257 583> mark @Above <anchor 257 -210> mark @Below;
   pos base gbreve <anchor 275 797> mark @Above <anchor 275 -283> mark @Below;
-  pos base lacute <anchor 154 994> mark @Above <anchor 154 -45> mark @Below;
-  pos base lcaron <anchor 218 797> mark @Above <anchor 218 -45> mark @Below;
+  pos base lacute <anchor 154 979> mark @Above <anchor 154 -45> mark @Below;
+  pos base lcaron <anchor 218 782> mark @Above <anchor 218 -45> mark @Below;
   pos base lslash <anchor 161 797> mark @Above <anchor 161 -45> mark @Below;
   pos base nacute <anchor 313 797> mark @Above <anchor 313 -46> mark @Below;
   pos base ncaron <anchor 313 797> mark @Above <anchor 313 -46> mark @Below;

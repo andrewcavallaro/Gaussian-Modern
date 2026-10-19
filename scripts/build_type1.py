@@ -16,10 +16,23 @@ ROOT = Path(__file__).resolve().parent.parent
 OTF = ROOT / 'fonts' / 'otf'
 T1 = ROOT / 'fonts' / 'type1'
 TEXMF = ROOT / 'texmf'
-VERSION = '0.107'
+VERSION = '0.108'
 EPOCH = '1792281600'   # 2026-10-18 00:00 UTC, so rebuilt files carry a fixed date
 STYLES = [('Regular', 'regular', 'm', 'n'), ('Italic', 'italic', 'm', 'it'),
           ('Semibold', 'semibold', 'sb', 'n'), ('SemiboldItalic', 'semibolditalic', 'sb', 'it')]
+
+# Alignment zones, pinned per style rather than left to FontForge's guess
+# (these are the zones it guessed for 0.107). BlueValues: baseline, x-height,
+# figure, cap and ascender zones; OtherBlues: the descender zone.
+# Since 0.108 the Semibold l stops at 730, below the 745 ascenders of b/d/h/k;
+# the guess then merges 730-757 into one zone too tall for the BlueScale and
+# t1lint rejects the font. The l is meant to sit outside the ascender zone.
+BLUES = {
+    'Regular':        ([-21, 0, 515, 525, 684, 693, 710, 723, 745, 757], [-228, -227]),
+    'Italic':         ([-21, 0, 515, 527, 684, 693, 710, 723, 745, 757], [-220, -220]),
+    'Semibold':       ([-21, 0, 521, 530, 684, 691, 710, 723, 745, 757], [-228, -226]),
+    'SemiboldItalic': ([-21, 0, 521, 534, 684, 693, 710, 723, 745, 762], [-220, -220]),
+}
 
 FF_SCRIPT = r'''
 import fontforge, sys
@@ -27,6 +40,11 @@ f = fontforge.open(sys.argv[1])
 f.version = sys.argv[3]
 f.encoding = 'AdobeStandard'
 f.selection.all(); f.autoHint()
+# Set the zones after hinting so the hint stream matches the guessed-zone build;
+# BlueShift 21 is what FontForge writes when it guesses, and it keeps flex hints.
+f.private['BlueValues'] = tuple(int(v) for v in sys.argv[4].split(','))
+f.private['OtherBlues'] = tuple(int(v) for v in sys.argv[5].split(','))
+f.private['BlueShift'] = 21
 f.generate(sys.argv[2] + '.pfb', flags=('afm', 'pfm', 'round'))
 '''
 
@@ -69,8 +87,10 @@ def clean_afm(path):
 
 
 def type1(ps, script):
+    blues, other = BLUES[ps.split('-', 1)[1]]
     run(['fontforge', '-quiet', '-lang=py', '-script', script,
-         str(OTF / f'{ps}.otf'), str(T1 / ps), VERSION])
+         str(OTF / f'{ps}.otf'), str(T1 / ps), VERSION,
+         ','.join(map(str, blues)), ','.join(map(str, other))])
     run(['t1lint', str(T1 / f'{ps}.pfb')])
     clean_afm(T1 / f'{ps}.afm')
 

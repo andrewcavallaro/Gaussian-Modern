@@ -1,4 +1,4 @@
-\ProvidesFile{t1gmd.fd}[2026/10/18 v0.107 Gaussian Modern, T1 encoding]
+\ProvidesFile{t1gmd.fd}[2026/10/18 v0.108 Gaussian Modern, T1 encoding]
 \DeclareFontFamily{T1}{gmd}{}
 \DeclareFontShape{T1}{gmd}{m}{n}{<-> gmd-regular-t1}{}
 \DeclareFontShape{T1}{gmd}{m}{it}{<-> gmd-italic-t1}{}

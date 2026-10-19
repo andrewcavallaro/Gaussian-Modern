@@ -12,7 +12,7 @@ For a new checkout from the ZIP:
 cd gaussian-modern
 git init -b main
 git add .
-git commit -m "Prepare Gaussian Modern 0.107"
+git commit -m "Prepare Gaussian Modern 0.108"
 ```
 
 Create an empty GitHub repository with your preferred visibility, then add its

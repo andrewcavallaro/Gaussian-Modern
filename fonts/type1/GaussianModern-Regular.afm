@@ -9,13 +9,13 @@ ItalicAngle 0
 IsFixedPitch false
 UnderlinePosition -125
 UnderlineThickness 50
-Version 0.107
+Version 0.108
 EncodingScheme AdobeStandardEncoding
 FontBBox -278 -364 983 941
 CapHeight 710
 XHeight 515
 Ascender 745
-Descender -220
+Descender -228
 StartCharMetrics 310
 C 32 ; WX 280 ; N space ; B 0 0 0 0 ;
 C 33 ; WX 257 ; N exclam ; B 82 0 175 710 ;
