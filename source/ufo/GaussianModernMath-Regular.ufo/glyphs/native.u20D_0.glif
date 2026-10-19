@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u20D0" format="2">
+  <unicode hex="20D0"/>
+  <outline>
+    <contour>
+      <point x="-325.0" y="600.0" type="line"/>
+      <point x="325.0" y="600.0" type="line"/>
+      <point x="325.0" y="653.3333" type="line"/>
+      <point x="-143.3956" y="653.3333" type="line"/>
+      <point x="-99.343" y="760.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

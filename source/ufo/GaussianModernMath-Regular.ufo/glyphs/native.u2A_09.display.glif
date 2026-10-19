@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u2A09.display" format="2">
+  <advance width="1260.0"/>
+  <outline>
+    <contour>
+      <point x="70.0" y="-263.9294" type="line"/>
+      <point x="135.8823" y="-336.4" type="line"/>
+      <point x="630.0" y="207.1294" type="line"/>
+      <point x="1124.1177" y="-336.4" type="line"/>
+      <point x="1190.0" y="-263.9294" type="line"/>
+      <point x="695.8823" y="279.6" type="line"/>
+      <point x="1190.0" y="823.1294" type="line"/>
+      <point x="1124.1177" y="895.6" type="line"/>
+      <point x="630.0" y="352.0706" type="line"/>
+      <point x="135.8823" y="895.6" type="line"/>
+      <point x="70.0" y="823.1294" type="line"/>
+      <point x="564.1177" y="279.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

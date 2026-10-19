@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u239B" format="2">
+  <advance width="873.828"/>
+  <unicode hex="239B"/>
+  <outline>
+    <contour>
+      <point x="811.62" y="1618.38" type="line"/>
+      <point x="512.244" y="1287.9"/>
+      <point x="327.564" y="857.304"/>
+      <point x="331.452" y="51.516" type="curve" smooth="yes"/>
+      <point x="331.452" y="0.0" type="line"/>
+      <point x="471.42" y="0.0" type="line"/>
+      <point x="471.42" y="341.172" type="line" smooth="yes"/>
+      <point x="471.42" y="659.988"/>
+      <point x="555.984" y="1206.252"/>
+      <point x="811.62" y="1548.396" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

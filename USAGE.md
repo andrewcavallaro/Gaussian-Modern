@@ -90,6 +90,7 @@ character is available.
   BoldFont       = GaussianModern-Semibold.otf,
   BoldItalicFont = GaussianModern-SemiboldItalic.otf]
 \setmathfont{GaussianModernMath-Regular.otf}[Path = fonts/otf/]
+\unimathsetup{mathsf=sym,mathtt=sym,mathbf=sym,mathrm=sym,mathit=sym}
 \begin{document}
 For a smooth $f\colon\mathbb{R}\to\mathbb{R}$,
 \[ \int_0^1 x^2\,dx = \frac13 . \]
@@ -99,16 +100,17 @@ For a smooth $f\colon\mathbb{R}\to\mathbb{R}$,
 Compile with `xelatex` or `lualatex`. With installed fonts, write
 `\setmainfont{Gaussian Modern}` and `\setmathfont{Gaussian Modern Math}`.
 
-Gaussian Modern Math has no fraktur, sans-serif or typewriter maths alphabets. If you need
-them, take just those alphabets from another maths font:
+`unicode-math` defaults several legacy math alphabet commands to text fonts.
+Use `\unimathsetup{mathsf=sym,mathtt=sym,mathbf=sym,mathrm=sym,mathit=sym}`
+after loading `unicode-math` to draw those alphabets from Gaussian Modern Math.
+This matters especially for `\mathsf` and `\mathtt`, which can otherwise use
+Latin Modern sans-serif and monospaced text fonts. Explicit `\sym...` commands
+also select the mathematical alphabets. This setting does not change text fonts
+inside `\text{...}` or fonts already embedded in figures.
 
-```latex
-\setmathfont{latinmodern-math.otf}[range={\mathfrak/{latin,Latin},
-                                           \mathsfup/{latin,Latin},
-                                           \mathtt/{latin,Latin}}]
-```
-
-Put this line after the main `\setmathfont`.
+The unreleased math expansion includes native Fraktur, sans-serif and monospaced
+alphabets. Use `\mathfrak`, `\mathsf` and `\mathtt` with the same math font.
+See [the design notes](docs/native-unicode-design.md) for scope and limitations.
 
 ## 4. pdfLaTeX, dvips and plain TeX (Type 1)
 
@@ -227,9 +229,15 @@ full stops for an ellipsis, or use `\dots` in TeX.
 calculus symbols, upright and italic Greek, italic, bold and bold italic Latin alphabets,
 blackboard-bold and script **capitals**, large delimiters and extensible accents, the dots
 … ⋯ ⋮ ⋱, divides ∣, the long double arrows ⟸ ⟹, and extensible over- and underbraces
-⏞ ⏟. Other long arrows (⟵ ⟶ ⟷ ⟺) are not yet included. It has no
-lowercase blackboard-bold or script letters, no bold Greek, and no fraktur, sans-serif or
-typewriter alphabets (see the `range` example in section 3).
+⏞ ⏟. Three- and four-dot accents work as `\dddot{x}` and `\ddddot{x}`.
+Double, triple and quadruple primes work as `f''`, `f'''`, `f''''` or
+Unicode `f″`, `f‴`, `f⁗` with `unicode-math`.
+The native expansion adds long arrows, lowercase double-struck letters, Fraktur,
+bold script capitals, sans-serif and monospaced alphabets, and bold upright Greek.
+All Latin Modern Math reference mappings are covered; this does not mean all
+Unicode mathematics is covered (for example, lowercase script is outside that
+reference). See [the coverage audit](docs/math-coverage.md). The four text faces
+retain their existing character coverage; these additions are in the math companion.
 
 ## 7. Troubleshooting
 

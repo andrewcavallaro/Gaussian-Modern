@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u2010" format="2">
+  <advance width="315.444"/>
+  <unicode hex="2010"/>
+  <outline>
+    <contour>
+      <point x="46.8898" y="254.789" type="line"/>
+      <point x="269.0198" y="254.789" type="line"/>
+      <point x="269.0198" y="325.0039" type="line"/>
+      <point x="46.8898" y="325.0039" type="line"/>
+    </contour>
+  </outline>
+</glyph>

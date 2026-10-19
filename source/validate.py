@@ -1,5 +1,5 @@
 """Check the built fonts and emit a compact, machine-readable validation record."""
-import json,hashlib
+import json,hashlib,unicodedata
 from pathlib import Path
 from fontTools.ttLib import TTFont
 from fontTools.pens.recordingPen import RecordingPen
@@ -16,11 +16,26 @@ def validate():
         for name in f.getGlyphOrder():
             p=RecordingPen();glyphs[name].draw(p)
             if not p.value:empty.append(name)
-        assert set(empty)<=set(['space','uni00A0']),(path.name,empty)
+        allowed_empty={'space','uni00A0'}|{name for code,name in cmap.items()
+                        if unicodedata.category(chr(code)) in {'Zs','Cf'}}
+        assert set(empty)<=allowed_empty,(path.name,empty)
         assert all(c in cmap for c in range(32,127)),path.name
         math='Math' in path.name
         if math:
+            targets=json.loads((ROOT/'source/native-unicode-targets.json').read_text())
+            assert all(row['codepoint'] in cmap for row in targets),path.name
+            mono=list(range(0x1D670,0x1D6A4))+list(range(0x1D7F6,0x1D800))
+            assert len({f['hmtx'][cmap[c]][0] for c in mono})==1,(path.name,'monospace widths')
             assert all(ord(c) in cmap for c in COMMON)
+            accents=f['MATH'].table.MathGlyphInfo.MathTopAccentAttachment
+            attachments=dict(zip(accents.TopAccentCoverage.glyphs,
+                                 (v.Value for v in accents.TopAccentAttachment)))
+            for code in [0x20DB,0x20DC]:
+                name=cmap[code]
+                assert f['hmtx'][name][0]==0,(path.name,name,'accent advance')
+                assert attachments[name]==0,(path.name,name,'accent attachment')
+            prime_widths=[f['hmtx'][cmap[code]][0] for code in [0x2032,0x2033,0x2034,0x2057]]
+            assert all(a<b for a,b in zip(prime_widths,prime_widths[1:])),(path.name,'prime widths')
             assert 0x1d706 in cmap and 0x1d6ec in cmap
             assert 'MATH' in f
             assert 'math' in [r.ScriptTag for r in f['GSUB'].table.ScriptList.ScriptRecord]

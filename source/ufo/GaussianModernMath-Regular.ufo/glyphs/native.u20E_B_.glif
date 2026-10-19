@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u20EB" format="2">
+  <unicode hex="20EB"/>
+  <outline>
+    <contour>
+      <point x="238.016" y="-104.976" type="line"/>
+      <point x="287.588" y="-104.976" type="line"/>
+      <point x="587.936" y="796.068" type="line"/>
+      <point x="538.364" y="796.068" type="line"/>
+    </contour>
+    <contour>
+      <point x="108.016" y="-104.976" type="line"/>
+      <point x="157.588" y="-104.976" type="line"/>
+      <point x="457.936" y="796.068" type="line"/>
+      <point x="408.364" y="796.068" type="line"/>
+    </contour>
+  </outline>
+</glyph>

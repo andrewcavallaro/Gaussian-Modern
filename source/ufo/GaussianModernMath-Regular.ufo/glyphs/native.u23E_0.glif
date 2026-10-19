@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u23E0" format="2">
+  <unicode hex="23E0"/>
+  <outline>
+    <contour>
+      <point x="-384.0553" y="600.0" type="line"/>
+      <point x="-210.8752" y="753.9378" type="line"/>
+      <point x="210.8752" y="753.9378" type="line"/>
+      <point x="384.0553" y="600.0" type="line"/>
+      <point x="415.9447" y="635.8756" type="line"/>
+      <point x="235.9447" y="795.8756" type="line" smooth="yes"/>
+      <point x="231.5515" y="799.7807"/>
+      <point x="225.8779" y="801.9378"/>
+      <point x="220.0" y="801.9378" type="curve" smooth="yes"/>
+      <point x="-220.0" y="801.9378" type="line" smooth="yes"/>
+      <point x="-225.8779" y="801.9378"/>
+      <point x="-231.5515" y="799.7807"/>
+      <point x="-235.9447" y="795.8756" type="curve" smooth="yes"/>
+      <point x="-415.9447" y="635.8756" type="line"/>
+    </contour>
+  </outline>
+</glyph>

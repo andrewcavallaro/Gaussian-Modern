@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u20E9" format="2">
+  <unicode hex="20E9"/>
+  <outline>
+    <contour>
+      <point x="-330.0" y="600.0" type="line"/>
+      <point x="-330.0" y="690.0" type="line"/>
+      <point x="330.0" y="690.0" type="line"/>
+      <point x="330.0" y="600.0" type="line"/>
+      <point x="370.0" y="600.0" type="line"/>
+      <point x="370.0" y="710.0" type="line" smooth="yes"/>
+      <point x="370.0" y="715.2528"/>
+      <point x="367.8564" y="720.4278"/>
+      <point x="364.1421" y="724.1421" type="curve" smooth="yes"/>
+      <point x="360.4277" y="727.8565"/>
+      <point x="355.2528" y="730.0"/>
+      <point x="350.0" y="730.0" type="curve" smooth="yes"/>
+      <point x="-350.0" y="730.0" type="line" smooth="yes"/>
+      <point x="-355.2528" y="730.0"/>
+      <point x="-360.4277" y="727.8565"/>
+      <point x="-364.1421" y="724.1421" type="curve" smooth="yes"/>
+      <point x="-367.8564" y="720.4278"/>
+      <point x="-370.0" y="715.2528"/>
+      <point x="-370.0" y="710.0" type="curve" smooth="yes"/>
+      <point x="-370.0" y="600.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

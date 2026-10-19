@@ -1,0 +1,5412 @@
+[
+  {
+    "codepoint": 256,
+    "name": "LATIN CAPITAL LETTER A WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 257,
+    "name": "LATIN SMALL LETTER A WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 272,
+    "name": "LATIN CAPITAL LETTER D WITH STROKE",
+    "command": ""
+  },
+  {
+    "codepoint": 274,
+    "name": "LATIN CAPITAL LETTER E WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 275,
+    "name": "LATIN SMALL LETTER E WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 278,
+    "name": "LATIN CAPITAL LETTER E WITH DOT ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 279,
+    "name": "LATIN SMALL LETTER E WITH DOT ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 290,
+    "name": "LATIN CAPITAL LETTER G WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 291,
+    "name": "LATIN SMALL LETTER G WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 296,
+    "name": "LATIN CAPITAL LETTER I WITH TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 297,
+    "name": "LATIN SMALL LETTER I WITH TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 298,
+    "name": "LATIN CAPITAL LETTER I WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 299,
+    "name": "LATIN SMALL LETTER I WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 302,
+    "name": "LATIN CAPITAL LETTER I WITH OGONEK",
+    "command": ""
+  },
+  {
+    "codepoint": 303,
+    "name": "LATIN SMALL LETTER I WITH OGONEK",
+    "command": ""
+  },
+  {
+    "codepoint": 310,
+    "name": "LATIN CAPITAL LETTER K WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 311,
+    "name": "LATIN SMALL LETTER K WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 315,
+    "name": "LATIN CAPITAL LETTER L WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 316,
+    "name": "LATIN SMALL LETTER L WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 325,
+    "name": "LATIN CAPITAL LETTER N WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 326,
+    "name": "LATIN SMALL LETTER N WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 330,
+    "name": "LATIN CAPITAL LETTER ENG",
+    "command": ""
+  },
+  {
+    "codepoint": 331,
+    "name": "LATIN SMALL LETTER ENG",
+    "command": ""
+  },
+  {
+    "codepoint": 332,
+    "name": "LATIN CAPITAL LETTER O WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 333,
+    "name": "LATIN SMALL LETTER O WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 342,
+    "name": "LATIN CAPITAL LETTER R WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 343,
+    "name": "LATIN SMALL LETTER R WITH CEDILLA",
+    "command": ""
+  },
+  {
+    "codepoint": 360,
+    "name": "LATIN CAPITAL LETTER U WITH TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 361,
+    "name": "LATIN SMALL LETTER U WITH TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 362,
+    "name": "LATIN CAPITAL LETTER U WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 363,
+    "name": "LATIN SMALL LETTER U WITH MACRON",
+    "command": ""
+  },
+  {
+    "codepoint": 370,
+    "name": "LATIN CAPITAL LETTER U WITH OGONEK",
+    "command": ""
+  },
+  {
+    "codepoint": 371,
+    "name": "LATIN SMALL LETTER U WITH OGONEK",
+    "command": ""
+  },
+  {
+    "codepoint": 383,
+    "name": "LATIN SMALL LETTER LONG S",
+    "command": ""
+  },
+  {
+    "codepoint": 416,
+    "name": "LATIN CAPITAL LETTER O WITH HORN",
+    "command": ""
+  },
+  {
+    "codepoint": 417,
+    "name": "LATIN SMALL LETTER O WITH HORN",
+    "command": ""
+  },
+  {
+    "codepoint": 431,
+    "name": "LATIN CAPITAL LETTER U WITH HORN",
+    "command": ""
+  },
+  {
+    "codepoint": 432,
+    "name": "LATIN SMALL LETTER U WITH HORN",
+    "command": ""
+  },
+  {
+    "codepoint": 536,
+    "name": "LATIN CAPITAL LETTER S WITH COMMA BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 537,
+    "name": "LATIN SMALL LETTER S WITH COMMA BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 538,
+    "name": "LATIN CAPITAL LETTER T WITH COMMA BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 539,
+    "name": "LATIN SMALL LETTER T WITH COMMA BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 773,
+    "name": "COMBINING OVERLINE",
+    "command": "\\wideoverbar"
+  },
+  {
+    "codepoint": 777,
+    "name": "COMBINING HOOK ABOVE",
+    "command": "\\ovhook"
+  },
+  {
+    "codepoint": 783,
+    "name": "COMBINING DOUBLE GRAVE ACCENT",
+    "command": ""
+  },
+  {
+    "codepoint": 785,
+    "name": "COMBINING INVERTED BREVE",
+    "command": ""
+  },
+  {
+    "codepoint": 803,
+    "name": "COMBINING DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 806,
+    "name": "COMBINING COMMA BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 812,
+    "name": "COMBINING CARON BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 813,
+    "name": "COMBINING CIRCUMFLEX ACCENT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 814,
+    "name": "COMBINING BREVE BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 815,
+    "name": "COMBINING INVERTED BREVE BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 816,
+    "name": "COMBINING TILDE BELOW",
+    "command": "\\wideutilde"
+  },
+  {
+    "codepoint": 817,
+    "name": "COMBINING MACRON BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 818,
+    "name": "COMBINING LOW LINE",
+    "command": "\\mathunderbar"
+  },
+  {
+    "codepoint": 819,
+    "name": "COMBINING DOUBLE LOW LINE",
+    "command": ""
+  },
+  {
+    "codepoint": 824,
+    "name": "COMBINING LONG SOLIDUS OVERLAY",
+    "command": "\\notaccent"
+  },
+  {
+    "codepoint": 831,
+    "name": "COMBINING DOUBLE OVERLINE",
+    "command": ""
+  },
+  {
+    "codepoint": 845,
+    "name": "COMBINING LEFT RIGHT ARROW BELOW",
+    "command": "\\underleftrightarrow"
+  },
+  {
+    "codepoint": 1008,
+    "name": "GREEK KAPPA SYMBOL",
+    "command": "\\mupvarkappa"
+  },
+  {
+    "codepoint": 1012,
+    "name": "GREEK CAPITAL THETA SYMBOL",
+    "command": "\\mupvarTheta"
+  },
+  {
+    "codepoint": 1013,
+    "name": "GREEK LUNATE EPSILON SYMBOL",
+    "command": "\\mupepsilon"
+  },
+  {
+    "codepoint": 7840,
+    "name": "LATIN CAPITAL LETTER A WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7841,
+    "name": "LATIN SMALL LETTER A WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7842,
+    "name": "LATIN CAPITAL LETTER A WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7843,
+    "name": "LATIN SMALL LETTER A WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7844,
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7845,
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7846,
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7847,
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7848,
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7849,
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7850,
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7851,
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7852,
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7853,
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7854,
+    "name": "LATIN CAPITAL LETTER A WITH BREVE AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7855,
+    "name": "LATIN SMALL LETTER A WITH BREVE AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7856,
+    "name": "LATIN CAPITAL LETTER A WITH BREVE AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7857,
+    "name": "LATIN SMALL LETTER A WITH BREVE AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7858,
+    "name": "LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7859,
+    "name": "LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7860,
+    "name": "LATIN CAPITAL LETTER A WITH BREVE AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7861,
+    "name": "LATIN SMALL LETTER A WITH BREVE AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7862,
+    "name": "LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7863,
+    "name": "LATIN SMALL LETTER A WITH BREVE AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7864,
+    "name": "LATIN CAPITAL LETTER E WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7865,
+    "name": "LATIN SMALL LETTER E WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7866,
+    "name": "LATIN CAPITAL LETTER E WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7867,
+    "name": "LATIN SMALL LETTER E WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7868,
+    "name": "LATIN CAPITAL LETTER E WITH TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7869,
+    "name": "LATIN SMALL LETTER E WITH TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7870,
+    "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7871,
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7872,
+    "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7873,
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7874,
+    "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7875,
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7876,
+    "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7877,
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7878,
+    "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7879,
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7880,
+    "name": "LATIN CAPITAL LETTER I WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7881,
+    "name": "LATIN SMALL LETTER I WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7882,
+    "name": "LATIN CAPITAL LETTER I WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7883,
+    "name": "LATIN SMALL LETTER I WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7884,
+    "name": "LATIN CAPITAL LETTER O WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7885,
+    "name": "LATIN SMALL LETTER O WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7886,
+    "name": "LATIN CAPITAL LETTER O WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7887,
+    "name": "LATIN SMALL LETTER O WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7888,
+    "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7889,
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7890,
+    "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7891,
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7892,
+    "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7893,
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7894,
+    "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7895,
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7896,
+    "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7897,
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7898,
+    "name": "LATIN CAPITAL LETTER O WITH HORN AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7899,
+    "name": "LATIN SMALL LETTER O WITH HORN AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7900,
+    "name": "LATIN CAPITAL LETTER O WITH HORN AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7901,
+    "name": "LATIN SMALL LETTER O WITH HORN AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7902,
+    "name": "LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7903,
+    "name": "LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7904,
+    "name": "LATIN CAPITAL LETTER O WITH HORN AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7905,
+    "name": "LATIN SMALL LETTER O WITH HORN AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7906,
+    "name": "LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7907,
+    "name": "LATIN SMALL LETTER O WITH HORN AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7908,
+    "name": "LATIN CAPITAL LETTER U WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7909,
+    "name": "LATIN SMALL LETTER U WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7910,
+    "name": "LATIN CAPITAL LETTER U WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7911,
+    "name": "LATIN SMALL LETTER U WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7912,
+    "name": "LATIN CAPITAL LETTER U WITH HORN AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7913,
+    "name": "LATIN SMALL LETTER U WITH HORN AND ACUTE",
+    "command": ""
+  },
+  {
+    "codepoint": 7914,
+    "name": "LATIN CAPITAL LETTER U WITH HORN AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7915,
+    "name": "LATIN SMALL LETTER U WITH HORN AND GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7916,
+    "name": "LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7917,
+    "name": "LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7918,
+    "name": "LATIN CAPITAL LETTER U WITH HORN AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7919,
+    "name": "LATIN SMALL LETTER U WITH HORN AND TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7920,
+    "name": "LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7921,
+    "name": "LATIN SMALL LETTER U WITH HORN AND DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7922,
+    "name": "LATIN CAPITAL LETTER Y WITH GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7923,
+    "name": "LATIN SMALL LETTER Y WITH GRAVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7924,
+    "name": "LATIN CAPITAL LETTER Y WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7925,
+    "name": "LATIN SMALL LETTER Y WITH DOT BELOW",
+    "command": ""
+  },
+  {
+    "codepoint": 7926,
+    "name": "LATIN CAPITAL LETTER Y WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7927,
+    "name": "LATIN SMALL LETTER Y WITH HOOK ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 7928,
+    "name": "LATIN CAPITAL LETTER Y WITH TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 7929,
+    "name": "LATIN SMALL LETTER Y WITH TILDE",
+    "command": ""
+  },
+  {
+    "codepoint": 8192,
+    "name": "EN QUAD",
+    "command": ""
+  },
+  {
+    "codepoint": 8193,
+    "name": "EM QUAD",
+    "command": ""
+  },
+  {
+    "codepoint": 8194,
+    "name": "EN SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8195,
+    "name": "EM SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8196,
+    "name": "THREE-PER-EM SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8197,
+    "name": "FOUR-PER-EM SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8198,
+    "name": "SIX-PER-EM SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8199,
+    "name": "FIGURE SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8200,
+    "name": "PUNCTUATION SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8201,
+    "name": "THIN SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8202,
+    "name": "HAIR SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8203,
+    "name": "ZERO WIDTH SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8204,
+    "name": "ZERO WIDTH NON-JOINER",
+    "command": ""
+  },
+  {
+    "codepoint": 8205,
+    "name": "ZERO WIDTH JOINER",
+    "command": ""
+  },
+  {
+    "codepoint": 8208,
+    "name": "HYPHEN",
+    "command": "\\mathhyphen"
+  },
+  {
+    "codepoint": 8210,
+    "name": "FIGURE DASH",
+    "command": ""
+  },
+  {
+    "codepoint": 8213,
+    "name": "HORIZONTAL BAR",
+    "command": "\\horizbar"
+  },
+  {
+    "codepoint": 8215,
+    "name": "DOUBLE LOW LINE",
+    "command": "\\twolowline"
+  },
+  {
+    "codepoint": 8239,
+    "name": "NARROW NO-BREAK SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8241,
+    "name": "PER TEN THOUSAND SIGN",
+    "command": ""
+  },
+  {
+    "codepoint": 8246,
+    "name": "REVERSED DOUBLE PRIME",
+    "command": "\\backdprime"
+  },
+  {
+    "codepoint": 8247,
+    "name": "REVERSED TRIPLE PRIME",
+    "command": "\\backtrprime"
+  },
+  {
+    "codepoint": 8251,
+    "name": "REFERENCE MARK",
+    "command": ""
+  },
+  {
+    "codepoint": 8253,
+    "name": "INTERROBANG",
+    "command": ""
+  },
+  {
+    "codepoint": 8274,
+    "name": "COMMERCIAL MINUS SIGN",
+    "command": ""
+  },
+  {
+    "codepoint": 8287,
+    "name": "MEDIUM MATHEMATICAL SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 8288,
+    "name": "WORD JOINER",
+    "command": ""
+  },
+  {
+    "codepoint": 8289,
+    "name": "FUNCTION APPLICATION",
+    "command": ""
+  },
+  {
+    "codepoint": 8290,
+    "name": "INVISIBLE TIMES",
+    "command": ""
+  },
+  {
+    "codepoint": 8291,
+    "name": "INVISIBLE SEPARATOR",
+    "command": ""
+  },
+  {
+    "codepoint": 8292,
+    "name": "INVISIBLE PLUS",
+    "command": ""
+  },
+  {
+    "codepoint": 8353,
+    "name": "COLON SIGN",
+    "command": ""
+  },
+  {
+    "codepoint": 8400,
+    "name": "COMBINING LEFT HARPOON ABOVE",
+    "command": "\\overleftharpoon"
+  },
+  {
+    "codepoint": 8401,
+    "name": "COMBINING RIGHT HARPOON ABOVE",
+    "command": "\\overrightharpoon"
+  },
+  {
+    "codepoint": 8402,
+    "name": "COMBINING LONG VERTICAL LINE OVERLAY",
+    "command": "\\vertoverlay"
+  },
+  {
+    "codepoint": 8403,
+    "name": "COMBINING SHORT VERTICAL LINE OVERLAY",
+    "command": ""
+  },
+  {
+    "codepoint": 8404,
+    "name": "COMBINING ANTICLOCKWISE ARROW ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 8405,
+    "name": "COMBINING CLOCKWISE ARROW ABOVE",
+    "command": ""
+  },
+  {
+    "codepoint": 8406,
+    "name": "COMBINING LEFT ARROW ABOVE",
+    "command": "\\overleftarrow"
+  },
+  {
+    "codepoint": 8408,
+    "name": "COMBINING RING OVERLAY",
+    "command": ""
+  },
+  {
+    "codepoint": 8413,
+    "name": "COMBINING ENCLOSING CIRCLE",
+    "command": "\\enclosecircle"
+  },
+  {
+    "codepoint": 8414,
+    "name": "COMBINING ENCLOSING SQUARE",
+    "command": "\\enclosesquare"
+  },
+  {
+    "codepoint": 8415,
+    "name": "COMBINING ENCLOSING DIAMOND",
+    "command": "\\enclosediamond"
+  },
+  {
+    "codepoint": 8417,
+    "name": "COMBINING LEFT RIGHT ARROW ABOVE",
+    "command": "\\overleftrightarrow"
+  },
+  {
+    "codepoint": 8420,
+    "name": "COMBINING ENCLOSING UPWARD POINTING TRIANGLE",
+    "command": "\\enclosetriangle"
+  },
+  {
+    "codepoint": 8421,
+    "name": "COMBINING REVERSE SOLIDUS OVERLAY",
+    "command": ""
+  },
+  {
+    "codepoint": 8422,
+    "name": "COMBINING DOUBLE VERTICAL STROKE OVERLAY",
+    "command": ""
+  },
+  {
+    "codepoint": 8424,
+    "name": "COMBINING TRIPLE UNDERDOT",
+    "command": "\\threeunderdot"
+  },
+  {
+    "codepoint": 8425,
+    "name": "COMBINING WIDE BRIDGE ABOVE",
+    "command": "\\widebridgeabove"
+  },
+  {
+    "codepoint": 8426,
+    "name": "COMBINING LEFTWARDS ARROW OVERLAY",
+    "command": ""
+  },
+  {
+    "codepoint": 8427,
+    "name": "COMBINING LONG DOUBLE SOLIDUS OVERLAY",
+    "command": ""
+  },
+  {
+    "codepoint": 8428,
+    "name": "COMBINING RIGHTWARDS HARPOON WITH BARB DOWNWARDS",
+    "command": "\\underrightharpoondown"
+  },
+  {
+    "codepoint": 8429,
+    "name": "COMBINING LEFTWARDS HARPOON WITH BARB DOWNWARDS",
+    "command": "\\underleftharpoondown"
+  },
+  {
+    "codepoint": 8430,
+    "name": "COMBINING LEFT ARROW BELOW",
+    "command": "\\underleftarrow"
+  },
+  {
+    "codepoint": 8431,
+    "name": "COMBINING RIGHT ARROW BELOW",
+    "command": "\\underrightarrow"
+  },
+  {
+    "codepoint": 8432,
+    "name": "COMBINING ASTERISK ABOVE",
+    "command": "\\asteraccent"
+  },
+  {
+    "codepoint": 8455,
+    "name": "EULER CONSTANT",
+    "command": "\\Eulerconst"
+  },
+  {
+    "codepoint": 8457,
+    "name": "DEGREE FAHRENHEIT",
+    "command": ""
+  },
+  {
+    "codepoint": 8460,
+    "name": "BLACK-LETTER CAPITAL H",
+    "command": "\\mfrakH"
+  },
+  {
+    "codepoint": 8470,
+    "name": "NUMERO SIGN",
+    "command": ""
+  },
+  {
+    "codepoint": 8471,
+    "name": "SOUND RECORDING COPYRIGHT",
+    "command": ""
+  },
+  {
+    "codepoint": 8478,
+    "name": "PRESCRIPTION TAKE",
+    "command": ""
+  },
+  {
+    "codepoint": 8480,
+    "name": "SERVICE MARK",
+    "command": ""
+  },
+  {
+    "codepoint": 8488,
+    "name": "BLACK-LETTER CAPITAL Z",
+    "command": "\\mfrakZ"
+  },
+  {
+    "codepoint": 8490,
+    "name": "KELVIN SIGN",
+    "command": ""
+  },
+  {
+    "codepoint": 8491,
+    "name": "ANGSTROM SIGN",
+    "command": "\\Angstrom"
+  },
+  {
+    "codepoint": 8493,
+    "name": "BLACK-LETTER CAPITAL C",
+    "command": "\\mfrakC"
+  },
+  {
+    "codepoint": 8494,
+    "name": "ESTIMATED SYMBOL",
+    "command": ""
+  },
+  {
+    "codepoint": 8508,
+    "name": "DOUBLE-STRUCK SMALL PI",
+    "command": "\\Bbbpi"
+  },
+  {
+    "codepoint": 8509,
+    "name": "DOUBLE-STRUCK SMALL GAMMA",
+    "command": "\\Bbbgamma"
+  },
+  {
+    "codepoint": 8510,
+    "name": "DOUBLE-STRUCK CAPITAL GAMMA",
+    "command": "\\BbbGamma"
+  },
+  {
+    "codepoint": 8511,
+    "name": "DOUBLE-STRUCK CAPITAL PI",
+    "command": "\\BbbPi"
+  },
+  {
+    "codepoint": 8512,
+    "name": "DOUBLE-STRUCK N-ARY SUMMATION",
+    "command": "\\Bbbsum"
+  },
+  {
+    "codepoint": 8517,
+    "name": "DOUBLE-STRUCK ITALIC CAPITAL D",
+    "command": "\\mitBbbD"
+  },
+  {
+    "codepoint": 8518,
+    "name": "DOUBLE-STRUCK ITALIC SMALL D",
+    "command": "\\mitBbbd"
+  },
+  {
+    "codepoint": 8519,
+    "name": "DOUBLE-STRUCK ITALIC SMALL E",
+    "command": "\\mitBbbe"
+  },
+  {
+    "codepoint": 8520,
+    "name": "DOUBLE-STRUCK ITALIC SMALL I",
+    "command": "\\mitBbbi"
+  },
+  {
+    "codepoint": 8521,
+    "name": "DOUBLE-STRUCK ITALIC SMALL J",
+    "command": "\\mitBbbj"
+  },
+  {
+    "codepoint": 8607,
+    "name": "UPWARDS TWO HEADED ARROW",
+    "command": "\\twoheaduparrow"
+  },
+  {
+    "codepoint": 8609,
+    "name": "DOWNWARDS TWO HEADED ARROW",
+    "command": "\\twoheaddownarrow"
+  },
+  {
+    "codepoint": 8612,
+    "name": "LEFTWARDS ARROW FROM BAR",
+    "command": "\\mapsfrom"
+  },
+  {
+    "codepoint": 8613,
+    "name": "UPWARDS ARROW FROM BAR",
+    "command": "\\mapsup"
+  },
+  {
+    "codepoint": 8615,
+    "name": "DOWNWARDS ARROW FROM BAR",
+    "command": "\\mapsdown"
+  },
+  {
+    "codepoint": 8626,
+    "name": "DOWNWARDS ARROW WITH TIP LEFTWARDS",
+    "command": "\\Ldsh"
+  },
+  {
+    "codepoint": 8627,
+    "name": "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
+    "command": "\\Rdsh"
+  },
+  {
+    "codepoint": 8628,
+    "name": "RIGHTWARDS ARROW WITH CORNER DOWNWARDS",
+    "command": "\\linefeed"
+  },
+  {
+    "codepoint": 8629,
+    "name": "DOWNWARDS ARROW WITH CORNER LEFTWARDS",
+    "command": "\\carriagereturn"
+  },
+  {
+    "codepoint": 8634,
+    "name": "ANTICLOCKWISE OPEN CIRCLE ARROW",
+    "command": "\\acwopencirclearrow"
+  },
+  {
+    "codepoint": 8635,
+    "name": "CLOCKWISE OPEN CIRCLE ARROW",
+    "command": "\\cwopencirclearrow"
+  },
+  {
+    "codepoint": 8645,
+    "name": "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
+    "command": "\\updownarrows"
+  },
+  {
+    "codepoint": 8662,
+    "name": "NORTH WEST DOUBLE ARROW",
+    "command": "\\Nwarrow"
+  },
+  {
+    "codepoint": 8663,
+    "name": "NORTH EAST DOUBLE ARROW",
+    "command": "\\Nearrow"
+  },
+  {
+    "codepoint": 8664,
+    "name": "SOUTH EAST DOUBLE ARROW",
+    "command": "\\Searrow"
+  },
+  {
+    "codepoint": 8665,
+    "name": "SOUTH WEST DOUBLE ARROW",
+    "command": "\\Swarrow"
+  },
+  {
+    "codepoint": 8668,
+    "name": "LEFTWARDS SQUIGGLE ARROW",
+    "command": "\\leftsquigarrow"
+  },
+  {
+    "codepoint": 8678,
+    "name": "LEFTWARDS WHITE ARROW",
+    "command": "\\leftwhitearrow"
+  },
+  {
+    "codepoint": 8679,
+    "name": "UPWARDS WHITE ARROW",
+    "command": "\\upwhitearrow"
+  },
+  {
+    "codepoint": 8680,
+    "name": "RIGHTWARDS WHITE ARROW",
+    "command": "\\rightwhitearrow"
+  },
+  {
+    "codepoint": 8681,
+    "name": "DOWNWARDS WHITE ARROW",
+    "command": "\\downwhitearrow"
+  },
+  {
+    "codepoint": 8691,
+    "name": "UP DOWN WHITE ARROW",
+    "command": ""
+  },
+  {
+    "codepoint": 8693,
+    "name": "DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW",
+    "command": "\\downuparrows"
+  },
+  {
+    "codepoint": 8694,
+    "name": "THREE RIGHTWARDS ARROWS",
+    "command": "\\rightthreearrows"
+  },
+  {
+    "codepoint": 8710,
+    "name": "INCREMENT",
+    "command": "\\increment"
+  },
+  {
+    "codepoint": 8714,
+    "name": "SMALL ELEMENT OF",
+    "command": "\\smallin"
+  },
+  {
+    "codepoint": 8717,
+    "name": "SMALL CONTAINS AS MEMBER",
+    "command": "\\smallni"
+  },
+  {
+    "codepoint": 8718,
+    "name": "END OF PROOF",
+    "command": "\\QED"
+  },
+  {
+    "codepoint": 8725,
+    "name": "DIVISION SLASH",
+    "command": "\\divslash"
+  },
+  {
+    "codepoint": 8726,
+    "name": "SET MINUS",
+    "command": "\\setminus"
+  },
+  {
+    "codepoint": 8728,
+    "name": "RING OPERATOR",
+    "command": "\\vysmwhtcircle"
+  },
+  {
+    "codepoint": 8729,
+    "name": "BULLET OPERATOR",
+    "command": "\\vysmblkcircle"
+  },
+  {
+    "codepoint": 8735,
+    "name": "RIGHT ANGLE",
+    "command": "\\rightangle"
+  },
+  {
+    "codepoint": 8741,
+    "name": "PARALLEL TO",
+    "command": "\\parallel"
+  },
+  {
+    "codepoint": 8748,
+    "name": "DOUBLE INTEGRAL",
+    "command": "\\iint"
+  },
+  {
+    "codepoint": 8749,
+    "name": "TRIPLE INTEGRAL",
+    "command": "\\iiint"
+  },
+  {
+    "codepoint": 8759,
+    "name": "PROPORTION",
+    "command": "\\Colon"
+  },
+  {
+    "codepoint": 8760,
+    "name": "DOT MINUS",
+    "command": "\\dotminus"
+  },
+  {
+    "codepoint": 8761,
+    "name": "EXCESS",
+    "command": "\\dashcolon"
+  },
+  {
+    "codepoint": 8762,
+    "name": "GEOMETRIC PROPORTION",
+    "command": "\\dotsminusdots"
+  },
+  {
+    "codepoint": 8763,
+    "name": "HOMOTHETIC",
+    "command": "\\kernelcontraction"
+  },
+  {
+    "codepoint": 8766,
+    "name": "INVERTED LAZY S",
+    "command": "\\invlazys"
+  },
+  {
+    "codepoint": 8767,
+    "name": "SINE WAVE",
+    "command": "\\sinewave"
+  },
+  {
+    "codepoint": 8772,
+    "name": "NOT ASYMPTOTICALLY EQUAL TO",
+    "command": "\\nsimeq"
+  },
+  {
+    "codepoint": 8773,
+    "name": "APPROXIMATELY EQUAL TO",
+    "command": "\\cong"
+  },
+  {
+    "codepoint": 8774,
+    "name": "APPROXIMATELY BUT NOT ACTUALLY EQUAL TO",
+    "command": "\\simneqq"
+  },
+  {
+    "codepoint": 8777,
+    "name": "NOT ALMOST EQUAL TO",
+    "command": "\\napprox"
+  },
+  {
+    "codepoint": 8779,
+    "name": "TRIPLE TILDE",
+    "command": "\\approxident"
+  },
+  {
+    "codepoint": 8780,
+    "name": "ALL EQUAL TO",
+    "command": "\\backcong"
+  },
+  {
+    "codepoint": 8784,
+    "name": "APPROACHES THE LIMIT",
+    "command": "\\doteq"
+  },
+  {
+    "codepoint": 8788,
+    "name": "COLON EQUALS",
+    "command": "\\coloneq"
+  },
+  {
+    "codepoint": 8789,
+    "name": "EQUALS COLON",
+    "command": "\\eqcolon"
+  },
+  {
+    "codepoint": 8792,
+    "name": "CORRESPONDS TO",
+    "command": "\\arceq"
+  },
+  {
+    "codepoint": 8793,
+    "name": "ESTIMATES",
+    "command": "\\wedgeq"
+  },
+  {
+    "codepoint": 8794,
+    "name": "EQUIANGULAR TO",
+    "command": "\\veeeq"
+  },
+  {
+    "codepoint": 8795,
+    "name": "STAR EQUALS",
+    "command": "\\stareq"
+  },
+  {
+    "codepoint": 8797,
+    "name": "EQUAL TO BY DEFINITION",
+    "command": "\\eqdef"
+  },
+  {
+    "codepoint": 8798,
+    "name": "MEASURED BY",
+    "command": "\\measeq"
+  },
+  {
+    "codepoint": 8799,
+    "name": "QUESTIONED EQUAL TO",
+    "command": "\\questeq"
+  },
+  {
+    "codepoint": 8802,
+    "name": "NOT IDENTICAL TO",
+    "command": "\\nequiv"
+  },
+  {
+    "codepoint": 8803,
+    "name": "STRICTLY EQUIVALENT TO",
+    "command": "\\Equiv"
+  },
+  {
+    "codepoint": 8813,
+    "name": "NOT EQUIVALENT TO",
+    "command": "\\nasymp"
+  },
+  {
+    "codepoint": 8820,
+    "name": "NEITHER LESS-THAN NOR EQUIVALENT TO",
+    "command": "\\nlesssim"
+  },
+  {
+    "codepoint": 8821,
+    "name": "NEITHER GREATER-THAN NOR EQUIVALENT TO",
+    "command": "\\ngtrsim"
+  },
+  {
+    "codepoint": 8824,
+    "name": "NEITHER LESS-THAN NOR GREATER-THAN",
+    "command": "\\nlessgtr"
+  },
+  {
+    "codepoint": 8825,
+    "name": "NEITHER GREATER-THAN NOR LESS-THAN",
+    "command": "\\ngtrless"
+  },
+  {
+    "codepoint": 8836,
+    "name": "NOT A SUBSET OF",
+    "command": "\\nsubset"
+  },
+  {
+    "codepoint": 8837,
+    "name": "NOT A SUPERSET OF",
+    "command": "\\nsupset"
+  },
+  {
+    "codepoint": 8844,
+    "name": "MULTISET",
+    "command": "\\cupleftarrow"
+  },
+  {
+    "codepoint": 8845,
+    "name": "MULTISET MULTIPLICATION",
+    "command": "\\cupdot"
+  },
+  {
+    "codepoint": 8860,
+    "name": "CIRCLED EQUALS",
+    "command": "\\circledequal"
+  },
+  {
+    "codepoint": 8870,
+    "name": "ASSERTION",
+    "command": "\\assert"
+  },
+  {
+    "codepoint": 8871,
+    "name": "MODELS",
+    "command": "\\models"
+  },
+  {
+    "codepoint": 8875,
+    "name": "DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE",
+    "command": "\\VDash"
+  },
+  {
+    "codepoint": 8886,
+    "name": "ORIGINAL OF",
+    "command": "\\origof"
+  },
+  {
+    "codepoint": 8887,
+    "name": "IMAGE OF",
+    "command": "\\imageof"
+  },
+  {
+    "codepoint": 8889,
+    "name": "HERMITIAN CONJUGATE MATRIX",
+    "command": "\\hermitmatrix"
+  },
+  {
+    "codepoint": 8893,
+    "name": "NOR",
+    "command": "\\barvee"
+  },
+  {
+    "codepoint": 8894,
+    "name": "RIGHT ANGLE WITH ARC",
+    "command": "\\measuredrightangle"
+  },
+  {
+    "codepoint": 8895,
+    "name": "RIGHT TRIANGLE",
+    "command": "\\varlrtriangle"
+  },
+  {
+    "codepoint": 8904,
+    "name": "BOWTIE",
+    "command": "\\bowtie"
+  },
+  {
+    "codepoint": 8917,
+    "name": "EQUAL AND PARALLEL TO",
+    "command": "\\equalparallel"
+  },
+  {
+    "codepoint": 8924,
+    "name": "EQUAL TO OR LESS-THAN",
+    "command": "\\eqless"
+  },
+  {
+    "codepoint": 8925,
+    "name": "EQUAL TO OR GREATER-THAN",
+    "command": "\\eqgtr"
+  },
+  {
+    "codepoint": 8930,
+    "name": "NOT SQUARE IMAGE OF OR EQUAL TO",
+    "command": "\\nsqsubseteq"
+  },
+  {
+    "codepoint": 8931,
+    "name": "NOT SQUARE ORIGINAL OF OR EQUAL TO",
+    "command": "\\nsqsupseteq"
+  },
+  {
+    "codepoint": 8932,
+    "name": "SQUARE IMAGE OF OR NOT EQUAL TO",
+    "command": "\\sqsubsetneq"
+  },
+  {
+    "codepoint": 8933,
+    "name": "SQUARE ORIGINAL OF OR NOT EQUAL TO",
+    "command": "\\sqsupsetneq"
+  },
+  {
+    "codepoint": 8944,
+    "name": "UP RIGHT DIAGONAL ELLIPSIS",
+    "command": "\\adots"
+  },
+  {
+    "codepoint": 8960,
+    "name": "DIAMETER SIGN",
+    "command": "\\diameter"
+  },
+  {
+    "codepoint": 8965,
+    "name": "PROJECTIVE",
+    "command": "\\varbarwedge"
+  },
+  {
+    "codepoint": 8966,
+    "name": "PERSPECTIVE",
+    "command": "\\vardoublebarwedge"
+  },
+  {
+    "codepoint": 8976,
+    "name": "REVERSED NOT SIGN",
+    "command": "\\invnot"
+  },
+  {
+    "codepoint": 8985,
+    "name": "TURNED NOT SIGN",
+    "command": "\\turnednot"
+  },
+  {
+    "codepoint": 8988,
+    "name": "TOP LEFT CORNER",
+    "command": "\\ulcorner"
+  },
+  {
+    "codepoint": 8989,
+    "name": "TOP RIGHT CORNER",
+    "command": "\\urcorner"
+  },
+  {
+    "codepoint": 8990,
+    "name": "BOTTOM LEFT CORNER",
+    "command": "\\llcorner"
+  },
+  {
+    "codepoint": 8991,
+    "name": "BOTTOM RIGHT CORNER",
+    "command": "\\lrcorner"
+  },
+  {
+    "codepoint": 8992,
+    "name": "TOP HALF INTEGRAL",
+    "command": "\\inttop"
+  },
+  {
+    "codepoint": 8993,
+    "name": "BOTTOM HALF INTEGRAL",
+    "command": "\\intbottom"
+  },
+  {
+    "codepoint": 9001,
+    "name": "LEFT-POINTING ANGLE BRACKET",
+    "command": ""
+  },
+  {
+    "codepoint": 9002,
+    "name": "RIGHT-POINTING ANGLE BRACKET",
+    "command": ""
+  },
+  {
+    "codepoint": 9115,
+    "name": "LEFT PARENTHESIS UPPER HOOK",
+    "command": "\\lparenuend"
+  },
+  {
+    "codepoint": 9116,
+    "name": "LEFT PARENTHESIS EXTENSION",
+    "command": "\\lparenextender"
+  },
+  {
+    "codepoint": 9117,
+    "name": "LEFT PARENTHESIS LOWER HOOK",
+    "command": "\\lparenlend"
+  },
+  {
+    "codepoint": 9118,
+    "name": "RIGHT PARENTHESIS UPPER HOOK",
+    "command": "\\rparenuend"
+  },
+  {
+    "codepoint": 9119,
+    "name": "RIGHT PARENTHESIS EXTENSION",
+    "command": "\\rparenextender"
+  },
+  {
+    "codepoint": 9120,
+    "name": "RIGHT PARENTHESIS LOWER HOOK",
+    "command": "\\rparenlend"
+  },
+  {
+    "codepoint": 9121,
+    "name": "LEFT SQUARE BRACKET UPPER CORNER",
+    "command": "\\lbrackuend"
+  },
+  {
+    "codepoint": 9122,
+    "name": "LEFT SQUARE BRACKET EXTENSION",
+    "command": "\\lbrackextender"
+  },
+  {
+    "codepoint": 9123,
+    "name": "LEFT SQUARE BRACKET LOWER CORNER",
+    "command": "\\lbracklend"
+  },
+  {
+    "codepoint": 9124,
+    "name": "RIGHT SQUARE BRACKET UPPER CORNER",
+    "command": "\\rbrackuend"
+  },
+  {
+    "codepoint": 9125,
+    "name": "RIGHT SQUARE BRACKET EXTENSION",
+    "command": "\\rbrackextender"
+  },
+  {
+    "codepoint": 9126,
+    "name": "RIGHT SQUARE BRACKET LOWER CORNER",
+    "command": "\\rbracklend"
+  },
+  {
+    "codepoint": 9127,
+    "name": "LEFT CURLY BRACKET UPPER HOOK",
+    "command": "\\lbraceuend"
+  },
+  {
+    "codepoint": 9128,
+    "name": "LEFT CURLY BRACKET MIDDLE PIECE",
+    "command": "\\lbracemid"
+  },
+  {
+    "codepoint": 9129,
+    "name": "LEFT CURLY BRACKET LOWER HOOK",
+    "command": "\\lbracelend"
+  },
+  {
+    "codepoint": 9130,
+    "name": "CURLY BRACKET EXTENSION",
+    "command": "\\vbraceextender"
+  },
+  {
+    "codepoint": 9131,
+    "name": "RIGHT CURLY BRACKET UPPER HOOK",
+    "command": "\\rbraceuend"
+  },
+  {
+    "codepoint": 9132,
+    "name": "RIGHT CURLY BRACKET MIDDLE PIECE",
+    "command": "\\rbracemid"
+  },
+  {
+    "codepoint": 9133,
+    "name": "RIGHT CURLY BRACKET LOWER HOOK",
+    "command": "\\rbracelend"
+  },
+  {
+    "codepoint": 9138,
+    "name": "SUMMATION TOP",
+    "command": "\\sumtop"
+  },
+  {
+    "codepoint": 9139,
+    "name": "SUMMATION BOTTOM",
+    "command": "\\sumbottom"
+  },
+  {
+    "codepoint": 9140,
+    "name": "TOP SQUARE BRACKET",
+    "command": "\\overbracket"
+  },
+  {
+    "codepoint": 9141,
+    "name": "BOTTOM SQUARE BRACKET",
+    "command": "\\underbracket"
+  },
+  {
+    "codepoint": 9143,
+    "name": "RADICAL SYMBOL BOTTOM",
+    "command": "\\sqrtbottom"
+  },
+  {
+    "codepoint": 9168,
+    "name": "VERTICAL LINE EXTENSION",
+    "command": ""
+  },
+  {
+    "codepoint": 9180,
+    "name": "TOP PARENTHESIS",
+    "command": "\\overparen"
+  },
+  {
+    "codepoint": 9181,
+    "name": "BOTTOM PARENTHESIS",
+    "command": "\\underparen"
+  },
+  {
+    "codepoint": 9184,
+    "name": "TOP TORTOISE SHELL BRACKET",
+    "command": "\\obrbrak"
+  },
+  {
+    "codepoint": 9185,
+    "name": "BOTTOM TORTOISE SHELL BRACKET",
+    "command": "\\ubrbrak"
+  },
+  {
+    "codepoint": 9250,
+    "name": "BLANK SYMBOL",
+    "command": "\\blanksymbol"
+  },
+  {
+    "codepoint": 9472,
+    "name": "BOX DRAWINGS LIGHT HORIZONTAL",
+    "command": ""
+  },
+  {
+    "codepoint": 9474,
+    "name": "BOX DRAWINGS LIGHT VERTICAL",
+    "command": ""
+  },
+  {
+    "codepoint": 9484,
+    "name": "BOX DRAWINGS LIGHT DOWN AND RIGHT",
+    "command": ""
+  },
+  {
+    "codepoint": 9488,
+    "name": "BOX DRAWINGS LIGHT DOWN AND LEFT",
+    "command": ""
+  },
+  {
+    "codepoint": 9492,
+    "name": "BOX DRAWINGS LIGHT UP AND RIGHT",
+    "command": ""
+  },
+  {
+    "codepoint": 9496,
+    "name": "BOX DRAWINGS LIGHT UP AND LEFT",
+    "command": ""
+  },
+  {
+    "codepoint": 9500,
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT",
+    "command": ""
+  },
+  {
+    "codepoint": 9508,
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND LEFT",
+    "command": ""
+  },
+  {
+    "codepoint": 9516,
+    "name": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL",
+    "command": ""
+  },
+  {
+    "codepoint": 9524,
+    "name": "BOX DRAWINGS LIGHT UP AND HORIZONTAL",
+    "command": ""
+  },
+  {
+    "codepoint": 9532,
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL",
+    "command": ""
+  },
+  {
+    "codepoint": 9601,
+    "name": "LOWER ONE EIGHTH BLOCK",
+    "command": ""
+  },
+  {
+    "codepoint": 9608,
+    "name": "FULL BLOCK",
+    "command": "\\blockfull"
+  },
+  {
+    "codepoint": 9617,
+    "name": "LIGHT SHADE",
+    "command": "\\blockqtrshaded"
+  },
+  {
+    "codepoint": 9618,
+    "name": "MEDIUM SHADE",
+    "command": "\\blockhalfshaded"
+  },
+  {
+    "codepoint": 9619,
+    "name": "DARK SHADE",
+    "command": "\\blockthreeqtrshaded"
+  },
+  {
+    "codepoint": 9642,
+    "name": "BLACK SMALL SQUARE",
+    "command": "\\smblksquare"
+  },
+  {
+    "codepoint": 9643,
+    "name": "WHITE SMALL SQUARE",
+    "command": "\\smwhtsquare"
+  },
+  {
+    "codepoint": 9644,
+    "name": "BLACK RECTANGLE",
+    "command": "\\hrectangleblack"
+  },
+  {
+    "codepoint": 9645,
+    "name": "WHITE RECTANGLE",
+    "command": "\\hrectangle"
+  },
+  {
+    "codepoint": 9650,
+    "name": "BLACK UP-POINTING TRIANGLE",
+    "command": "\\bigblacktriangleup"
+  },
+  {
+    "codepoint": 9655,
+    "name": "WHITE RIGHT-POINTING TRIANGLE",
+    "command": "\\triangleright"
+  },
+  {
+    "codepoint": 9660,
+    "name": "BLACK DOWN-POINTING TRIANGLE",
+    "command": "\\bigblacktriangledown"
+  },
+  {
+    "codepoint": 9661,
+    "name": "WHITE DOWN-POINTING TRIANGLE",
+    "command": "\\bigtriangledown"
+  },
+  {
+    "codepoint": 9665,
+    "name": "WHITE LEFT-POINTING TRIANGLE",
+    "command": "\\triangleleft"
+  },
+  {
+    "codepoint": 9675,
+    "name": "WHITE CIRCLE",
+    "command": "\\mdlgwhtcircle"
+  },
+  {
+    "codepoint": 9679,
+    "name": "BLACK CIRCLE",
+    "command": "\\mdlgblkcircle"
+  },
+  {
+    "codepoint": 9711,
+    "name": "LARGE CIRCLE",
+    "command": "\\lgwhtcircle"
+  },
+  {
+    "codepoint": 9825,
+    "name": "WHITE HEART SUIT",
+    "command": "\\heartsuit"
+  },
+  {
+    "codepoint": 9826,
+    "name": "WHITE DIAMOND SUIT",
+    "command": "\\diamondsuit"
+  },
+  {
+    "codepoint": 9828,
+    "name": "WHITE SPADE SUIT",
+    "command": "\\varspadesuit"
+  },
+  {
+    "codepoint": 9831,
+    "name": "WHITE CLUB SUIT",
+    "command": "\\varclubsuit"
+  },
+  {
+    "codepoint": 9834,
+    "name": "EIGHTH NOTE",
+    "command": "\\eighthnote"
+  },
+  {
+    "codepoint": 9901,
+    "name": "MARRIAGE SYMBOL",
+    "command": ""
+  },
+  {
+    "codepoint": 9902,
+    "name": "DIVORCE SYMBOL",
+    "command": ""
+  },
+  {
+    "codepoint": 10003,
+    "name": "CHECK MARK",
+    "command": "\\checkmark"
+  },
+  {
+    "codepoint": 10016,
+    "name": "MALTESE CROSS",
+    "command": "\\maltese"
+  },
+  {
+    "codepoint": 10074,
+    "name": "HEAVY VERTICAL BAR",
+    "command": ""
+  },
+  {
+    "codepoint": 10145,
+    "name": "BLACK RIGHTWARDS ARROW",
+    "command": ""
+  },
+  {
+    "codepoint": 10178,
+    "name": "PERPENDICULAR",
+    "command": "\\perp"
+  },
+  {
+    "codepoint": 10200,
+    "name": "LARGE UP TACK",
+    "command": "\\bigbot"
+  },
+  {
+    "codepoint": 10201,
+    "name": "LARGE DOWN TACK",
+    "command": "\\bigtop"
+  },
+  {
+    "codepoint": 10202,
+    "name": "LEFT AND RIGHT DOUBLE TURNSTILE",
+    "command": "\\DashVDash"
+  },
+  {
+    "codepoint": 10203,
+    "name": "LEFT AND RIGHT TACK",
+    "command": "\\dashVdash"
+  },
+  {
+    "codepoint": 10204,
+    "name": "LEFT MULTIMAP",
+    "command": "\\multimapinv"
+  },
+  {
+    "codepoint": 10205,
+    "name": "LONG RIGHT TACK",
+    "command": "\\vlongdash"
+  },
+  {
+    "codepoint": 10206,
+    "name": "LONG LEFT TACK",
+    "command": "\\longdashv"
+  },
+  {
+    "codepoint": 10208,
+    "name": "LOZENGE DIVIDED BY HORIZONTAL RULE",
+    "command": "\\lozengeminus"
+  },
+  {
+    "codepoint": 10209,
+    "name": "WHITE CONCAVE-SIDED DIAMOND",
+    "command": "\\concavediamond"
+  },
+  {
+    "codepoint": 10210,
+    "name": "WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK",
+    "command": "\\concavediamondtickleft"
+  },
+  {
+    "codepoint": 10211,
+    "name": "WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK",
+    "command": "\\concavediamondtickright"
+  },
+  {
+    "codepoint": 10214,
+    "name": "MATHEMATICAL LEFT WHITE SQUARE BRACKET",
+    "command": "\\lBrack"
+  },
+  {
+    "codepoint": 10215,
+    "name": "MATHEMATICAL RIGHT WHITE SQUARE BRACKET",
+    "command": "\\rBrack"
+  },
+  {
+    "codepoint": 10218,
+    "name": "MATHEMATICAL LEFT DOUBLE ANGLE BRACKET",
+    "command": "\\lAngle"
+  },
+  {
+    "codepoint": 10219,
+    "name": "MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET",
+    "command": "\\rAngle"
+  },
+  {
+    "codepoint": 10222,
+    "name": "MATHEMATICAL LEFT FLATTENED PARENTHESIS",
+    "command": "\\lgroup"
+  },
+  {
+    "codepoint": 10223,
+    "name": "MATHEMATICAL RIGHT FLATTENED PARENTHESIS",
+    "command": "\\rgroup"
+  },
+  {
+    "codepoint": 10228,
+    "name": "RIGHT ARROW WITH CIRCLED PLUS",
+    "command": "\\rightarrowonoplus"
+  },
+  {
+    "codepoint": 10229,
+    "name": "LONG LEFTWARDS ARROW",
+    "command": "\\longleftarrow"
+  },
+  {
+    "codepoint": 10230,
+    "name": "LONG RIGHTWARDS ARROW",
+    "command": "\\longrightarrow"
+  },
+  {
+    "codepoint": 10231,
+    "name": "LONG LEFT RIGHT ARROW",
+    "command": "\\longleftrightarrow"
+  },
+  {
+    "codepoint": 10234,
+    "name": "LONG LEFT RIGHT DOUBLE ARROW",
+    "command": "\\Longleftrightarrow"
+  },
+  {
+    "codepoint": 10235,
+    "name": "LONG LEFTWARDS ARROW FROM BAR",
+    "command": "\\longmapsfrom"
+  },
+  {
+    "codepoint": 10236,
+    "name": "LONG RIGHTWARDS ARROW FROM BAR",
+    "command": "\\longmapsto"
+  },
+  {
+    "codepoint": 10237,
+    "name": "LONG LEFTWARDS DOUBLE ARROW FROM BAR",
+    "command": "\\Longmapsfrom"
+  },
+  {
+    "codepoint": 10238,
+    "name": "LONG RIGHTWARDS DOUBLE ARROW FROM BAR",
+    "command": "\\Longmapsto"
+  },
+  {
+    "codepoint": 10239,
+    "name": "LONG RIGHTWARDS SQUIGGLE ARROW",
+    "command": "\\longrightsquigarrow"
+  },
+  {
+    "codepoint": 10502,
+    "name": "LEFTWARDS DOUBLE ARROW FROM BAR",
+    "command": "\\Mapsfrom"
+  },
+  {
+    "codepoint": 10503,
+    "name": "RIGHTWARDS DOUBLE ARROW FROM BAR",
+    "command": "\\Mapsto"
+  },
+  {
+    "codepoint": 10755,
+    "name": "N-ARY UNION OPERATOR WITH DOT",
+    "command": "\\bigcupdot"
+  },
+  {
+    "codepoint": 10757,
+    "name": "N-ARY SQUARE INTERSECTION OPERATOR",
+    "command": "\\bigsqcap"
+  },
+  {
+    "codepoint": 10761,
+    "name": "N-ARY TIMES OPERATOR",
+    "command": "\\bigtimes"
+  },
+  {
+    "codepoint": 10764,
+    "name": "QUADRUPLE INTEGRAL OPERATOR",
+    "command": "\\iiiint"
+  },
+  {
+    "codepoint": 10769,
+    "name": "ANTICLOCKWISE INTEGRATION",
+    "command": "\\awint"
+  },
+  {
+    "codepoint": 10799,
+    "name": "VECTOR OR CROSS PRODUCT",
+    "command": "\\vectimes"
+  },
+  {
+    "codepoint": 10815,
+    "name": "AMALGAMATION OR COPRODUCT",
+    "command": "\\amalg"
+  },
+  {
+    "codepoint": 10901,
+    "name": "SLANTED EQUAL TO OR LESS-THAN",
+    "command": "\\eqslantless"
+  },
+  {
+    "codepoint": 10902,
+    "name": "SLANTED EQUAL TO OR GREATER-THAN",
+    "command": "\\eqslantgtr"
+  },
+  {
+    "codepoint": 11012,
+    "name": "LEFT RIGHT WHITE ARROW",
+    "command": ""
+  },
+  {
+    "codepoint": 11013,
+    "name": "LEFTWARDS BLACK ARROW",
+    "command": ""
+  },
+  {
+    "codepoint": 11014,
+    "name": "UPWARDS BLACK ARROW",
+    "command": ""
+  },
+  {
+    "codepoint": 11015,
+    "name": "DOWNWARDS BLACK ARROW",
+    "command": ""
+  },
+  {
+    "codepoint": 11020,
+    "name": "LEFT RIGHT BLACK ARROW",
+    "command": ""
+  },
+  {
+    "codepoint": 11021,
+    "name": "UP DOWN BLACK ARROW",
+    "command": ""
+  },
+  {
+    "codepoint": 11034,
+    "name": "DOTTED SQUARE",
+    "command": "\\dottedsquare"
+  },
+  {
+    "codepoint": 11057,
+    "name": "THREE LEFTWARDS ARROWS",
+    "command": "\\leftthreearrows"
+  },
+  {
+    "codepoint": 11059,
+    "name": "LONG LEFTWARDS SQUIGGLE ARROW",
+    "command": "\\longleftsquigarrow"
+  },
+  {
+    "codepoint": 12310,
+    "name": "LEFT WHITE LENTICULAR BRACKET",
+    "command": ""
+  },
+  {
+    "codepoint": 12311,
+    "name": "RIGHT WHITE LENTICULAR BRACKET",
+    "command": ""
+  },
+  {
+    "codepoint": 65279,
+    "name": "ZERO WIDTH NO-BREAK SPACE",
+    "command": ""
+  },
+  {
+    "codepoint": 120016,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL A",
+    "command": "\\mbfscrA"
+  },
+  {
+    "codepoint": 120017,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL B",
+    "command": "\\mbfscrB"
+  },
+  {
+    "codepoint": 120018,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL C",
+    "command": "\\mbfscrC"
+  },
+  {
+    "codepoint": 120019,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL D",
+    "command": "\\mbfscrD"
+  },
+  {
+    "codepoint": 120020,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL E",
+    "command": "\\mbfscrE"
+  },
+  {
+    "codepoint": 120021,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL F",
+    "command": "\\mbfscrF"
+  },
+  {
+    "codepoint": 120022,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL G",
+    "command": "\\mbfscrG"
+  },
+  {
+    "codepoint": 120023,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL H",
+    "command": "\\mbfscrH"
+  },
+  {
+    "codepoint": 120024,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL I",
+    "command": "\\mbfscrI"
+  },
+  {
+    "codepoint": 120025,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL J",
+    "command": "\\mbfscrJ"
+  },
+  {
+    "codepoint": 120026,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL K",
+    "command": "\\mbfscrK"
+  },
+  {
+    "codepoint": 120027,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL L",
+    "command": "\\mbfscrL"
+  },
+  {
+    "codepoint": 120028,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL M",
+    "command": "\\mbfscrM"
+  },
+  {
+    "codepoint": 120029,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL N",
+    "command": "\\mbfscrN"
+  },
+  {
+    "codepoint": 120030,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL O",
+    "command": "\\mbfscrO"
+  },
+  {
+    "codepoint": 120031,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL P",
+    "command": "\\mbfscrP"
+  },
+  {
+    "codepoint": 120032,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL Q",
+    "command": "\\mbfscrQ"
+  },
+  {
+    "codepoint": 120033,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL R",
+    "command": "\\mbfscrR"
+  },
+  {
+    "codepoint": 120034,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL S",
+    "command": "\\mbfscrS"
+  },
+  {
+    "codepoint": 120035,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL T",
+    "command": "\\mbfscrT"
+  },
+  {
+    "codepoint": 120036,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL U",
+    "command": "\\mbfscrU"
+  },
+  {
+    "codepoint": 120037,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL V",
+    "command": "\\mbfscrV"
+  },
+  {
+    "codepoint": 120038,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL W",
+    "command": "\\mbfscrW"
+  },
+  {
+    "codepoint": 120039,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL X",
+    "command": "\\mbfscrX"
+  },
+  {
+    "codepoint": 120040,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL Y",
+    "command": "\\mbfscrY"
+  },
+  {
+    "codepoint": 120041,
+    "name": "MATHEMATICAL BOLD SCRIPT CAPITAL Z",
+    "command": "\\mbfscrZ"
+  },
+  {
+    "codepoint": 120068,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL A",
+    "command": "\\mfrakA"
+  },
+  {
+    "codepoint": 120069,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL B",
+    "command": "\\mfrakB"
+  },
+  {
+    "codepoint": 120071,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL D",
+    "command": "\\mfrakD"
+  },
+  {
+    "codepoint": 120072,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL E",
+    "command": "\\mfrakE"
+  },
+  {
+    "codepoint": 120073,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL F",
+    "command": "\\mfrakF"
+  },
+  {
+    "codepoint": 120074,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL G",
+    "command": "\\mfrakG"
+  },
+  {
+    "codepoint": 120077,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL J",
+    "command": "\\mfrakJ"
+  },
+  {
+    "codepoint": 120078,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL K",
+    "command": "\\mfrakK"
+  },
+  {
+    "codepoint": 120079,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL L",
+    "command": "\\mfrakL"
+  },
+  {
+    "codepoint": 120080,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL M",
+    "command": "\\mfrakM"
+  },
+  {
+    "codepoint": 120081,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL N",
+    "command": "\\mfrakN"
+  },
+  {
+    "codepoint": 120082,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL O",
+    "command": "\\mfrakO"
+  },
+  {
+    "codepoint": 120083,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL P",
+    "command": "\\mfrakP"
+  },
+  {
+    "codepoint": 120084,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL Q",
+    "command": "\\mfrakQ"
+  },
+  {
+    "codepoint": 120086,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL S",
+    "command": "\\mfrakS"
+  },
+  {
+    "codepoint": 120087,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL T",
+    "command": "\\mfrakT"
+  },
+  {
+    "codepoint": 120088,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL U",
+    "command": "\\mfrakU"
+  },
+  {
+    "codepoint": 120089,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL V",
+    "command": "\\mfrakV"
+  },
+  {
+    "codepoint": 120090,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL W",
+    "command": "\\mfrakW"
+  },
+  {
+    "codepoint": 120091,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL X",
+    "command": "\\mfrakX"
+  },
+  {
+    "codepoint": 120092,
+    "name": "MATHEMATICAL FRAKTUR CAPITAL Y",
+    "command": "\\mfrakY"
+  },
+  {
+    "codepoint": 120094,
+    "name": "MATHEMATICAL FRAKTUR SMALL A",
+    "command": "\\mfraka"
+  },
+  {
+    "codepoint": 120095,
+    "name": "MATHEMATICAL FRAKTUR SMALL B",
+    "command": "\\mfrakb"
+  },
+  {
+    "codepoint": 120096,
+    "name": "MATHEMATICAL FRAKTUR SMALL C",
+    "command": "\\mfrakc"
+  },
+  {
+    "codepoint": 120097,
+    "name": "MATHEMATICAL FRAKTUR SMALL D",
+    "command": "\\mfrakd"
+  },
+  {
+    "codepoint": 120098,
+    "name": "MATHEMATICAL FRAKTUR SMALL E",
+    "command": "\\mfrake"
+  },
+  {
+    "codepoint": 120099,
+    "name": "MATHEMATICAL FRAKTUR SMALL F",
+    "command": "\\mfrakf"
+  },
+  {
+    "codepoint": 120100,
+    "name": "MATHEMATICAL FRAKTUR SMALL G",
+    "command": "\\mfrakg"
+  },
+  {
+    "codepoint": 120101,
+    "name": "MATHEMATICAL FRAKTUR SMALL H",
+    "command": "\\mfrakh"
+  },
+  {
+    "codepoint": 120102,
+    "name": "MATHEMATICAL FRAKTUR SMALL I",
+    "command": "\\mfraki"
+  },
+  {
+    "codepoint": 120103,
+    "name": "MATHEMATICAL FRAKTUR SMALL J",
+    "command": "\\mfrakj"
+  },
+  {
+    "codepoint": 120104,
+    "name": "MATHEMATICAL FRAKTUR SMALL K",
+    "command": "\\mfrakk"
+  },
+  {
+    "codepoint": 120105,
+    "name": "MATHEMATICAL FRAKTUR SMALL L",
+    "command": "\\mfrakl"
+  },
+  {
+    "codepoint": 120106,
+    "name": "MATHEMATICAL FRAKTUR SMALL M",
+    "command": "\\mfrakm"
+  },
+  {
+    "codepoint": 120107,
+    "name": "MATHEMATICAL FRAKTUR SMALL N",
+    "command": "\\mfrakn"
+  },
+  {
+    "codepoint": 120108,
+    "name": "MATHEMATICAL FRAKTUR SMALL O",
+    "command": "\\mfrako"
+  },
+  {
+    "codepoint": 120109,
+    "name": "MATHEMATICAL FRAKTUR SMALL P",
+    "command": "\\mfrakp"
+  },
+  {
+    "codepoint": 120110,
+    "name": "MATHEMATICAL FRAKTUR SMALL Q",
+    "command": "\\mfrakq"
+  },
+  {
+    "codepoint": 120111,
+    "name": "MATHEMATICAL FRAKTUR SMALL R",
+    "command": "\\mfrakr"
+  },
+  {
+    "codepoint": 120112,
+    "name": "MATHEMATICAL FRAKTUR SMALL S",
+    "command": "\\mfraks"
+  },
+  {
+    "codepoint": 120113,
+    "name": "MATHEMATICAL FRAKTUR SMALL T",
+    "command": "\\mfrakt"
+  },
+  {
+    "codepoint": 120114,
+    "name": "MATHEMATICAL FRAKTUR SMALL U",
+    "command": "\\mfraku"
+  },
+  {
+    "codepoint": 120115,
+    "name": "MATHEMATICAL FRAKTUR SMALL V",
+    "command": "\\mfrakv"
+  },
+  {
+    "codepoint": 120116,
+    "name": "MATHEMATICAL FRAKTUR SMALL W",
+    "command": "\\mfrakw"
+  },
+  {
+    "codepoint": 120117,
+    "name": "MATHEMATICAL FRAKTUR SMALL X",
+    "command": "\\mfrakx"
+  },
+  {
+    "codepoint": 120118,
+    "name": "MATHEMATICAL FRAKTUR SMALL Y",
+    "command": "\\mfraky"
+  },
+  {
+    "codepoint": 120119,
+    "name": "MATHEMATICAL FRAKTUR SMALL Z",
+    "command": "\\mfrakz"
+  },
+  {
+    "codepoint": 120146,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL A",
+    "command": "\\Bbba"
+  },
+  {
+    "codepoint": 120147,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL B",
+    "command": "\\Bbbb"
+  },
+  {
+    "codepoint": 120148,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL C",
+    "command": "\\Bbbc"
+  },
+  {
+    "codepoint": 120149,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL D",
+    "command": "\\Bbbd"
+  },
+  {
+    "codepoint": 120150,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL E",
+    "command": "\\Bbbe"
+  },
+  {
+    "codepoint": 120151,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL F",
+    "command": "\\Bbbf"
+  },
+  {
+    "codepoint": 120152,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL G",
+    "command": "\\Bbbg"
+  },
+  {
+    "codepoint": 120153,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL H",
+    "command": "\\Bbbh"
+  },
+  {
+    "codepoint": 120154,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL I",
+    "command": "\\Bbbi"
+  },
+  {
+    "codepoint": 120155,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL J",
+    "command": "\\Bbbj"
+  },
+  {
+    "codepoint": 120156,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL K",
+    "command": "\\Bbbk"
+  },
+  {
+    "codepoint": 120157,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL L",
+    "command": "\\Bbbl"
+  },
+  {
+    "codepoint": 120158,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL M",
+    "command": "\\Bbbm"
+  },
+  {
+    "codepoint": 120159,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL N",
+    "command": "\\Bbbn"
+  },
+  {
+    "codepoint": 120160,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL O",
+    "command": "\\Bbbo"
+  },
+  {
+    "codepoint": 120161,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL P",
+    "command": "\\Bbbp"
+  },
+  {
+    "codepoint": 120162,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL Q",
+    "command": "\\Bbbq"
+  },
+  {
+    "codepoint": 120163,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL R",
+    "command": "\\Bbbr"
+  },
+  {
+    "codepoint": 120164,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL S",
+    "command": "\\Bbbs"
+  },
+  {
+    "codepoint": 120165,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL T",
+    "command": "\\Bbbt"
+  },
+  {
+    "codepoint": 120166,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL U",
+    "command": "\\Bbbu"
+  },
+  {
+    "codepoint": 120167,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL V",
+    "command": "\\Bbbv"
+  },
+  {
+    "codepoint": 120168,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL W",
+    "command": "\\Bbbw"
+  },
+  {
+    "codepoint": 120169,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL X",
+    "command": "\\Bbbx"
+  },
+  {
+    "codepoint": 120170,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL Y",
+    "command": "\\Bbby"
+  },
+  {
+    "codepoint": 120171,
+    "name": "MATHEMATICAL DOUBLE-STRUCK SMALL Z",
+    "command": "\\Bbbz"
+  },
+  {
+    "codepoint": 120172,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL A",
+    "command": "\\mbffrakA"
+  },
+  {
+    "codepoint": 120173,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL B",
+    "command": "\\mbffrakB"
+  },
+  {
+    "codepoint": 120174,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL C",
+    "command": "\\mbffrakC"
+  },
+  {
+    "codepoint": 120175,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL D",
+    "command": "\\mbffrakD"
+  },
+  {
+    "codepoint": 120176,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL E",
+    "command": "\\mbffrakE"
+  },
+  {
+    "codepoint": 120177,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL F",
+    "command": "\\mbffrakF"
+  },
+  {
+    "codepoint": 120178,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL G",
+    "command": "\\mbffrakG"
+  },
+  {
+    "codepoint": 120179,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL H",
+    "command": "\\mbffrakH"
+  },
+  {
+    "codepoint": 120180,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL I",
+    "command": "\\mbffrakI"
+  },
+  {
+    "codepoint": 120181,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL J",
+    "command": "\\mbffrakJ"
+  },
+  {
+    "codepoint": 120182,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL K",
+    "command": "\\mbffrakK"
+  },
+  {
+    "codepoint": 120183,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL L",
+    "command": "\\mbffrakL"
+  },
+  {
+    "codepoint": 120184,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL M",
+    "command": "\\mbffrakM"
+  },
+  {
+    "codepoint": 120185,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL N",
+    "command": "\\mbffrakN"
+  },
+  {
+    "codepoint": 120186,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL O",
+    "command": "\\mbffrakO"
+  },
+  {
+    "codepoint": 120187,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL P",
+    "command": "\\mbffrakP"
+  },
+  {
+    "codepoint": 120188,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL Q",
+    "command": "\\mbffrakQ"
+  },
+  {
+    "codepoint": 120189,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL R",
+    "command": "\\mbffrakR"
+  },
+  {
+    "codepoint": 120190,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL S",
+    "command": "\\mbffrakS"
+  },
+  {
+    "codepoint": 120191,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL T",
+    "command": "\\mbffrakT"
+  },
+  {
+    "codepoint": 120192,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL U",
+    "command": "\\mbffrakU"
+  },
+  {
+    "codepoint": 120193,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL V",
+    "command": "\\mbffrakV"
+  },
+  {
+    "codepoint": 120194,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL W",
+    "command": "\\mbffrakW"
+  },
+  {
+    "codepoint": 120195,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL X",
+    "command": "\\mbffrakX"
+  },
+  {
+    "codepoint": 120196,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL Y",
+    "command": "\\mbffrakY"
+  },
+  {
+    "codepoint": 120197,
+    "name": "MATHEMATICAL BOLD FRAKTUR CAPITAL Z",
+    "command": "\\mbffrakZ"
+  },
+  {
+    "codepoint": 120198,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL A",
+    "command": "\\mbffraka"
+  },
+  {
+    "codepoint": 120199,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL B",
+    "command": "\\mbffrakb"
+  },
+  {
+    "codepoint": 120200,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL C",
+    "command": "\\mbffrakc"
+  },
+  {
+    "codepoint": 120201,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL D",
+    "command": "\\mbffrakd"
+  },
+  {
+    "codepoint": 120202,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL E",
+    "command": "\\mbffrake"
+  },
+  {
+    "codepoint": 120203,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL F",
+    "command": "\\mbffrakf"
+  },
+  {
+    "codepoint": 120204,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL G",
+    "command": "\\mbffrakg"
+  },
+  {
+    "codepoint": 120205,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL H",
+    "command": "\\mbffrakh"
+  },
+  {
+    "codepoint": 120206,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL I",
+    "command": "\\mbffraki"
+  },
+  {
+    "codepoint": 120207,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL J",
+    "command": "\\mbffrakj"
+  },
+  {
+    "codepoint": 120208,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL K",
+    "command": "\\mbffrakk"
+  },
+  {
+    "codepoint": 120209,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL L",
+    "command": "\\mbffrakl"
+  },
+  {
+    "codepoint": 120210,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL M",
+    "command": "\\mbffrakm"
+  },
+  {
+    "codepoint": 120211,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL N",
+    "command": "\\mbffrakn"
+  },
+  {
+    "codepoint": 120212,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL O",
+    "command": "\\mbffrako"
+  },
+  {
+    "codepoint": 120213,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL P",
+    "command": "\\mbffrakp"
+  },
+  {
+    "codepoint": 120214,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL Q",
+    "command": "\\mbffrakq"
+  },
+  {
+    "codepoint": 120215,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL R",
+    "command": "\\mbffrakr"
+  },
+  {
+    "codepoint": 120216,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL S",
+    "command": "\\mbffraks"
+  },
+  {
+    "codepoint": 120217,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL T",
+    "command": "\\mbffrakt"
+  },
+  {
+    "codepoint": 120218,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL U",
+    "command": "\\mbffraku"
+  },
+  {
+    "codepoint": 120219,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL V",
+    "command": "\\mbffrakv"
+  },
+  {
+    "codepoint": 120220,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL W",
+    "command": "\\mbffrakw"
+  },
+  {
+    "codepoint": 120221,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL X",
+    "command": "\\mbffrakx"
+  },
+  {
+    "codepoint": 120222,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL Y",
+    "command": "\\mbffraky"
+  },
+  {
+    "codepoint": 120223,
+    "name": "MATHEMATICAL BOLD FRAKTUR SMALL Z",
+    "command": "\\mbffrakz"
+  },
+  {
+    "codepoint": 120224,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL A",
+    "command": "\\msansA"
+  },
+  {
+    "codepoint": 120225,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL B",
+    "command": "\\msansB"
+  },
+  {
+    "codepoint": 120226,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL C",
+    "command": "\\msansC"
+  },
+  {
+    "codepoint": 120227,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL D",
+    "command": "\\msansD"
+  },
+  {
+    "codepoint": 120228,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL E",
+    "command": "\\msansE"
+  },
+  {
+    "codepoint": 120229,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL F",
+    "command": "\\msansF"
+  },
+  {
+    "codepoint": 120230,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL G",
+    "command": "\\msansG"
+  },
+  {
+    "codepoint": 120231,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL H",
+    "command": "\\msansH"
+  },
+  {
+    "codepoint": 120232,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL I",
+    "command": "\\msansI"
+  },
+  {
+    "codepoint": 120233,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL J",
+    "command": "\\msansJ"
+  },
+  {
+    "codepoint": 120234,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL K",
+    "command": "\\msansK"
+  },
+  {
+    "codepoint": 120235,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL L",
+    "command": "\\msansL"
+  },
+  {
+    "codepoint": 120236,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL M",
+    "command": "\\msansM"
+  },
+  {
+    "codepoint": 120237,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL N",
+    "command": "\\msansN"
+  },
+  {
+    "codepoint": 120238,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL O",
+    "command": "\\msansO"
+  },
+  {
+    "codepoint": 120239,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL P",
+    "command": "\\msansP"
+  },
+  {
+    "codepoint": 120240,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL Q",
+    "command": "\\msansQ"
+  },
+  {
+    "codepoint": 120241,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL R",
+    "command": "\\msansR"
+  },
+  {
+    "codepoint": 120242,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL S",
+    "command": "\\msansS"
+  },
+  {
+    "codepoint": 120243,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL T",
+    "command": "\\msansT"
+  },
+  {
+    "codepoint": 120244,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL U",
+    "command": "\\msansU"
+  },
+  {
+    "codepoint": 120245,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL V",
+    "command": "\\msansV"
+  },
+  {
+    "codepoint": 120246,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL W",
+    "command": "\\msansW"
+  },
+  {
+    "codepoint": 120247,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL X",
+    "command": "\\msansX"
+  },
+  {
+    "codepoint": 120248,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL Y",
+    "command": "\\msansY"
+  },
+  {
+    "codepoint": 120249,
+    "name": "MATHEMATICAL SANS-SERIF CAPITAL Z",
+    "command": "\\msansZ"
+  },
+  {
+    "codepoint": 120250,
+    "name": "MATHEMATICAL SANS-SERIF SMALL A",
+    "command": "\\msansa"
+  },
+  {
+    "codepoint": 120251,
+    "name": "MATHEMATICAL SANS-SERIF SMALL B",
+    "command": "\\msansb"
+  },
+  {
+    "codepoint": 120252,
+    "name": "MATHEMATICAL SANS-SERIF SMALL C",
+    "command": "\\msansc"
+  },
+  {
+    "codepoint": 120253,
+    "name": "MATHEMATICAL SANS-SERIF SMALL D",
+    "command": "\\msansd"
+  },
+  {
+    "codepoint": 120254,
+    "name": "MATHEMATICAL SANS-SERIF SMALL E",
+    "command": "\\msanse"
+  },
+  {
+    "codepoint": 120255,
+    "name": "MATHEMATICAL SANS-SERIF SMALL F",
+    "command": "\\msansf"
+  },
+  {
+    "codepoint": 120256,
+    "name": "MATHEMATICAL SANS-SERIF SMALL G",
+    "command": "\\msansg"
+  },
+  {
+    "codepoint": 120257,
+    "name": "MATHEMATICAL SANS-SERIF SMALL H",
+    "command": "\\msansh"
+  },
+  {
+    "codepoint": 120258,
+    "name": "MATHEMATICAL SANS-SERIF SMALL I",
+    "command": "\\msansi"
+  },
+  {
+    "codepoint": 120259,
+    "name": "MATHEMATICAL SANS-SERIF SMALL J",
+    "command": "\\msansj"
+  },
+  {
+    "codepoint": 120260,
+    "name": "MATHEMATICAL SANS-SERIF SMALL K",
+    "command": "\\msansk"
+  },
+  {
+    "codepoint": 120261,
+    "name": "MATHEMATICAL SANS-SERIF SMALL L",
+    "command": "\\msansl"
+  },
+  {
+    "codepoint": 120262,
+    "name": "MATHEMATICAL SANS-SERIF SMALL M",
+    "command": "\\msansm"
+  },
+  {
+    "codepoint": 120263,
+    "name": "MATHEMATICAL SANS-SERIF SMALL N",
+    "command": "\\msansn"
+  },
+  {
+    "codepoint": 120264,
+    "name": "MATHEMATICAL SANS-SERIF SMALL O",
+    "command": "\\msanso"
+  },
+  {
+    "codepoint": 120265,
+    "name": "MATHEMATICAL SANS-SERIF SMALL P",
+    "command": "\\msansp"
+  },
+  {
+    "codepoint": 120266,
+    "name": "MATHEMATICAL SANS-SERIF SMALL Q",
+    "command": "\\msansq"
+  },
+  {
+    "codepoint": 120267,
+    "name": "MATHEMATICAL SANS-SERIF SMALL R",
+    "command": "\\msansr"
+  },
+  {
+    "codepoint": 120268,
+    "name": "MATHEMATICAL SANS-SERIF SMALL S",
+    "command": "\\msanss"
+  },
+  {
+    "codepoint": 120269,
+    "name": "MATHEMATICAL SANS-SERIF SMALL T",
+    "command": "\\msanst"
+  },
+  {
+    "codepoint": 120270,
+    "name": "MATHEMATICAL SANS-SERIF SMALL U",
+    "command": "\\msansu"
+  },
+  {
+    "codepoint": 120271,
+    "name": "MATHEMATICAL SANS-SERIF SMALL V",
+    "command": "\\msansv"
+  },
+  {
+    "codepoint": 120272,
+    "name": "MATHEMATICAL SANS-SERIF SMALL W",
+    "command": "\\msansw"
+  },
+  {
+    "codepoint": 120273,
+    "name": "MATHEMATICAL SANS-SERIF SMALL X",
+    "command": "\\msansx"
+  },
+  {
+    "codepoint": 120274,
+    "name": "MATHEMATICAL SANS-SERIF SMALL Y",
+    "command": "\\msansy"
+  },
+  {
+    "codepoint": 120275,
+    "name": "MATHEMATICAL SANS-SERIF SMALL Z",
+    "command": "\\msansz"
+  },
+  {
+    "codepoint": 120276,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL A",
+    "command": "\\mbfsansA"
+  },
+  {
+    "codepoint": 120277,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL B",
+    "command": "\\mbfsansB"
+  },
+  {
+    "codepoint": 120278,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL C",
+    "command": "\\mbfsansC"
+  },
+  {
+    "codepoint": 120279,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL D",
+    "command": "\\mbfsansD"
+  },
+  {
+    "codepoint": 120280,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL E",
+    "command": "\\mbfsansE"
+  },
+  {
+    "codepoint": 120281,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL F",
+    "command": "\\mbfsansF"
+  },
+  {
+    "codepoint": 120282,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL G",
+    "command": "\\mbfsansG"
+  },
+  {
+    "codepoint": 120283,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL H",
+    "command": "\\mbfsansH"
+  },
+  {
+    "codepoint": 120284,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL I",
+    "command": "\\mbfsansI"
+  },
+  {
+    "codepoint": 120285,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL J",
+    "command": "\\mbfsansJ"
+  },
+  {
+    "codepoint": 120286,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL K",
+    "command": "\\mbfsansK"
+  },
+  {
+    "codepoint": 120287,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL L",
+    "command": "\\mbfsansL"
+  },
+  {
+    "codepoint": 120288,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL M",
+    "command": "\\mbfsansM"
+  },
+  {
+    "codepoint": 120289,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL N",
+    "command": "\\mbfsansN"
+  },
+  {
+    "codepoint": 120290,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL O",
+    "command": "\\mbfsansO"
+  },
+  {
+    "codepoint": 120291,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL P",
+    "command": "\\mbfsansP"
+  },
+  {
+    "codepoint": 120292,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL Q",
+    "command": "\\mbfsansQ"
+  },
+  {
+    "codepoint": 120293,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL R",
+    "command": "\\mbfsansR"
+  },
+  {
+    "codepoint": 120294,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL S",
+    "command": "\\mbfsansS"
+  },
+  {
+    "codepoint": 120295,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL T",
+    "command": "\\mbfsansT"
+  },
+  {
+    "codepoint": 120296,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL U",
+    "command": "\\mbfsansU"
+  },
+  {
+    "codepoint": 120297,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL V",
+    "command": "\\mbfsansV"
+  },
+  {
+    "codepoint": 120298,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL W",
+    "command": "\\mbfsansW"
+  },
+  {
+    "codepoint": 120299,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL X",
+    "command": "\\mbfsansX"
+  },
+  {
+    "codepoint": 120300,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL Y",
+    "command": "\\mbfsansY"
+  },
+  {
+    "codepoint": 120301,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL Z",
+    "command": "\\mbfsansZ"
+  },
+  {
+    "codepoint": 120302,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL A",
+    "command": "\\mbfsansa"
+  },
+  {
+    "codepoint": 120303,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL B",
+    "command": "\\mbfsansb"
+  },
+  {
+    "codepoint": 120304,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL C",
+    "command": "\\mbfsansc"
+  },
+  {
+    "codepoint": 120305,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL D",
+    "command": "\\mbfsansd"
+  },
+  {
+    "codepoint": 120306,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL E",
+    "command": "\\mbfsanse"
+  },
+  {
+    "codepoint": 120307,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL F",
+    "command": "\\mbfsansf"
+  },
+  {
+    "codepoint": 120308,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL G",
+    "command": "\\mbfsansg"
+  },
+  {
+    "codepoint": 120309,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL H",
+    "command": "\\mbfsansh"
+  },
+  {
+    "codepoint": 120310,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL I",
+    "command": "\\mbfsansi"
+  },
+  {
+    "codepoint": 120311,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL J",
+    "command": "\\mbfsansj"
+  },
+  {
+    "codepoint": 120312,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL K",
+    "command": "\\mbfsansk"
+  },
+  {
+    "codepoint": 120313,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL L",
+    "command": "\\mbfsansl"
+  },
+  {
+    "codepoint": 120314,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL M",
+    "command": "\\mbfsansm"
+  },
+  {
+    "codepoint": 120315,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL N",
+    "command": "\\mbfsansn"
+  },
+  {
+    "codepoint": 120316,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL O",
+    "command": "\\mbfsanso"
+  },
+  {
+    "codepoint": 120317,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL P",
+    "command": "\\mbfsansp"
+  },
+  {
+    "codepoint": 120318,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL Q",
+    "command": "\\mbfsansq"
+  },
+  {
+    "codepoint": 120319,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL R",
+    "command": "\\mbfsansr"
+  },
+  {
+    "codepoint": 120320,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL S",
+    "command": "\\mbfsanss"
+  },
+  {
+    "codepoint": 120321,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL T",
+    "command": "\\mbfsanst"
+  },
+  {
+    "codepoint": 120322,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL U",
+    "command": "\\mbfsansu"
+  },
+  {
+    "codepoint": 120323,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL V",
+    "command": "\\mbfsansv"
+  },
+  {
+    "codepoint": 120324,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL W",
+    "command": "\\mbfsansw"
+  },
+  {
+    "codepoint": 120325,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL X",
+    "command": "\\mbfsansx"
+  },
+  {
+    "codepoint": 120326,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL Y",
+    "command": "\\mbfsansy"
+  },
+  {
+    "codepoint": 120327,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL Z",
+    "command": "\\mbfsansz"
+  },
+  {
+    "codepoint": 120328,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL A",
+    "command": "\\mitsansA"
+  },
+  {
+    "codepoint": 120329,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL B",
+    "command": "\\mitsansB"
+  },
+  {
+    "codepoint": 120330,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL C",
+    "command": "\\mitsansC"
+  },
+  {
+    "codepoint": 120331,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL D",
+    "command": "\\mitsansD"
+  },
+  {
+    "codepoint": 120332,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL E",
+    "command": "\\mitsansE"
+  },
+  {
+    "codepoint": 120333,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL F",
+    "command": "\\mitsansF"
+  },
+  {
+    "codepoint": 120334,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL G",
+    "command": "\\mitsansG"
+  },
+  {
+    "codepoint": 120335,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL H",
+    "command": "\\mitsansH"
+  },
+  {
+    "codepoint": 120336,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL I",
+    "command": "\\mitsansI"
+  },
+  {
+    "codepoint": 120337,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL J",
+    "command": "\\mitsansJ"
+  },
+  {
+    "codepoint": 120338,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL K",
+    "command": "\\mitsansK"
+  },
+  {
+    "codepoint": 120339,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL L",
+    "command": "\\mitsansL"
+  },
+  {
+    "codepoint": 120340,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL M",
+    "command": "\\mitsansM"
+  },
+  {
+    "codepoint": 120341,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL N",
+    "command": "\\mitsansN"
+  },
+  {
+    "codepoint": 120342,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL O",
+    "command": "\\mitsansO"
+  },
+  {
+    "codepoint": 120343,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL P",
+    "command": "\\mitsansP"
+  },
+  {
+    "codepoint": 120344,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL Q",
+    "command": "\\mitsansQ"
+  },
+  {
+    "codepoint": 120345,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL R",
+    "command": "\\mitsansR"
+  },
+  {
+    "codepoint": 120346,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL S",
+    "command": "\\mitsansS"
+  },
+  {
+    "codepoint": 120347,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL T",
+    "command": "\\mitsansT"
+  },
+  {
+    "codepoint": 120348,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL U",
+    "command": "\\mitsansU"
+  },
+  {
+    "codepoint": 120349,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL V",
+    "command": "\\mitsansV"
+  },
+  {
+    "codepoint": 120350,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL W",
+    "command": "\\mitsansW"
+  },
+  {
+    "codepoint": 120351,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL X",
+    "command": "\\mitsansX"
+  },
+  {
+    "codepoint": 120352,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL Y",
+    "command": "\\mitsansY"
+  },
+  {
+    "codepoint": 120353,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC CAPITAL Z",
+    "command": "\\mitsansZ"
+  },
+  {
+    "codepoint": 120354,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL A",
+    "command": "\\mitsansa"
+  },
+  {
+    "codepoint": 120355,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL B",
+    "command": "\\mitsansb"
+  },
+  {
+    "codepoint": 120356,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL C",
+    "command": "\\mitsansc"
+  },
+  {
+    "codepoint": 120357,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL D",
+    "command": "\\mitsansd"
+  },
+  {
+    "codepoint": 120358,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL E",
+    "command": "\\mitsanse"
+  },
+  {
+    "codepoint": 120359,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL F",
+    "command": "\\mitsansf"
+  },
+  {
+    "codepoint": 120360,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL G",
+    "command": "\\mitsansg"
+  },
+  {
+    "codepoint": 120361,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL H",
+    "command": "\\mitsansh"
+  },
+  {
+    "codepoint": 120362,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL I",
+    "command": "\\mitsansi"
+  },
+  {
+    "codepoint": 120363,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL J",
+    "command": "\\mitsansj"
+  },
+  {
+    "codepoint": 120364,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL K",
+    "command": "\\mitsansk"
+  },
+  {
+    "codepoint": 120365,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL L",
+    "command": "\\mitsansl"
+  },
+  {
+    "codepoint": 120366,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL M",
+    "command": "\\mitsansm"
+  },
+  {
+    "codepoint": 120367,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL N",
+    "command": "\\mitsansn"
+  },
+  {
+    "codepoint": 120368,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL O",
+    "command": "\\mitsanso"
+  },
+  {
+    "codepoint": 120369,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL P",
+    "command": "\\mitsansp"
+  },
+  {
+    "codepoint": 120370,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL Q",
+    "command": "\\mitsansq"
+  },
+  {
+    "codepoint": 120371,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL R",
+    "command": "\\mitsansr"
+  },
+  {
+    "codepoint": 120372,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL S",
+    "command": "\\mitsanss"
+  },
+  {
+    "codepoint": 120373,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL T",
+    "command": "\\mitsanst"
+  },
+  {
+    "codepoint": 120374,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL U",
+    "command": "\\mitsansu"
+  },
+  {
+    "codepoint": 120375,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL V",
+    "command": "\\mitsansv"
+  },
+  {
+    "codepoint": 120376,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL W",
+    "command": "\\mitsansw"
+  },
+  {
+    "codepoint": 120377,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL X",
+    "command": "\\mitsansx"
+  },
+  {
+    "codepoint": 120378,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL Y",
+    "command": "\\mitsansy"
+  },
+  {
+    "codepoint": 120379,
+    "name": "MATHEMATICAL SANS-SERIF ITALIC SMALL Z",
+    "command": "\\mitsansz"
+  },
+  {
+    "codepoint": 120380,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL A",
+    "command": "\\mbfitsansA"
+  },
+  {
+    "codepoint": 120381,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL B",
+    "command": "\\mbfitsansB"
+  },
+  {
+    "codepoint": 120382,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL C",
+    "command": "\\mbfitsansC"
+  },
+  {
+    "codepoint": 120383,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL D",
+    "command": "\\mbfitsansD"
+  },
+  {
+    "codepoint": 120384,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL E",
+    "command": "\\mbfitsansE"
+  },
+  {
+    "codepoint": 120385,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL F",
+    "command": "\\mbfitsansF"
+  },
+  {
+    "codepoint": 120386,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL G",
+    "command": "\\mbfitsansG"
+  },
+  {
+    "codepoint": 120387,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL H",
+    "command": "\\mbfitsansH"
+  },
+  {
+    "codepoint": 120388,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL I",
+    "command": "\\mbfitsansI"
+  },
+  {
+    "codepoint": 120389,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL J",
+    "command": "\\mbfitsansJ"
+  },
+  {
+    "codepoint": 120390,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL K",
+    "command": "\\mbfitsansK"
+  },
+  {
+    "codepoint": 120391,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL L",
+    "command": "\\mbfitsansL"
+  },
+  {
+    "codepoint": 120392,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL M",
+    "command": "\\mbfitsansM"
+  },
+  {
+    "codepoint": 120393,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL N",
+    "command": "\\mbfitsansN"
+  },
+  {
+    "codepoint": 120394,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL O",
+    "command": "\\mbfitsansO"
+  },
+  {
+    "codepoint": 120395,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL P",
+    "command": "\\mbfitsansP"
+  },
+  {
+    "codepoint": 120396,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL Q",
+    "command": "\\mbfitsansQ"
+  },
+  {
+    "codepoint": 120397,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL R",
+    "command": "\\mbfitsansR"
+  },
+  {
+    "codepoint": 120398,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL S",
+    "command": "\\mbfitsansS"
+  },
+  {
+    "codepoint": 120399,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL T",
+    "command": "\\mbfitsansT"
+  },
+  {
+    "codepoint": 120400,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL U",
+    "command": "\\mbfitsansU"
+  },
+  {
+    "codepoint": 120401,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL V",
+    "command": "\\mbfitsansV"
+  },
+  {
+    "codepoint": 120402,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL W",
+    "command": "\\mbfitsansW"
+  },
+  {
+    "codepoint": 120403,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL X",
+    "command": "\\mbfitsansX"
+  },
+  {
+    "codepoint": 120404,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL Y",
+    "command": "\\mbfitsansY"
+  },
+  {
+    "codepoint": 120405,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL Z",
+    "command": "\\mbfitsansZ"
+  },
+  {
+    "codepoint": 120406,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL A",
+    "command": "\\mbfitsansa"
+  },
+  {
+    "codepoint": 120407,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL B",
+    "command": "\\mbfitsansb"
+  },
+  {
+    "codepoint": 120408,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL C",
+    "command": "\\mbfitsansc"
+  },
+  {
+    "codepoint": 120409,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL D",
+    "command": "\\mbfitsansd"
+  },
+  {
+    "codepoint": 120410,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL E",
+    "command": "\\mbfitsanse"
+  },
+  {
+    "codepoint": 120411,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL F",
+    "command": "\\mbfitsansf"
+  },
+  {
+    "codepoint": 120412,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL G",
+    "command": "\\mbfitsansg"
+  },
+  {
+    "codepoint": 120413,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL H",
+    "command": "\\mbfitsansh"
+  },
+  {
+    "codepoint": 120414,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL I",
+    "command": "\\mbfitsansi"
+  },
+  {
+    "codepoint": 120415,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL J",
+    "command": "\\mbfitsansj"
+  },
+  {
+    "codepoint": 120416,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL K",
+    "command": "\\mbfitsansk"
+  },
+  {
+    "codepoint": 120417,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL L",
+    "command": "\\mbfitsansl"
+  },
+  {
+    "codepoint": 120418,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL M",
+    "command": "\\mbfitsansm"
+  },
+  {
+    "codepoint": 120419,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL N",
+    "command": "\\mbfitsansn"
+  },
+  {
+    "codepoint": 120420,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL O",
+    "command": "\\mbfitsanso"
+  },
+  {
+    "codepoint": 120421,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL P",
+    "command": "\\mbfitsansp"
+  },
+  {
+    "codepoint": 120422,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL Q",
+    "command": "\\mbfitsansq"
+  },
+  {
+    "codepoint": 120423,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL R",
+    "command": "\\mbfitsansr"
+  },
+  {
+    "codepoint": 120424,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL S",
+    "command": "\\mbfitsanss"
+  },
+  {
+    "codepoint": 120425,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL T",
+    "command": "\\mbfitsanst"
+  },
+  {
+    "codepoint": 120426,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL U",
+    "command": "\\mbfitsansu"
+  },
+  {
+    "codepoint": 120427,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL V",
+    "command": "\\mbfitsansv"
+  },
+  {
+    "codepoint": 120428,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL W",
+    "command": "\\mbfitsansw"
+  },
+  {
+    "codepoint": 120429,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL X",
+    "command": "\\mbfitsansx"
+  },
+  {
+    "codepoint": 120430,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL Y",
+    "command": "\\mbfitsansy"
+  },
+  {
+    "codepoint": 120431,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL Z",
+    "command": "\\mbfitsansz"
+  },
+  {
+    "codepoint": 120432,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL A",
+    "command": "\\mttA"
+  },
+  {
+    "codepoint": 120433,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL B",
+    "command": "\\mttB"
+  },
+  {
+    "codepoint": 120434,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL C",
+    "command": "\\mttC"
+  },
+  {
+    "codepoint": 120435,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL D",
+    "command": "\\mttD"
+  },
+  {
+    "codepoint": 120436,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL E",
+    "command": "\\mttE"
+  },
+  {
+    "codepoint": 120437,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL F",
+    "command": "\\mttF"
+  },
+  {
+    "codepoint": 120438,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL G",
+    "command": "\\mttG"
+  },
+  {
+    "codepoint": 120439,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL H",
+    "command": "\\mttH"
+  },
+  {
+    "codepoint": 120440,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL I",
+    "command": "\\mttI"
+  },
+  {
+    "codepoint": 120441,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL J",
+    "command": "\\mttJ"
+  },
+  {
+    "codepoint": 120442,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL K",
+    "command": "\\mttK"
+  },
+  {
+    "codepoint": 120443,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL L",
+    "command": "\\mttL"
+  },
+  {
+    "codepoint": 120444,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL M",
+    "command": "\\mttM"
+  },
+  {
+    "codepoint": 120445,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL N",
+    "command": "\\mttN"
+  },
+  {
+    "codepoint": 120446,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL O",
+    "command": "\\mttO"
+  },
+  {
+    "codepoint": 120447,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL P",
+    "command": "\\mttP"
+  },
+  {
+    "codepoint": 120448,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL Q",
+    "command": "\\mttQ"
+  },
+  {
+    "codepoint": 120449,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL R",
+    "command": "\\mttR"
+  },
+  {
+    "codepoint": 120450,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL S",
+    "command": "\\mttS"
+  },
+  {
+    "codepoint": 120451,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL T",
+    "command": "\\mttT"
+  },
+  {
+    "codepoint": 120452,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL U",
+    "command": "\\mttU"
+  },
+  {
+    "codepoint": 120453,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL V",
+    "command": "\\mttV"
+  },
+  {
+    "codepoint": 120454,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL W",
+    "command": "\\mttW"
+  },
+  {
+    "codepoint": 120455,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL X",
+    "command": "\\mttX"
+  },
+  {
+    "codepoint": 120456,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL Y",
+    "command": "\\mttY"
+  },
+  {
+    "codepoint": 120457,
+    "name": "MATHEMATICAL MONOSPACE CAPITAL Z",
+    "command": "\\mttZ"
+  },
+  {
+    "codepoint": 120458,
+    "name": "MATHEMATICAL MONOSPACE SMALL A",
+    "command": "\\mtta"
+  },
+  {
+    "codepoint": 120459,
+    "name": "MATHEMATICAL MONOSPACE SMALL B",
+    "command": "\\mttb"
+  },
+  {
+    "codepoint": 120460,
+    "name": "MATHEMATICAL MONOSPACE SMALL C",
+    "command": "\\mttc"
+  },
+  {
+    "codepoint": 120461,
+    "name": "MATHEMATICAL MONOSPACE SMALL D",
+    "command": "\\mttd"
+  },
+  {
+    "codepoint": 120462,
+    "name": "MATHEMATICAL MONOSPACE SMALL E",
+    "command": "\\mtte"
+  },
+  {
+    "codepoint": 120463,
+    "name": "MATHEMATICAL MONOSPACE SMALL F",
+    "command": "\\mttf"
+  },
+  {
+    "codepoint": 120464,
+    "name": "MATHEMATICAL MONOSPACE SMALL G",
+    "command": "\\mttg"
+  },
+  {
+    "codepoint": 120465,
+    "name": "MATHEMATICAL MONOSPACE SMALL H",
+    "command": "\\mtth"
+  },
+  {
+    "codepoint": 120466,
+    "name": "MATHEMATICAL MONOSPACE SMALL I",
+    "command": "\\mtti"
+  },
+  {
+    "codepoint": 120467,
+    "name": "MATHEMATICAL MONOSPACE SMALL J",
+    "command": "\\mttj"
+  },
+  {
+    "codepoint": 120468,
+    "name": "MATHEMATICAL MONOSPACE SMALL K",
+    "command": "\\mttk"
+  },
+  {
+    "codepoint": 120469,
+    "name": "MATHEMATICAL MONOSPACE SMALL L",
+    "command": "\\mttl"
+  },
+  {
+    "codepoint": 120470,
+    "name": "MATHEMATICAL MONOSPACE SMALL M",
+    "command": "\\mttm"
+  },
+  {
+    "codepoint": 120471,
+    "name": "MATHEMATICAL MONOSPACE SMALL N",
+    "command": "\\mttn"
+  },
+  {
+    "codepoint": 120472,
+    "name": "MATHEMATICAL MONOSPACE SMALL O",
+    "command": "\\mtto"
+  },
+  {
+    "codepoint": 120473,
+    "name": "MATHEMATICAL MONOSPACE SMALL P",
+    "command": "\\mttp"
+  },
+  {
+    "codepoint": 120474,
+    "name": "MATHEMATICAL MONOSPACE SMALL Q",
+    "command": "\\mttq"
+  },
+  {
+    "codepoint": 120475,
+    "name": "MATHEMATICAL MONOSPACE SMALL R",
+    "command": "\\mttr"
+  },
+  {
+    "codepoint": 120476,
+    "name": "MATHEMATICAL MONOSPACE SMALL S",
+    "command": "\\mtts"
+  },
+  {
+    "codepoint": 120477,
+    "name": "MATHEMATICAL MONOSPACE SMALL T",
+    "command": "\\mttt"
+  },
+  {
+    "codepoint": 120478,
+    "name": "MATHEMATICAL MONOSPACE SMALL U",
+    "command": "\\mttu"
+  },
+  {
+    "codepoint": 120479,
+    "name": "MATHEMATICAL MONOSPACE SMALL V",
+    "command": "\\mttv"
+  },
+  {
+    "codepoint": 120480,
+    "name": "MATHEMATICAL MONOSPACE SMALL W",
+    "command": "\\mttw"
+  },
+  {
+    "codepoint": 120481,
+    "name": "MATHEMATICAL MONOSPACE SMALL X",
+    "command": "\\mttx"
+  },
+  {
+    "codepoint": 120482,
+    "name": "MATHEMATICAL MONOSPACE SMALL Y",
+    "command": "\\mtty"
+  },
+  {
+    "codepoint": 120483,
+    "name": "MATHEMATICAL MONOSPACE SMALL Z",
+    "command": "\\mttz"
+  },
+  {
+    "codepoint": 120488,
+    "name": "MATHEMATICAL BOLD CAPITAL ALPHA",
+    "command": "\\mbfAlpha"
+  },
+  {
+    "codepoint": 120489,
+    "name": "MATHEMATICAL BOLD CAPITAL BETA",
+    "command": "\\mbfBeta"
+  },
+  {
+    "codepoint": 120490,
+    "name": "MATHEMATICAL BOLD CAPITAL GAMMA",
+    "command": "\\mbfGamma"
+  },
+  {
+    "codepoint": 120491,
+    "name": "MATHEMATICAL BOLD CAPITAL DELTA",
+    "command": "\\mbfDelta"
+  },
+  {
+    "codepoint": 120492,
+    "name": "MATHEMATICAL BOLD CAPITAL EPSILON",
+    "command": "\\mbfEpsilon"
+  },
+  {
+    "codepoint": 120493,
+    "name": "MATHEMATICAL BOLD CAPITAL ZETA",
+    "command": "\\mbfZeta"
+  },
+  {
+    "codepoint": 120494,
+    "name": "MATHEMATICAL BOLD CAPITAL ETA",
+    "command": "\\mbfEta"
+  },
+  {
+    "codepoint": 120495,
+    "name": "MATHEMATICAL BOLD CAPITAL THETA",
+    "command": "\\mbfTheta"
+  },
+  {
+    "codepoint": 120496,
+    "name": "MATHEMATICAL BOLD CAPITAL IOTA",
+    "command": "\\mbfIota"
+  },
+  {
+    "codepoint": 120497,
+    "name": "MATHEMATICAL BOLD CAPITAL KAPPA",
+    "command": "\\mbfKappa"
+  },
+  {
+    "codepoint": 120498,
+    "name": "MATHEMATICAL BOLD CAPITAL LAMDA",
+    "command": "\\mbfLambda"
+  },
+  {
+    "codepoint": 120499,
+    "name": "MATHEMATICAL BOLD CAPITAL MU",
+    "command": "\\mbfMu"
+  },
+  {
+    "codepoint": 120500,
+    "name": "MATHEMATICAL BOLD CAPITAL NU",
+    "command": "\\mbfNu"
+  },
+  {
+    "codepoint": 120501,
+    "name": "MATHEMATICAL BOLD CAPITAL XI",
+    "command": "\\mbfXi"
+  },
+  {
+    "codepoint": 120502,
+    "name": "MATHEMATICAL BOLD CAPITAL OMICRON",
+    "command": "\\mbfOmicron"
+  },
+  {
+    "codepoint": 120503,
+    "name": "MATHEMATICAL BOLD CAPITAL PI",
+    "command": "\\mbfPi"
+  },
+  {
+    "codepoint": 120504,
+    "name": "MATHEMATICAL BOLD CAPITAL RHO",
+    "command": "\\mbfRho"
+  },
+  {
+    "codepoint": 120505,
+    "name": "MATHEMATICAL BOLD CAPITAL THETA SYMBOL",
+    "command": "\\mbfvarTheta"
+  },
+  {
+    "codepoint": 120506,
+    "name": "MATHEMATICAL BOLD CAPITAL SIGMA",
+    "command": "\\mbfSigma"
+  },
+  {
+    "codepoint": 120507,
+    "name": "MATHEMATICAL BOLD CAPITAL TAU",
+    "command": "\\mbfTau"
+  },
+  {
+    "codepoint": 120508,
+    "name": "MATHEMATICAL BOLD CAPITAL UPSILON",
+    "command": "\\mbfUpsilon"
+  },
+  {
+    "codepoint": 120509,
+    "name": "MATHEMATICAL BOLD CAPITAL PHI",
+    "command": "\\mbfPhi"
+  },
+  {
+    "codepoint": 120510,
+    "name": "MATHEMATICAL BOLD CAPITAL CHI",
+    "command": "\\mbfChi"
+  },
+  {
+    "codepoint": 120511,
+    "name": "MATHEMATICAL BOLD CAPITAL PSI",
+    "command": "\\mbfPsi"
+  },
+  {
+    "codepoint": 120512,
+    "name": "MATHEMATICAL BOLD CAPITAL OMEGA",
+    "command": "\\mbfOmega"
+  },
+  {
+    "codepoint": 120513,
+    "name": "MATHEMATICAL BOLD NABLA",
+    "command": "\\mbfnabla"
+  },
+  {
+    "codepoint": 120514,
+    "name": "MATHEMATICAL BOLD SMALL ALPHA",
+    "command": "\\mbfalpha"
+  },
+  {
+    "codepoint": 120515,
+    "name": "MATHEMATICAL BOLD SMALL BETA",
+    "command": "\\mbfbeta"
+  },
+  {
+    "codepoint": 120516,
+    "name": "MATHEMATICAL BOLD SMALL GAMMA",
+    "command": "\\mbfgamma"
+  },
+  {
+    "codepoint": 120517,
+    "name": "MATHEMATICAL BOLD SMALL DELTA",
+    "command": "\\mbfdelta"
+  },
+  {
+    "codepoint": 120518,
+    "name": "MATHEMATICAL BOLD SMALL EPSILON",
+    "command": "\\mbfvarepsilon"
+  },
+  {
+    "codepoint": 120519,
+    "name": "MATHEMATICAL BOLD SMALL ZETA",
+    "command": "\\mbfzeta"
+  },
+  {
+    "codepoint": 120520,
+    "name": "MATHEMATICAL BOLD SMALL ETA",
+    "command": "\\mbfeta"
+  },
+  {
+    "codepoint": 120521,
+    "name": "MATHEMATICAL BOLD SMALL THETA",
+    "command": "\\mbftheta"
+  },
+  {
+    "codepoint": 120522,
+    "name": "MATHEMATICAL BOLD SMALL IOTA",
+    "command": "\\mbfiota"
+  },
+  {
+    "codepoint": 120523,
+    "name": "MATHEMATICAL BOLD SMALL KAPPA",
+    "command": "\\mbfkappa"
+  },
+  {
+    "codepoint": 120524,
+    "name": "MATHEMATICAL BOLD SMALL LAMDA",
+    "command": "\\mbflambda"
+  },
+  {
+    "codepoint": 120525,
+    "name": "MATHEMATICAL BOLD SMALL MU",
+    "command": "\\mbfmu"
+  },
+  {
+    "codepoint": 120526,
+    "name": "MATHEMATICAL BOLD SMALL NU",
+    "command": "\\mbfnu"
+  },
+  {
+    "codepoint": 120527,
+    "name": "MATHEMATICAL BOLD SMALL XI",
+    "command": "\\mbfxi"
+  },
+  {
+    "codepoint": 120528,
+    "name": "MATHEMATICAL BOLD SMALL OMICRON",
+    "command": "\\mbfomicron"
+  },
+  {
+    "codepoint": 120529,
+    "name": "MATHEMATICAL BOLD SMALL PI",
+    "command": "\\mbfpi"
+  },
+  {
+    "codepoint": 120530,
+    "name": "MATHEMATICAL BOLD SMALL RHO",
+    "command": "\\mbfrho"
+  },
+  {
+    "codepoint": 120531,
+    "name": "MATHEMATICAL BOLD SMALL FINAL SIGMA",
+    "command": "\\mbfvarsigma"
+  },
+  {
+    "codepoint": 120532,
+    "name": "MATHEMATICAL BOLD SMALL SIGMA",
+    "command": "\\mbfsigma"
+  },
+  {
+    "codepoint": 120533,
+    "name": "MATHEMATICAL BOLD SMALL TAU",
+    "command": "\\mbftau"
+  },
+  {
+    "codepoint": 120534,
+    "name": "MATHEMATICAL BOLD SMALL UPSILON",
+    "command": "\\mbfupsilon"
+  },
+  {
+    "codepoint": 120535,
+    "name": "MATHEMATICAL BOLD SMALL PHI",
+    "command": "\\mbfvarphi"
+  },
+  {
+    "codepoint": 120536,
+    "name": "MATHEMATICAL BOLD SMALL CHI",
+    "command": "\\mbfchi"
+  },
+  {
+    "codepoint": 120537,
+    "name": "MATHEMATICAL BOLD SMALL PSI",
+    "command": "\\mbfpsi"
+  },
+  {
+    "codepoint": 120538,
+    "name": "MATHEMATICAL BOLD SMALL OMEGA",
+    "command": "\\mbfomega"
+  },
+  {
+    "codepoint": 120539,
+    "name": "MATHEMATICAL BOLD PARTIAL DIFFERENTIAL",
+    "command": "\\mbfpartial"
+  },
+  {
+    "codepoint": 120540,
+    "name": "MATHEMATICAL BOLD EPSILON SYMBOL",
+    "command": "\\mbfepsilon"
+  },
+  {
+    "codepoint": 120541,
+    "name": "MATHEMATICAL BOLD THETA SYMBOL",
+    "command": "\\mbfvartheta"
+  },
+  {
+    "codepoint": 120542,
+    "name": "MATHEMATICAL BOLD KAPPA SYMBOL",
+    "command": "\\mbfvarkappa"
+  },
+  {
+    "codepoint": 120543,
+    "name": "MATHEMATICAL BOLD PHI SYMBOL",
+    "command": "\\mbfphi"
+  },
+  {
+    "codepoint": 120544,
+    "name": "MATHEMATICAL BOLD RHO SYMBOL",
+    "command": "\\mbfvarrho"
+  },
+  {
+    "codepoint": 120545,
+    "name": "MATHEMATICAL BOLD PI SYMBOL",
+    "command": "\\mbfvarpi"
+  },
+  {
+    "codepoint": 120563,
+    "name": "MATHEMATICAL ITALIC CAPITAL THETA SYMBOL",
+    "command": "\\mitvarTheta"
+  },
+  {
+    "codepoint": 120600,
+    "name": "MATHEMATICAL ITALIC KAPPA SYMBOL",
+    "command": "\\mitvarkappa"
+  },
+  {
+    "codepoint": 120621,
+    "name": "MATHEMATICAL BOLD ITALIC CAPITAL THETA SYMBOL",
+    "command": "\\mbfitvarTheta"
+  },
+  {
+    "codepoint": 120629,
+    "name": "MATHEMATICAL BOLD ITALIC NABLA",
+    "command": "\\mbfitnabla"
+  },
+  {
+    "codepoint": 120658,
+    "name": "MATHEMATICAL BOLD ITALIC KAPPA SYMBOL",
+    "command": "\\mbfitvarkappa"
+  },
+  {
+    "codepoint": 120662,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL ALPHA",
+    "command": "\\mbfsansAlpha"
+  },
+  {
+    "codepoint": 120663,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL BETA",
+    "command": "\\mbfsansBeta"
+  },
+  {
+    "codepoint": 120664,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL GAMMA",
+    "command": "\\mbfsansGamma"
+  },
+  {
+    "codepoint": 120665,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL DELTA",
+    "command": "\\mbfsansDelta"
+  },
+  {
+    "codepoint": 120666,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL EPSILON",
+    "command": "\\mbfsansEpsilon"
+  },
+  {
+    "codepoint": 120667,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL ZETA",
+    "command": "\\mbfsansZeta"
+  },
+  {
+    "codepoint": 120668,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL ETA",
+    "command": "\\mbfsansEta"
+  },
+  {
+    "codepoint": 120669,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL THETA",
+    "command": "\\mbfsansTheta"
+  },
+  {
+    "codepoint": 120670,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL IOTA",
+    "command": "\\mbfsansIota"
+  },
+  {
+    "codepoint": 120671,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL KAPPA",
+    "command": "\\mbfsansKappa"
+  },
+  {
+    "codepoint": 120672,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL LAMDA",
+    "command": "\\mbfsansLambda"
+  },
+  {
+    "codepoint": 120673,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL MU",
+    "command": "\\mbfsansMu"
+  },
+  {
+    "codepoint": 120674,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL NU",
+    "command": "\\mbfsansNu"
+  },
+  {
+    "codepoint": 120675,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL XI",
+    "command": "\\mbfsansXi"
+  },
+  {
+    "codepoint": 120676,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL OMICRON",
+    "command": "\\mbfsansOmicron"
+  },
+  {
+    "codepoint": 120677,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL PI",
+    "command": "\\mbfsansPi"
+  },
+  {
+    "codepoint": 120678,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL RHO",
+    "command": "\\mbfsansRho"
+  },
+  {
+    "codepoint": 120679,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL THETA SYMBOL",
+    "command": "\\mbfsansvarTheta"
+  },
+  {
+    "codepoint": 120680,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL SIGMA",
+    "command": "\\mbfsansSigma"
+  },
+  {
+    "codepoint": 120681,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL TAU",
+    "command": "\\mbfsansTau"
+  },
+  {
+    "codepoint": 120682,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL UPSILON",
+    "command": "\\mbfsansUpsilon"
+  },
+  {
+    "codepoint": 120683,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL PHI",
+    "command": "\\mbfsansPhi"
+  },
+  {
+    "codepoint": 120684,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL CHI",
+    "command": "\\mbfsansChi"
+  },
+  {
+    "codepoint": 120685,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL PSI",
+    "command": "\\mbfsansPsi"
+  },
+  {
+    "codepoint": 120686,
+    "name": "MATHEMATICAL SANS-SERIF BOLD CAPITAL OMEGA",
+    "command": "\\mbfsansOmega"
+  },
+  {
+    "codepoint": 120687,
+    "name": "MATHEMATICAL SANS-SERIF BOLD NABLA",
+    "command": "\\mbfsansnabla"
+  },
+  {
+    "codepoint": 120688,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL ALPHA",
+    "command": "\\mbfsansalpha"
+  },
+  {
+    "codepoint": 120689,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL BETA",
+    "command": "\\mbfsansbeta"
+  },
+  {
+    "codepoint": 120690,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL GAMMA",
+    "command": "\\mbfsansgamma"
+  },
+  {
+    "codepoint": 120691,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL DELTA",
+    "command": "\\mbfsansdelta"
+  },
+  {
+    "codepoint": 120692,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL EPSILON",
+    "command": "\\mbfsansvarepsilon"
+  },
+  {
+    "codepoint": 120693,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL ZETA",
+    "command": "\\mbfsanszeta"
+  },
+  {
+    "codepoint": 120694,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL ETA",
+    "command": "\\mbfsanseta"
+  },
+  {
+    "codepoint": 120695,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL THETA",
+    "command": "\\mbfsanstheta"
+  },
+  {
+    "codepoint": 120696,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL IOTA",
+    "command": "\\mbfsansiota"
+  },
+  {
+    "codepoint": 120697,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL KAPPA",
+    "command": "\\mbfsanskappa"
+  },
+  {
+    "codepoint": 120698,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL LAMDA",
+    "command": "\\mbfsanslambda"
+  },
+  {
+    "codepoint": 120699,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL MU",
+    "command": "\\mbfsansmu"
+  },
+  {
+    "codepoint": 120700,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL NU",
+    "command": "\\mbfsansnu"
+  },
+  {
+    "codepoint": 120701,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL XI",
+    "command": "\\mbfsansxi"
+  },
+  {
+    "codepoint": 120702,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL OMICRON",
+    "command": "\\mbfsansomicron"
+  },
+  {
+    "codepoint": 120703,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL PI",
+    "command": "\\mbfsanspi"
+  },
+  {
+    "codepoint": 120704,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL RHO",
+    "command": "\\mbfsansrho"
+  },
+  {
+    "codepoint": 120705,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL FINAL SIGMA",
+    "command": "\\mbfsansvarsigma"
+  },
+  {
+    "codepoint": 120706,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL SIGMA",
+    "command": "\\mbfsanssigma"
+  },
+  {
+    "codepoint": 120707,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL TAU",
+    "command": "\\mbfsanstau"
+  },
+  {
+    "codepoint": 120708,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL UPSILON",
+    "command": "\\mbfsansupsilon"
+  },
+  {
+    "codepoint": 120709,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL PHI",
+    "command": "\\mbfsansvarphi"
+  },
+  {
+    "codepoint": 120710,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL CHI",
+    "command": "\\mbfsanschi"
+  },
+  {
+    "codepoint": 120711,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL PSI",
+    "command": "\\mbfsanspsi"
+  },
+  {
+    "codepoint": 120712,
+    "name": "MATHEMATICAL SANS-SERIF BOLD SMALL OMEGA",
+    "command": "\\mbfsansomega"
+  },
+  {
+    "codepoint": 120713,
+    "name": "MATHEMATICAL SANS-SERIF BOLD PARTIAL DIFFERENTIAL",
+    "command": "\\mbfsanspartial"
+  },
+  {
+    "codepoint": 120714,
+    "name": "MATHEMATICAL SANS-SERIF BOLD EPSILON SYMBOL",
+    "command": "\\mbfsansepsilon"
+  },
+  {
+    "codepoint": 120715,
+    "name": "MATHEMATICAL SANS-SERIF BOLD THETA SYMBOL",
+    "command": "\\mbfsansvartheta"
+  },
+  {
+    "codepoint": 120716,
+    "name": "MATHEMATICAL SANS-SERIF BOLD KAPPA SYMBOL",
+    "command": "\\mbfsansvarkappa"
+  },
+  {
+    "codepoint": 120717,
+    "name": "MATHEMATICAL SANS-SERIF BOLD PHI SYMBOL",
+    "command": "\\mbfsansphi"
+  },
+  {
+    "codepoint": 120718,
+    "name": "MATHEMATICAL SANS-SERIF BOLD RHO SYMBOL",
+    "command": "\\mbfsansvarrho"
+  },
+  {
+    "codepoint": 120719,
+    "name": "MATHEMATICAL SANS-SERIF BOLD PI SYMBOL",
+    "command": "\\mbfsansvarpi"
+  },
+  {
+    "codepoint": 120720,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL ALPHA",
+    "command": "\\mbfitsansAlpha"
+  },
+  {
+    "codepoint": 120721,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL BETA",
+    "command": "\\mbfitsansBeta"
+  },
+  {
+    "codepoint": 120722,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL GAMMA",
+    "command": "\\mbfitsansGamma"
+  },
+  {
+    "codepoint": 120723,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL DELTA",
+    "command": "\\mbfitsansDelta"
+  },
+  {
+    "codepoint": 120724,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL EPSILON",
+    "command": "\\mbfitsansEpsilon"
+  },
+  {
+    "codepoint": 120725,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL ZETA",
+    "command": "\\mbfitsansZeta"
+  },
+  {
+    "codepoint": 120726,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL ETA",
+    "command": "\\mbfitsansEta"
+  },
+  {
+    "codepoint": 120727,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL THETA",
+    "command": "\\mbfitsansTheta"
+  },
+  {
+    "codepoint": 120728,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL IOTA",
+    "command": "\\mbfitsansIota"
+  },
+  {
+    "codepoint": 120729,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL KAPPA",
+    "command": "\\mbfitsansKappa"
+  },
+  {
+    "codepoint": 120730,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL LAMDA",
+    "command": "\\mbfitsansLambda"
+  },
+  {
+    "codepoint": 120731,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL MU",
+    "command": "\\mbfitsansMu"
+  },
+  {
+    "codepoint": 120732,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL NU",
+    "command": "\\mbfitsansNu"
+  },
+  {
+    "codepoint": 120733,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL XI",
+    "command": "\\mbfitsansXi"
+  },
+  {
+    "codepoint": 120734,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL OMICRON",
+    "command": "\\mbfitsansOmicron"
+  },
+  {
+    "codepoint": 120735,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL PI",
+    "command": "\\mbfitsansPi"
+  },
+  {
+    "codepoint": 120736,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL RHO",
+    "command": "\\mbfitsansRho"
+  },
+  {
+    "codepoint": 120737,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL THETA SYMBOL",
+    "command": "\\mbfitsansvarTheta"
+  },
+  {
+    "codepoint": 120738,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL SIGMA",
+    "command": "\\mbfitsansSigma"
+  },
+  {
+    "codepoint": 120739,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL TAU",
+    "command": "\\mbfitsansTau"
+  },
+  {
+    "codepoint": 120740,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL UPSILON",
+    "command": "\\mbfitsansUpsilon"
+  },
+  {
+    "codepoint": 120741,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL PHI",
+    "command": "\\mbfitsansPhi"
+  },
+  {
+    "codepoint": 120742,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL CHI",
+    "command": "\\mbfitsansChi"
+  },
+  {
+    "codepoint": 120743,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL PSI",
+    "command": "\\mbfitsansPsi"
+  },
+  {
+    "codepoint": 120744,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL OMEGA",
+    "command": "\\mbfitsansOmega"
+  },
+  {
+    "codepoint": 120745,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC NABLA",
+    "command": "\\mbfitsansnabla"
+  },
+  {
+    "codepoint": 120746,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL ALPHA",
+    "command": "\\mbfitsansalpha"
+  },
+  {
+    "codepoint": 120747,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL BETA",
+    "command": "\\mbfitsansbeta"
+  },
+  {
+    "codepoint": 120748,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL GAMMA",
+    "command": "\\mbfitsansgamma"
+  },
+  {
+    "codepoint": 120749,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL DELTA",
+    "command": "\\mbfitsansdelta"
+  },
+  {
+    "codepoint": 120750,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL EPSILON",
+    "command": "\\mbfitsansvarepsilon"
+  },
+  {
+    "codepoint": 120751,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL ZETA",
+    "command": "\\mbfitsanszeta"
+  },
+  {
+    "codepoint": 120752,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL ETA",
+    "command": "\\mbfitsanseta"
+  },
+  {
+    "codepoint": 120753,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL THETA",
+    "command": "\\mbfitsanstheta"
+  },
+  {
+    "codepoint": 120754,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL IOTA",
+    "command": "\\mbfitsansiota"
+  },
+  {
+    "codepoint": 120755,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL KAPPA",
+    "command": "\\mbfitsanskappa"
+  },
+  {
+    "codepoint": 120756,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL LAMDA",
+    "command": "\\mbfitsanslambda"
+  },
+  {
+    "codepoint": 120757,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL MU",
+    "command": "\\mbfitsansmu"
+  },
+  {
+    "codepoint": 120758,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL NU",
+    "command": "\\mbfitsansnu"
+  },
+  {
+    "codepoint": 120759,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL XI",
+    "command": "\\mbfitsansxi"
+  },
+  {
+    "codepoint": 120760,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL OMICRON",
+    "command": "\\mbfitsansomicron"
+  },
+  {
+    "codepoint": 120761,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL PI",
+    "command": "\\mbfitsanspi"
+  },
+  {
+    "codepoint": 120762,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL RHO",
+    "command": "\\mbfitsansrho"
+  },
+  {
+    "codepoint": 120763,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL FINAL SIGMA",
+    "command": "\\mbfitsansvarsigma"
+  },
+  {
+    "codepoint": 120764,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL SIGMA",
+    "command": "\\mbfitsanssigma"
+  },
+  {
+    "codepoint": 120765,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL TAU",
+    "command": "\\mbfitsanstau"
+  },
+  {
+    "codepoint": 120766,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL UPSILON",
+    "command": "\\mbfitsansupsilon"
+  },
+  {
+    "codepoint": 120767,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL PHI",
+    "command": "\\mbfitsansvarphi"
+  },
+  {
+    "codepoint": 120768,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL CHI",
+    "command": "\\mbfitsanschi"
+  },
+  {
+    "codepoint": 120769,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL PSI",
+    "command": "\\mbfitsanspsi"
+  },
+  {
+    "codepoint": 120770,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL OMEGA",
+    "command": "\\mbfitsansomega"
+  },
+  {
+    "codepoint": 120771,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC PARTIAL DIFFERENTIAL",
+    "command": "\\mbfitsanspartial"
+  },
+  {
+    "codepoint": 120772,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC EPSILON SYMBOL",
+    "command": "\\mbfitsansepsilon"
+  },
+  {
+    "codepoint": 120773,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC THETA SYMBOL",
+    "command": "\\mbfitsansvartheta"
+  },
+  {
+    "codepoint": 120774,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC KAPPA SYMBOL",
+    "command": "\\mbfitsansvarkappa"
+  },
+  {
+    "codepoint": 120775,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC PHI SYMBOL",
+    "command": "\\mbfitsansphi"
+  },
+  {
+    "codepoint": 120776,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC RHO SYMBOL",
+    "command": "\\mbfitsansvarrho"
+  },
+  {
+    "codepoint": 120777,
+    "name": "MATHEMATICAL SANS-SERIF BOLD ITALIC PI SYMBOL",
+    "command": "\\mbfitsansvarpi"
+  },
+  {
+    "codepoint": 120792,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT ZERO",
+    "command": "\\Bbbzero"
+  },
+  {
+    "codepoint": 120793,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT ONE",
+    "command": "\\Bbbone"
+  },
+  {
+    "codepoint": 120794,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT TWO",
+    "command": "\\Bbbtwo"
+  },
+  {
+    "codepoint": 120795,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT THREE",
+    "command": "\\Bbbthree"
+  },
+  {
+    "codepoint": 120796,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT FOUR",
+    "command": "\\Bbbfour"
+  },
+  {
+    "codepoint": 120797,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT FIVE",
+    "command": "\\Bbbfive"
+  },
+  {
+    "codepoint": 120798,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT SIX",
+    "command": "\\Bbbsix"
+  },
+  {
+    "codepoint": 120799,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT SEVEN",
+    "command": "\\Bbbseven"
+  },
+  {
+    "codepoint": 120800,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT EIGHT",
+    "command": "\\Bbbeight"
+  },
+  {
+    "codepoint": 120801,
+    "name": "MATHEMATICAL DOUBLE-STRUCK DIGIT NINE",
+    "command": "\\Bbbnine"
+  },
+  {
+    "codepoint": 120802,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT ZERO",
+    "command": "\\msanszero"
+  },
+  {
+    "codepoint": 120803,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT ONE",
+    "command": "\\msansone"
+  },
+  {
+    "codepoint": 120804,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT TWO",
+    "command": "\\msanstwo"
+  },
+  {
+    "codepoint": 120805,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT THREE",
+    "command": "\\msansthree"
+  },
+  {
+    "codepoint": 120806,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT FOUR",
+    "command": "\\msansfour"
+  },
+  {
+    "codepoint": 120807,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT FIVE",
+    "command": "\\msansfive"
+  },
+  {
+    "codepoint": 120808,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT SIX",
+    "command": "\\msanssix"
+  },
+  {
+    "codepoint": 120809,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT SEVEN",
+    "command": "\\msansseven"
+  },
+  {
+    "codepoint": 120810,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT EIGHT",
+    "command": "\\msanseight"
+  },
+  {
+    "codepoint": 120811,
+    "name": "MATHEMATICAL SANS-SERIF DIGIT NINE",
+    "command": "\\msansnine"
+  },
+  {
+    "codepoint": 120812,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT ZERO",
+    "command": "\\mbfsanszero"
+  },
+  {
+    "codepoint": 120813,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT ONE",
+    "command": "\\mbfsansone"
+  },
+  {
+    "codepoint": 120814,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT TWO",
+    "command": "\\mbfsanstwo"
+  },
+  {
+    "codepoint": 120815,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT THREE",
+    "command": "\\mbfsansthree"
+  },
+  {
+    "codepoint": 120816,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT FOUR",
+    "command": "\\mbfsansfour"
+  },
+  {
+    "codepoint": 120817,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT FIVE",
+    "command": "\\mbfsansfive"
+  },
+  {
+    "codepoint": 120818,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT SIX",
+    "command": "\\mbfsanssix"
+  },
+  {
+    "codepoint": 120819,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT SEVEN",
+    "command": "\\mbfsansseven"
+  },
+  {
+    "codepoint": 120820,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT EIGHT",
+    "command": "\\mbfsanseight"
+  },
+  {
+    "codepoint": 120821,
+    "name": "MATHEMATICAL SANS-SERIF BOLD DIGIT NINE",
+    "command": "\\mbfsansnine"
+  },
+  {
+    "codepoint": 120822,
+    "name": "MATHEMATICAL MONOSPACE DIGIT ZERO",
+    "command": "\\mttzero"
+  },
+  {
+    "codepoint": 120823,
+    "name": "MATHEMATICAL MONOSPACE DIGIT ONE",
+    "command": "\\mttone"
+  },
+  {
+    "codepoint": 120824,
+    "name": "MATHEMATICAL MONOSPACE DIGIT TWO",
+    "command": "\\mtttwo"
+  },
+  {
+    "codepoint": 120825,
+    "name": "MATHEMATICAL MONOSPACE DIGIT THREE",
+    "command": "\\mttthree"
+  },
+  {
+    "codepoint": 120826,
+    "name": "MATHEMATICAL MONOSPACE DIGIT FOUR",
+    "command": "\\mttfour"
+  },
+  {
+    "codepoint": 120827,
+    "name": "MATHEMATICAL MONOSPACE DIGIT FIVE",
+    "command": "\\mttfive"
+  },
+  {
+    "codepoint": 120828,
+    "name": "MATHEMATICAL MONOSPACE DIGIT SIX",
+    "command": "\\mttsix"
+  },
+  {
+    "codepoint": 120829,
+    "name": "MATHEMATICAL MONOSPACE DIGIT SEVEN",
+    "command": "\\mttseven"
+  },
+  {
+    "codepoint": 120830,
+    "name": "MATHEMATICAL MONOSPACE DIGIT EIGHT",
+    "command": "\\mtteight"
+  },
+  {
+    "codepoint": 120831,
+    "name": "MATHEMATICAL MONOSPACE DIGIT NINE",
+    "command": "\\mttnine"
+  }
+]

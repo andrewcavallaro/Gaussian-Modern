@@ -2,6 +2,56 @@
 
 **Release 0.108 · 18 October 2026**
 
+## Math alphabet selection follow-up
+
+- The usage example now explicitly selects symbol-font math alphabets with
+  `unicode-math`. The proof also exercises legacy `\mathsf`, `\mathtt` and
+  `\mathbf` commands. Its four-page XeLaTeX PDF embeds only Gaussian Modern
+  fonts and reports no missing characters, warnings or overfull boxes.
+- No font outlines or binaries changed in this follow-up. The arXiv converter
+  is maintained as a separate project and is not included in this repository.
+
+## Unreleased native Unicode expansion · 19 October 2026
+
+- All 1,082 frozen checklist code points are present, plus combining horn U+031B.
+  Math has 2,078 mappings and 3,723 glyphs, including 202 new MATH helper glyphs.
+  The Latin Modern Math 1.959 cmap comparison has zero remaining gaps.
+- All 2,437 pre-expansion math master records are unchanged. New shapes use
+  native constructions and original drawings, with no donor outline imports.
+- JSON/UFO outline and metric agreement, OTF/TTF validation, font identities,
+  equal monospaced advances and existing Type 1 consistency checks pass.
+  Both JSON and UFO builds pass validation. Regenerating both math expansion
+  scripts leaves the master and glyph source files byte-for-byte unchanged.
+- The four-page XeLaTeX proof compiles without missing characters, warnings or
+  overfull boxes; rendered pages were visually inspected. Selected alphabet,
+  symbol and accented-letter details were revised after inspection.
+  LuaLaTeX is included in CI but was not rerun locally for this extension.
+- This is a design draft. Coverage is not a complete typographic quality test;
+  see [design limitations](docs/native-unicode-design.md). No existing repository
+  files are removed. The historical release records below retain their counts.
+
+## Unreleased dot accents and primes · 19 October 2026
+
+- Five new encoded math glyphs: U+20DB, U+20DC, U+2033, U+2034 and U+2057.
+  That intermediate math font contained 2,438 glyphs and 995 Unicode mappings. Earlier
+  release counts below describe the 0.108 baseline.
+- Existing math master glyphs are unchanged. Three/four-dot accents reuse
+  the existing diaeresis dot and its 187.0839-unit pitch, have zero advance
+  and a MATH top-accent attachment at zero. Multiple primes reuse the single
+  prime with a 150.9187-unit pitch (single-prime advance minus 1.5mu).
+- JSON and UFO sources pass `scripts/check_sources.py`. The math additions
+  generator is idempotent. Built OTF/TTF fonts pass structural, coverage,
+  accent-metric and identity checks.
+- `tests/dot-accents.tex` compiles with XeLaTeX without missing characters or
+  overfull boxes; its rendered page was inspected. It covers Greek, bold,
+  italic, superscript and nested superscript contexts, plus both apostrophe
+  and Unicode input for primes. The PDF embeds only Gaussian Modern fonts.
+  The CI workflow also runs this proof with LuaLaTeX; that engine was not
+  rerun locally for this change.
+- [Math coverage audit](docs/math-coverage.md): compared the new OTF cmap
+  against Latin Modern Math 1.959 and labelled entries with unicode-math.
+  This does not test every glyph's visual quality or promise full Unicode coverage.
+
 ## Replacement PR verification · 19 October 2026
 
 The replacement branch starts from the intact 0.107 main branch and retains every

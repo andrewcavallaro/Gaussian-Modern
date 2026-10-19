@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u27E7.bracketright" format="2">
+  <advance width="536.9177"/>
+  <outline>
+    <contour>
+      <point x="224.9721" y="745.0" type="line"/>
+      <point x="37.8882" y="745.0" type="line"/>
+      <point x="37.8882" y="722.9208" type="line"/>
+      <point x="143.0362" y="722.9208" type="line"/>
+      <point x="143.0362" y="-130.5829" type="line"/>
+      <point x="37.8882" y="-130.5829" type="line"/>
+      <point x="37.8882" y="-165.1771" type="line"/>
+      <point x="224.9721" y="-165.1771" type="line"/>
+    </contour>
+    <contour>
+      <point x="454.9721" y="745.0" type="line"/>
+      <point x="267.8882" y="745.0" type="line"/>
+      <point x="267.8882" y="722.9208" type="line"/>
+      <point x="373.0362" y="722.9208" type="line"/>
+      <point x="373.0362" y="-130.5829" type="line"/>
+      <point x="267.8882" y="-130.5829" type="line"/>
+      <point x="267.8882" y="-165.1771" type="line"/>
+      <point x="454.9721" y="-165.1771" type="line"/>
+    </contour>
+  </outline>
+</glyph>

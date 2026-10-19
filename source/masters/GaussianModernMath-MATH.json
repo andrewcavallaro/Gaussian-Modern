@@ -790,7 +790,183 @@
     "sy.calT.ssty1": 10,
     "sy.calT.ssty2": 10,
     "sy.calX.ssty1": 4,
-    "sy.calX.ssty2": 4
+    "sy.calX.ssty2": 4,
+    "native.u1D608": 0,
+    "native.u1D609": 67,
+    "native.u1D60A": 88,
+    "native.u1D60B": 50,
+    "native.u1D60C": 101,
+    "native.u1D60D": 121,
+    "native.u1D60E": 66,
+    "native.u1D60F": 77,
+    "native.u1D610": 37,
+    "native.u1D611": 82,
+    "native.u1D612": 113,
+    "native.u1D613": 0,
+    "native.u1D614": 88,
+    "native.u1D615": 77,
+    "native.u1D616": 51,
+    "native.u1D617": 94,
+    "native.u1D618": 51,
+    "native.u1D619": 44,
+    "native.u1D61A": 82,
+    "native.u1D61B": 126,
+    "native.u1D61C": 82,
+    "native.u1D61D": 118,
+    "native.u1D61E": 120,
+    "native.u1D61F": 102,
+    "native.u1D620": 117,
+    "native.u1D621": 113,
+    "native.u1D622": 20,
+    "native.u1D623": 25,
+    "native.u1D624": 68,
+    "native.u1D625": 89,
+    "native.u1D626": 32,
+    "native.u1D627": 146,
+    "native.u1D628": 44,
+    "native.u1D629": 14,
+    "native.u1D62A": 55,
+    "native.u1D62B": 73,
+    "native.u1D62C": 65,
+    "native.u1D62D": 61,
+    "native.u1D62E": 16,
+    "native.u1D62F": 14,
+    "native.u1D630": 27,
+    "native.u1D631": 25,
+    "native.u1D632": 45,
+    "native.u1D633": 90,
+    "native.u1D634": 68,
+    "native.u1D635": 83,
+    "native.u1D636": 45,
+    "native.u1D637": 90,
+    "native.u1D638": 92,
+    "native.u1D639": 74,
+    "native.u1D63A": 91,
+    "native.u1D63B": 86,
+    "native.u1D63C": 3,
+    "native.u1D63D": 88,
+    "native.u1D63E": 107,
+    "native.u1D63F": 71,
+    "native.u1D640": 105,
+    "native.u1D641": 125,
+    "native.u1D642": 84,
+    "native.u1D643": 98,
+    "native.u1D644": 58,
+    "native.u1D645": 103,
+    "native.u1D646": 124,
+    "native.u1D647": 0,
+    "native.u1D648": 109,
+    "native.u1D649": 98,
+    "native.u1D64A": 72,
+    "native.u1D64B": 115,
+    "native.u1D64C": 72,
+    "native.u1D64D": 65,
+    "native.u1D64E": 100,
+    "native.u1D64F": 130,
+    "native.u1D650": 103,
+    "native.u1D651": 136,
+    "native.u1D652": 138,
+    "native.u1D653": 116,
+    "native.u1D654": 131,
+    "native.u1D655": 134,
+    "native.u1D656": 41,
+    "native.u1D657": 46,
+    "native.u1D658": 87,
+    "native.u1D659": 110,
+    "native.u1D65A": 53,
+    "native.u1D65B": 161,
+    "native.u1D65C": 65,
+    "native.u1D65D": 35,
+    "native.u1D65E": 76,
+    "native.u1D65F": 94,
+    "native.u1D660": 76,
+    "native.u1D661": 82,
+    "native.u1D662": 37,
+    "native.u1D663": 35,
+    "native.u1D664": 48,
+    "native.u1D665": 46,
+    "native.u1D666": 66,
+    "native.u1D667": 102,
+    "native.u1D668": 87,
+    "native.u1D669": 87,
+    "native.u1D66A": 66,
+    "native.u1D66B": 108,
+    "native.u1D66C": 110,
+    "native.u1D66D": 88,
+    "native.u1D66E": 108,
+    "native.u1D66F": 107,
+    "native.u1D6F3": 28,
+    "native.u1D718": 125,
+    "native.u1D72D": 43,
+    "native.u1D735": 111,
+    "native.u1D752": 140,
+    "native.u1D790": 3,
+    "native.u1D791": 88,
+    "native.u1D792": 115,
+    "native.u1D793": 9,
+    "native.u1D794": 105,
+    "native.u1D795": 134,
+    "native.u1D796": 98,
+    "native.u1D797": 72,
+    "native.u1D798": 58,
+    "native.u1D799": 124,
+    "native.u1D79A": 8,
+    "native.u1D79B": 109,
+    "native.u1D79C": 98,
+    "native.u1D79D": 95,
+    "native.u1D79E": 72,
+    "native.u1D79F": 99,
+    "native.u1D7A0": 115,
+    "native.u1D7A1": 72,
+    "native.u1D7A2": 95,
+    "native.u1D7A3": 130,
+    "native.u1D7A4": 131,
+    "native.u1D7A5": 55,
+    "native.u1D7A6": 116,
+    "native.u1D7A7": 103,
+    "native.u1D7A8": 104,
+    "native.u1D7A9": 144,
+    "native.u1D7AA": 36,
+    "native.u1D7AB": 94,
+    "native.u1D7AC": 98,
+    "native.u1D7AD": 80,
+    "native.u1D7AE": 87,
+    "native.u1D7AF": 163,
+    "native.u1D7B0": 36,
+    "native.u1D7B1": 88,
+    "native.u1D7B2": 30,
+    "native.u1D7B3": 70,
+    "native.u1D7B4": 0,
+    "native.u1D7B5": 66,
+    "native.u1D7B6": 112,
+    "native.u1D7B7": 96,
+    "native.u1D7B8": 48,
+    "native.u1D7B9": 78,
+    "native.u1D7BA": 46,
+    "native.u1D7BB": 85,
+    "native.u1D7BC": 88,
+    "native.u1D7BD": 78,
+    "native.u1D7BE": 55,
+    "native.u1D7BF": 34,
+    "native.u1D7C0": 98,
+    "native.u1D7C1": 5,
+    "native.u1D7C2": 46,
+    "native.u1D7C3": 70,
+    "native.u1D7C4": 87,
+    "native.u1D7C5": 88,
+    "native.u1D7C6": 70,
+    "native.u1D7C7": 34,
+    "native.u1D7C8": 46,
+    "native.u1D7C9": 78,
+    "native.u222C.size0": 108,
+    "native.u222C.size1": 108,
+    "native.u222C.size2": 146,
+    "native.u222D.size0": 108,
+    "native.u222D.size1": 108,
+    "native.u222D.size2": 146,
+    "native.u2A0C.size0": 108,
+    "native.u2A0C.size1": 108,
+    "native.u2A0C.size2": 146
   },
   "topAccentAttachments": {
     "grave": 279,
@@ -3192,12 +3368,1310 @@
     "bb.Xbb.ssty1": 362,
     "bb.Xbb.ssty2": 374,
     "bb.Ybb.ssty1": 381,
-    "bb.Ybb.ssty2": 394
+    "bb.Ybb.ssty2": 394,
+    "uni20DB": 0,
+    "uni20DC": 0,
+    "uni2033": 193,
+    "uni2034": 268,
+    "uni2057": 344,
+    "native.u0100": 363,
+    "native.u0101": 257,
+    "native.u0110": 376,
+    "native.u0112": 298,
+    "native.u0113": 250,
+    "native.u0116": 298,
+    "native.u0117": 250,
+    "native.u0122": 369,
+    "native.u0326": 0,
+    "native.u0123": 269,
+    "native.u0128": 163,
+    "native.u0129": 149,
+    "native.u012A": 163,
+    "native.u012B": 149,
+    "native.u012E": 163,
+    "native.u012F": 149,
+    "native.u0136": 356,
+    "native.u0137": 285,
+    "native.u013B": 285,
+    "native.u013C": 150,
+    "native.u0145": 365,
+    "native.u0146": 300,
+    "native.u014A": 365,
+    "native.u014B": 300,
+    "native.u014C": 385,
+    "native.u014D": 281,
+    "native.u0156": 343,
+    "native.u0157": 213,
+    "native.u0168": 355,
+    "native.u0169": 300,
+    "native.u016A": 355,
+    "native.u016B": 300,
+    "native.u0172": 355,
+    "native.u0173": 300,
+    "native.u017F": 183,
+    "native.u031B": 0,
+    "native.u01A0": 407,
+    "native.u01A1": 304,
+    "native.u01AF": 377,
+    "native.u01B0": 323,
+    "native.u0218": 264,
+    "native.u0219": 226,
+    "native.u021A": 338,
+    "native.u021B": 197,
+    "native.u0305": 0,
+    "native.u0309": 0,
+    "native.u030F": 0,
+    "native.u0311": 0,
+    "native.u0323": 0,
+    "native.u032C": 0,
+    "native.u032D": 0,
+    "native.u032E": 0,
+    "native.u032F": 0,
+    "native.u0330": 0,
+    "native.u0331": 0,
+    "native.u0332": 0,
+    "native.u0333": 0,
+    "native.u0338": 0,
+    "native.u033F": 0,
+    "native.u034D": 0,
+    "native.u03F0": 275,
+    "native.u03F4": 394,
+    "native.u03F5": 253,
+    "native.u1EA0": 363,
+    "native.u1EA1": 257,
+    "native.u1EA2": 363,
+    "native.u1EA3": 257,
+    "native.u1EA4": 363,
+    "native.u1EA5": 257,
+    "native.u1EA6": 363,
+    "native.u1EA7": 257,
+    "native.u1EA8": 363,
+    "native.u1EA9": 257,
+    "native.u1EAA": 363,
+    "native.u1EAB": 257,
+    "native.u1EAC": 363,
+    "native.u1EAD": 257,
+    "native.u1EAE": 363,
+    "native.u1EAF": 257,
+    "native.u1EB0": 363,
+    "native.u1EB1": 257,
+    "native.u1EB2": 363,
+    "native.u1EB3": 257,
+    "native.u1EB4": 363,
+    "native.u1EB5": 257,
+    "native.u1EB6": 363,
+    "native.u1EB7": 257,
+    "native.u1EB8": 298,
+    "native.u1EB9": 250,
+    "native.u1EBA": 298,
+    "native.u1EBB": 250,
+    "native.u1EBC": 298,
+    "native.u1EBD": 250,
+    "native.u1EBE": 298,
+    "native.u1EBF": 250,
+    "native.u1EC0": 298,
+    "native.u1EC1": 250,
+    "native.u1EC2": 298,
+    "native.u1EC3": 250,
+    "native.u1EC4": 298,
+    "native.u1EC5": 250,
+    "native.u1EC6": 298,
+    "native.u1EC7": 250,
+    "native.u1EC8": 163,
+    "native.u1EC9": 149,
+    "native.u1ECA": 163,
+    "native.u1ECB": 149,
+    "native.u1ECC": 385,
+    "native.u1ECD": 281,
+    "native.u1ECE": 385,
+    "native.u1ECF": 281,
+    "native.u1ED0": 385,
+    "native.u1ED1": 281,
+    "native.u1ED2": 385,
+    "native.u1ED3": 281,
+    "native.u1ED4": 385,
+    "native.u1ED5": 281,
+    "native.u1ED6": 385,
+    "native.u1ED7": 281,
+    "native.u1ED8": 385,
+    "native.u1ED9": 281,
+    "native.u1EDA": 407,
+    "native.u1EDB": 304,
+    "native.u1EDC": 407,
+    "native.u1EDD": 304,
+    "native.u1EDE": 407,
+    "native.u1EDF": 304,
+    "native.u1EE0": 407,
+    "native.u1EE1": 304,
+    "native.u1EE2": 407,
+    "native.u1EE3": 304,
+    "native.u1EE4": 355,
+    "native.u1EE5": 300,
+    "native.u1EE6": 355,
+    "native.u1EE7": 300,
+    "native.u1EE8": 377,
+    "native.u1EE9": 323,
+    "native.u1EEA": 377,
+    "native.u1EEB": 323,
+    "native.u1EEC": 377,
+    "native.u1EED": 323,
+    "native.u1EEE": 377,
+    "native.u1EEF": 323,
+    "native.u1EF0": 377,
+    "native.u1EF1": 323,
+    "native.u1EF2": 341,
+    "native.u1EF3": 270,
+    "native.u1EF4": 341,
+    "native.u1EF5": 270,
+    "native.u1EF6": 341,
+    "native.u1EF7": 270,
+    "native.u1EF8": 341,
+    "native.u1EF9": 270,
+    "native.u2000": 250,
+    "native.u2001": 500,
+    "native.u2002": 250,
+    "native.u2003": 500,
+    "native.u2004": 167,
+    "native.u2005": 125,
+    "native.u2006": 83,
+    "native.u2007": 278,
+    "native.u2008": 161,
+    "native.u2009": 100,
+    "native.u200A": 50,
+    "native.u200B": 0,
+    "native.u200C": 0,
+    "native.u200D": 0,
+    "native.u2010": 158,
+    "native.u2012": 278,
+    "native.u2015": 500,
+    "native.u2017": 325,
+    "native.u202F": 100,
+    "native.u2031": 666,
+    "native.u2036": 193,
+    "native.u2037": 268,
+    "native.u203B": 365,
+    "native.u203D": 233,
+    "native.u2052": 330,
+    "native.u205F": 111,
+    "native.u2060": 0,
+    "native.u2061": 0,
+    "native.u2062": 0,
+    "native.u2063": 0,
+    "native.u2064": 0,
+    "native.u20A1": 349,
+    "native.u20D0": 0,
+    "native.u20D1": 0,
+    "native.u20D2": 0,
+    "native.u20D3": 0,
+    "native.u21BA": 350,
+    "native.u20D4": 0,
+    "native.u21BB": 350,
+    "native.u20D5": 0,
+    "native.u20D6": 0,
+    "native.u20D8": 0,
+    "native.u20DD": 0,
+    "native.u20DE": 0,
+    "native.u20DF": 0,
+    "native.u20E1": 0,
+    "native.u20E4": 0,
+    "native.u20E5": 0,
+    "native.u20E6": 0,
+    "native.u20E8": 0,
+    "native.u20E9": 0,
+    "native.u20EA": 0,
+    "native.u20EB": 0,
+    "native.u20EC": 0,
+    "native.u20ED": 0,
+    "native.u20EE": 0,
+    "native.u20EF": 0,
+    "native.u20F0": 0,
+    "native.u2107": 345,
+    "native.u2109": 421,
+    "native.u210C": 415,
+    "native.u2116": 515,
+    "native.u2117": 400,
+    "native.u211E": 363,
+    "native.u2120": 330,
+    "native.u2128": 360,
+    "native.u212A": 356,
+    "native.u212B": 360,
+    "native.u212D": 360,
+    "native.u212E": 385,
+    "native.u213C": 325,
+    "native.u213D": 275,
+    "native.u213E": 295,
+    "native.u213F": 365,
+    "native.u2140": 335,
+    "native.u2145": 355,
+    "native.u2146": 295,
+    "native.u2147": 280,
+    "native.u2148": 132,
+    "native.u2149": 145,
+    "native.u219F": 300,
+    "native.u21A1": 300,
+    "native.u21A4": 420,
+    "native.u21A5": 300,
+    "native.u21A7": 300,
+    "native.u21B2": 278,
+    "native.u21B3": 278,
+    "native.u21B4": 400,
+    "native.u21B5": 400,
+    "native.u21C5": 302,
+    "native.u21D6": 400,
+    "native.u21D7": 400,
+    "native.u21D8": 400,
+    "native.u21D9": 400,
+    "native.u21DC": 547,
+    "native.u21E6": 400,
+    "native.u21E7": 325,
+    "native.u21E8": 400,
+    "native.u21E9": 325,
+    "native.u21F3": 325,
+    "native.u21F5": 302,
+    "native.u21F6": 420,
+    "native.u2206": 379,
+    "native.u220A": 283,
+    "native.u220D": 283,
+    "native.u220E": 348,
+    "native.u2215": 248,
+    "native.u2216": 156,
+    "native.u2218": 208,
+    "native.u2219": 124,
+    "native.u221F": 375,
+    "native.u2225": 256,
+    "native.u222C": 366,
+    "native.u222D": 511,
+    "native.u2237": 267,
+    "native.u2238": 348,
+    "native.u2239": 487,
+    "native.u223A": 625,
+    "native.u223B": 348,
+    "native.u223E": 350,
+    "native.u223F": 350,
+    "native.u2244": 348,
+    "native.u2245": 348,
+    "native.u2246": 348,
+    "native.u2249": 348,
+    "native.u224B": 348,
+    "native.u224C": 348,
+    "native.u2250": 295,
+    "native.u2254": 434,
+    "native.u2255": 434,
+    "native.u2258": 295,
+    "native.u2259": 295,
+    "native.u225A": 295,
+    "native.u225B": 295,
+    "native.u225D": 405,
+    "native.u225E": 295,
+    "native.u225F": 295,
+    "native.u2262": 348,
+    "native.u2263": 295,
+    "native.u226D": 348,
+    "native.u2274": 348,
+    "native.u2275": 348,
+    "native.u2278": 372,
+    "native.u2279": 372,
+    "native.u2284": 382,
+    "native.u2285": 382,
+    "native.u228C": 353,
+    "native.u228D": 353,
+    "native.u229C": 350,
+    "native.u22A6": 375,
+    "native.u22A7": 375,
+    "native.u22AB": 375,
+    "native.u22B6": 375,
+    "native.u22B7": 375,
+    "native.u22B9": 350,
+    "native.u22BD": 363,
+    "native.u22BE": 375,
+    "native.u22BF": 375,
+    "native.u22C8": 360,
+    "native.u22D5": 295,
+    "native.u22DC": 350,
+    "native.u22DD": 350,
+    "native.u22E2": 372,
+    "native.u22E3": 372,
+    "native.u22E4": 372,
+    "native.u22E5": 372,
+    "native.u22F0": 300,
+    "native.u2300": 350,
+    "native.u2305": 348,
+    "native.u2306": 348,
+    "native.u2310": 337,
+    "native.u2319": 337,
+    "native.u231C": 315,
+    "native.u231D": 315,
+    "native.u231E": 315,
+    "native.u231F": 315,
+    "native.u2320": 222,
+    "native.u2321": 222,
+    "native.u2329": 238,
+    "native.u232A": 238,
+    "native.u239B": 437,
+    "native.u239C": 437,
+    "native.u239D": 437,
+    "native.u239E": 437,
+    "native.u239F": 437,
+    "native.u23A0": 437,
+    "native.u23A1": 467,
+    "native.u23A2": 467,
+    "native.u23A3": 467,
+    "native.u23A4": 467,
+    "native.u23A5": 467,
+    "native.u23A6": 467,
+    "native.u23A7": 440,
+    "native.u23A8": 440,
+    "native.u23A9": 440,
+    "native.u23AA": 440,
+    "native.u23AB": 440,
+    "native.u23AC": 440,
+    "native.u23AD": 440,
+    "native.u23B2": 451,
+    "native.u23B3": 451,
+    "native.u23B4": 0,
+    "native.u23B5": 0,
+    "native.u23B7": 386,
+    "native.u23D0": 154,
+    "native.u23DC": 0,
+    "native.u23DD": 0,
+    "native.u23E0": 0,
+    "native.u23E1": 0,
+    "native.u2422": 294,
+    "native.u2500": 300,
+    "native.u2502": 300,
+    "native.u250C": 300,
+    "native.u2510": 300,
+    "native.u2514": 300,
+    "native.u2518": 300,
+    "native.u251C": 300,
+    "native.u2524": 300,
+    "native.u252C": 300,
+    "native.u2534": 300,
+    "native.u253C": 300,
+    "native.u2581": 300,
+    "native.u2588": 300,
+    "native.u2591": 300,
+    "native.u2592": 300,
+    "native.u2593": 300,
+    "native.u25AA": 200,
+    "native.u25AB": 200,
+    "native.u25AC": 400,
+    "native.u25AD": 400,
+    "native.u25B2": 360,
+    "native.u25B7": 348,
+    "native.u25BC": 360,
+    "native.u25BD": 472,
+    "native.u25C1": 348,
+    "native.u25CB": 350,
+    "native.u25CF": 350,
+    "native.u25EF": 450,
+    "native.u2661": 418,
+    "native.u2662": 418,
+    "native.u2664": 417,
+    "native.u2667": 385,
+    "native.u266A": 300,
+    "native.u26AD": 410,
+    "native.u26AE": 410,
+    "native.u2713": 365,
+    "native.u2720": 350,
+    "native.u275A": 198,
+    "native.u27A1": 400,
+    "native.u27C2": 348,
+    "native.u27D8": 400,
+    "native.u27D9": 400,
+    "native.u27DA": 350,
+    "native.u27DB": 350,
+    "native.u27DC": 348,
+    "native.u27DD": 597,
+    "native.u27DE": 597,
+    "native.u27E0": 328,
+    "native.u27E1": 350,
+    "native.u27E2": 350,
+    "native.u27E3": 350,
+    "native.u27E6": 268,
+    "native.u27E7": 268,
+    "native.u27EA": 328,
+    "native.u27EB": 328,
+    "native.u27EE": 153,
+    "native.u27EF": 153,
+    "native.u27F4": 420,
+    "native.u27F5": 670,
+    "native.u27F6": 670,
+    "native.u27F7": 670,
+    "native.u27FA": 739,
+    "native.u27FB": 670,
+    "native.u27FC": 670,
+    "native.u2907": 423,
+    "native.u2906": 423,
+    "native.u27FD": 673,
+    "native.u27FE": 673,
+    "native.u27FF": 797,
+    "native.u2A03": 399,
+    "native.u2A05": 399,
+    "native.u2A09": 450,
+    "native.u2A0C": 655,
+    "native.u2A11": 222,
+    "native.u2A2F": 458,
+    "native.u2A3F": 389,
+    "native.u2A95": 350,
+    "native.u2A96": 350,
+    "native.u2B04": 400,
+    "native.u2B05": 400,
+    "native.u2B06": 325,
+    "native.u2B07": 325,
+    "native.u2B0C": 400,
+    "native.u2B0D": 325,
+    "native.u2B1A": 300,
+    "native.u2B31": 420,
+    "native.u2B33": 797,
+    "native.u3016": 220,
+    "native.u3017": 220,
+    "native.uFEFF": 0,
+    "native.u1D4D0": 513,
+    "native.u1D4D1": 406,
+    "native.u1D4D2": 376,
+    "native.u1D4D3": 485,
+    "native.u1D4D4": 384,
+    "native.u1D4D5": 444,
+    "native.u1D4D6": 372,
+    "native.u1D4D7": 601,
+    "native.u1D4D8": 295,
+    "native.u1D4D9": 359,
+    "native.u1D4DA": 511,
+    "native.u1D4DB": 337,
+    "native.u1D4DC": 580,
+    "native.u1D4DD": 605,
+    "native.u1D4DE": 409,
+    "native.u1D4DF": 417,
+    "native.u1D4E0": 418,
+    "native.u1D4E1": 457,
+    "native.u1D4E2": 344,
+    "native.u1D4E3": 473,
+    "native.u1D4E4": 492,
+    "native.u1D4E5": 486,
+    "native.u1D4E6": 608,
+    "native.u1D4E7": 433,
+    "native.u1D4E8": 416,
+    "native.u1D4E9": 363,
+    "native.u1D504": 380,
+    "native.u1D505": 375,
+    "native.u1D507": 395,
+    "native.u1D508": 345,
+    "native.u1D509": 340,
+    "native.u1D50A": 395,
+    "native.u1D50D": 265,
+    "native.u1D50E": 400,
+    "native.u1D50F": 340,
+    "native.u1D510": 525,
+    "native.u1D511": 425,
+    "native.u1D512": 405,
+    "native.u1D513": 370,
+    "native.u1D514": 410,
+    "native.u1D516": 360,
+    "native.u1D517": 385,
+    "native.u1D518": 425,
+    "native.u1D519": 410,
+    "native.u1D51A": 570,
+    "native.u1D51B": 385,
+    "native.u1D51C": 410,
+    "native.u1D51E": 260,
+    "native.u1D51F": 260,
+    "native.u1D520": 225,
+    "native.u1D521": 265,
+    "native.u1D522": 230,
+    "native.u1D523": 175,
+    "native.u1D524": 265,
+    "native.u1D525": 275,
+    "native.u1D526": 130,
+    "native.u1D527": 140,
+    "native.u1D528": 255,
+    "native.u1D529": 145,
+    "native.u1D52A": 410,
+    "native.u1D52B": 275,
+    "native.u1D52C": 265,
+    "native.u1D52D": 275,
+    "native.u1D52E": 265,
+    "native.u1D52F": 200,
+    "native.u1D530": 225,
+    "native.u1D531": 185,
+    "native.u1D532": 275,
+    "native.u1D533": 270,
+    "native.u1D534": 395,
+    "native.u1D535": 255,
+    "native.u1D536": 270,
+    "native.u1D537": 230,
+    "native.u1D552": 282,
+    "native.u1D553": 295,
+    "native.u1D554": 265,
+    "native.u1D555": 295,
+    "native.u1D556": 280,
+    "native.u1D557": 185,
+    "native.u1D558": 295,
+    "native.u1D559": 295,
+    "native.u1D55A": 132,
+    "native.u1D55B": 145,
+    "native.u1D55C": 280,
+    "native.u1D55D": 132,
+    "native.u1D55E": 435,
+    "native.u1D55F": 295,
+    "native.u1D560": 295,
+    "native.u1D561": 295,
+    "native.u1D562": 295,
+    "native.u1D563": 205,
+    "native.u1D564": 250,
+    "native.u1D565": 185,
+    "native.u1D566": 295,
+    "native.u1D567": 270,
+    "native.u1D568": 390,
+    "native.u1D569": 270,
+    "native.u1D56A": 270,
+    "native.u1D56B": 250,
+    "native.u1D56C": 380,
+    "native.u1D56D": 375,
+    "native.u1D56E": 360,
+    "native.u1D56F": 395,
+    "native.u1D570": 345,
+    "native.u1D571": 340,
+    "native.u1D572": 395,
+    "native.u1D573": 415,
+    "native.u1D574": 342,
+    "native.u1D575": 265,
+    "native.u1D576": 400,
+    "native.u1D577": 340,
+    "native.u1D578": 525,
+    "native.u1D579": 425,
+    "native.u1D57A": 405,
+    "native.u1D57B": 370,
+    "native.u1D57C": 410,
+    "native.u1D57D": 442,
+    "native.u1D57E": 360,
+    "native.u1D57F": 385,
+    "native.u1D580": 425,
+    "native.u1D581": 410,
+    "native.u1D582": 570,
+    "native.u1D583": 385,
+    "native.u1D584": 410,
+    "native.u1D585": 360,
+    "native.u1D586": 260,
+    "native.u1D587": 260,
+    "native.u1D588": 225,
+    "native.u1D589": 265,
+    "native.u1D58A": 230,
+    "native.u1D58B": 175,
+    "native.u1D58C": 265,
+    "native.u1D58D": 275,
+    "native.u1D58E": 130,
+    "native.u1D58F": 140,
+    "native.u1D590": 255,
+    "native.u1D591": 145,
+    "native.u1D592": 410,
+    "native.u1D593": 275,
+    "native.u1D594": 265,
+    "native.u1D595": 275,
+    "native.u1D596": 265,
+    "native.u1D597": 200,
+    "native.u1D598": 225,
+    "native.u1D599": 185,
+    "native.u1D59A": 275,
+    "native.u1D59B": 270,
+    "native.u1D59C": 395,
+    "native.u1D59D": 255,
+    "native.u1D59E": 270,
+    "native.u1D59F": 230,
+    "native.u1D5A0": 350,
+    "native.u1D5A1": 330,
+    "native.u1D5A2": 345,
+    "native.u1D5A3": 355,
+    "native.u1D5A4": 295,
+    "native.u1D5A5": 285,
+    "native.u1D5A6": 365,
+    "native.u1D5A7": 365,
+    "native.u1D5A8": 150,
+    "native.u1D5A9": 265,
+    "native.u1D5AA": 335,
+    "native.u1D5AB": 285,
+    "native.u1D5AC": 425,
+    "native.u1D5AD": 370,
+    "native.u1D5AE": 375,
+    "native.u1D5AF": 315,
+    "native.u1D5B0": 375,
+    "native.u1D5B1": 340,
+    "native.u1D5B2": 325,
+    "native.u1D5B3": 320,
+    "native.u1D5B4": 360,
+    "native.u1D5B5": 345,
+    "native.u1D5B6": 480,
+    "native.u1D5B7": 340,
+    "native.u1D5B8": 325,
+    "native.u1D5B9": 325,
+    "native.u1D5BA": 282,
+    "native.u1D5BB": 295,
+    "native.u1D5BC": 265,
+    "native.u1D5BD": 295,
+    "native.u1D5BE": 280,
+    "native.u1D5BF": 185,
+    "native.u1D5C0": 295,
+    "native.u1D5C1": 295,
+    "native.u1D5C2": 132,
+    "native.u1D5C3": 145,
+    "native.u1D5C4": 280,
+    "native.u1D5C5": 132,
+    "native.u1D5C6": 435,
+    "native.u1D5C7": 295,
+    "native.u1D5C8": 295,
+    "native.u1D5C9": 295,
+    "native.u1D5CA": 295,
+    "native.u1D5CB": 205,
+    "native.u1D5CC": 250,
+    "native.u1D5CD": 185,
+    "native.u1D5CE": 295,
+    "native.u1D5CF": 270,
+    "native.u1D5D0": 390,
+    "native.u1D5D1": 270,
+    "native.u1D5D2": 270,
+    "native.u1D5D3": 250,
+    "native.u1D5D4": 350,
+    "native.u1D5D5": 330,
+    "native.u1D5D6": 345,
+    "native.u1D5D7": 355,
+    "native.u1D5D8": 295,
+    "native.u1D5D9": 285,
+    "native.u1D5DA": 365,
+    "native.u1D5DB": 365,
+    "native.u1D5DC": 150,
+    "native.u1D5DD": 265,
+    "native.u1D5DE": 335,
+    "native.u1D5DF": 285,
+    "native.u1D5E0": 425,
+    "native.u1D5E1": 370,
+    "native.u1D5E2": 375,
+    "native.u1D5E3": 315,
+    "native.u1D5E4": 375,
+    "native.u1D5E5": 340,
+    "native.u1D5E6": 325,
+    "native.u1D5E7": 320,
+    "native.u1D5E8": 360,
+    "native.u1D5E9": 345,
+    "native.u1D5EA": 480,
+    "native.u1D5EB": 340,
+    "native.u1D5EC": 325,
+    "native.u1D5ED": 325,
+    "native.u1D5EE": 282,
+    "native.u1D5EF": 295,
+    "native.u1D5F0": 265,
+    "native.u1D5F1": 295,
+    "native.u1D5F2": 280,
+    "native.u1D5F3": 185,
+    "native.u1D5F4": 295,
+    "native.u1D5F5": 295,
+    "native.u1D5F6": 132,
+    "native.u1D5F7": 145,
+    "native.u1D5F8": 280,
+    "native.u1D5F9": 132,
+    "native.u1D5FA": 435,
+    "native.u1D5FB": 295,
+    "native.u1D5FC": 295,
+    "native.u1D5FD": 295,
+    "native.u1D5FE": 295,
+    "native.u1D5FF": 205,
+    "native.u1D600": 250,
+    "native.u1D601": 185,
+    "native.u1D602": 295,
+    "native.u1D603": 270,
+    "native.u1D604": 390,
+    "native.u1D605": 270,
+    "native.u1D606": 270,
+    "native.u1D607": 250,
+    "native.u1D608": 350,
+    "native.u1D609": 330,
+    "native.u1D60A": 345,
+    "native.u1D60B": 355,
+    "native.u1D60C": 295,
+    "native.u1D60D": 285,
+    "native.u1D60E": 365,
+    "native.u1D60F": 365,
+    "native.u1D610": 150,
+    "native.u1D611": 265,
+    "native.u1D612": 335,
+    "native.u1D613": 285,
+    "native.u1D614": 425,
+    "native.u1D615": 370,
+    "native.u1D616": 375,
+    "native.u1D617": 315,
+    "native.u1D618": 375,
+    "native.u1D619": 340,
+    "native.u1D61A": 325,
+    "native.u1D61B": 320,
+    "native.u1D61C": 360,
+    "native.u1D61D": 345,
+    "native.u1D61E": 480,
+    "native.u1D61F": 340,
+    "native.u1D620": 325,
+    "native.u1D621": 325,
+    "native.u1D622": 282,
+    "native.u1D623": 295,
+    "native.u1D624": 265,
+    "native.u1D625": 295,
+    "native.u1D626": 280,
+    "native.u1D627": 185,
+    "native.u1D628": 295,
+    "native.u1D629": 295,
+    "native.u1D62A": 132,
+    "native.u1D62B": 145,
+    "native.u1D62C": 280,
+    "native.u1D62D": 132,
+    "native.u1D62E": 435,
+    "native.u1D62F": 295,
+    "native.u1D630": 295,
+    "native.u1D631": 295,
+    "native.u1D632": 295,
+    "native.u1D633": 205,
+    "native.u1D634": 250,
+    "native.u1D635": 185,
+    "native.u1D636": 295,
+    "native.u1D637": 270,
+    "native.u1D638": 390,
+    "native.u1D639": 270,
+    "native.u1D63A": 270,
+    "native.u1D63B": 250,
+    "native.u1D63C": 350,
+    "native.u1D63D": 330,
+    "native.u1D63E": 345,
+    "native.u1D63F": 355,
+    "native.u1D640": 295,
+    "native.u1D641": 285,
+    "native.u1D642": 365,
+    "native.u1D643": 365,
+    "native.u1D644": 150,
+    "native.u1D645": 265,
+    "native.u1D646": 335,
+    "native.u1D647": 285,
+    "native.u1D648": 425,
+    "native.u1D649": 370,
+    "native.u1D64A": 375,
+    "native.u1D64B": 315,
+    "native.u1D64C": 375,
+    "native.u1D64D": 340,
+    "native.u1D64E": 325,
+    "native.u1D64F": 320,
+    "native.u1D650": 360,
+    "native.u1D651": 345,
+    "native.u1D652": 480,
+    "native.u1D653": 340,
+    "native.u1D654": 325,
+    "native.u1D655": 325,
+    "native.u1D656": 282,
+    "native.u1D657": 295,
+    "native.u1D658": 265,
+    "native.u1D659": 295,
+    "native.u1D65A": 280,
+    "native.u1D65B": 185,
+    "native.u1D65C": 295,
+    "native.u1D65D": 295,
+    "native.u1D65E": 132,
+    "native.u1D65F": 145,
+    "native.u1D660": 280,
+    "native.u1D661": 132,
+    "native.u1D662": 435,
+    "native.u1D663": 295,
+    "native.u1D664": 295,
+    "native.u1D665": 295,
+    "native.u1D666": 295,
+    "native.u1D667": 205,
+    "native.u1D668": 250,
+    "native.u1D669": 185,
+    "native.u1D66A": 295,
+    "native.u1D66B": 270,
+    "native.u1D66C": 390,
+    "native.u1D66D": 270,
+    "native.u1D66E": 270,
+    "native.u1D66F": 250,
+    "native.u1D670": 325,
+    "native.u1D671": 325,
+    "native.u1D672": 325,
+    "native.u1D673": 325,
+    "native.u1D674": 325,
+    "native.u1D675": 325,
+    "native.u1D676": 325,
+    "native.u1D677": 325,
+    "native.u1D678": 325,
+    "native.u1D679": 325,
+    "native.u1D67A": 325,
+    "native.u1D67B": 325,
+    "native.u1D67C": 325,
+    "native.u1D67D": 325,
+    "native.u1D67E": 325,
+    "native.u1D67F": 325,
+    "native.u1D680": 325,
+    "native.u1D681": 325,
+    "native.u1D682": 325,
+    "native.u1D683": 325,
+    "native.u1D684": 325,
+    "native.u1D685": 325,
+    "native.u1D686": 325,
+    "native.u1D687": 325,
+    "native.u1D688": 325,
+    "native.u1D689": 325,
+    "native.u1D68A": 325,
+    "native.u1D68B": 325,
+    "native.u1D68C": 325,
+    "native.u1D68D": 325,
+    "native.u1D68E": 325,
+    "native.u1D68F": 325,
+    "native.u1D690": 325,
+    "native.u1D691": 325,
+    "native.u1D692": 325,
+    "native.u1D693": 325,
+    "native.u1D694": 325,
+    "native.u1D695": 325,
+    "native.u1D696": 325,
+    "native.u1D697": 325,
+    "native.u1D698": 325,
+    "native.u1D699": 325,
+    "native.u1D69A": 325,
+    "native.u1D69B": 325,
+    "native.u1D69C": 325,
+    "native.u1D69D": 325,
+    "native.u1D69E": 325,
+    "native.u1D69F": 325,
+    "native.u1D6A0": 325,
+    "native.u1D6A1": 325,
+    "native.u1D6A2": 325,
+    "native.u1D6A3": 325,
+    "native.u1D6A8": 363,
+    "native.u1D6A9": 316,
+    "native.u1D6AA": 286,
+    "native.u1D6AB": 379,
+    "native.u1D6AC": 298,
+    "native.u1D6AD": 298,
+    "native.u1D6AE": 371,
+    "native.u1D6AF": 400,
+    "native.u1D6B0": 163,
+    "native.u1D6B1": 356,
+    "native.u1D6B2": 400,
+    "native.u1D6B3": 428,
+    "native.u1D6B4": 365,
+    "native.u1D6B5": 332,
+    "native.u1D6B6": 385,
+    "native.u1D6B7": 395,
+    "native.u1D6B8": 299,
+    "native.u1D6B9": 400,
+    "native.u1D6BA": 356,
+    "native.u1D6BB": 338,
+    "native.u1D6BC": 369,
+    "native.u1D6BD": 382,
+    "native.u1D6BE": 335,
+    "native.u1D6BF": 423,
+    "native.u1D6C0": 406,
+    "native.u1D6C1": 385,
+    "native.u1D6C2": 374,
+    "native.u1D6C3": 330,
+    "native.u1D6C4": 316,
+    "native.u1D6C5": 319,
+    "native.u1D6C6": 263,
+    "native.u1D6C7": 327,
+    "native.u1D6C8": 326,
+    "native.u1D6C9": 316,
+    "native.u1D6CA": 190,
+    "native.u1D6CB": 301,
+    "native.u1D6CC": 316,
+    "native.u1D6CD": 316,
+    "native.u1D6CE": 301,
+    "native.u1D6CF": 287,
+    "native.u1D6D0": 295,
+    "native.u1D6D1": 379,
+    "native.u1D6D2": 321,
+    "native.u1D6D3": 292,
+    "native.u1D6D4": 355,
+    "native.u1D6D5": 309,
+    "native.u1D6D6": 320,
+    "native.u1D6D7": 426,
+    "native.u1D6D8": 321,
+    "native.u1D6D9": 433,
+    "native.u1D6DA": 484,
+    "native.u1D6DB": 260,
+    "native.u1D6DC": 263,
+    "native.u1D6DD": 316,
+    "native.u1D6DE": 301,
+    "native.u1D6DF": 426,
+    "native.u1D6E0": 321,
+    "native.u1D6E1": 379,
+    "native.u1D6F3": 400,
+    "native.u1D718": 301,
+    "native.u1D72D": 400,
+    "native.u1D735": 385,
+    "native.u1D752": 301,
+    "native.u1D756": 350,
+    "native.u1D757": 330,
+    "native.u1D758": 295,
+    "native.u1D759": 350,
+    "native.u1D75A": 295,
+    "native.u1D75B": 325,
+    "native.u1D75C": 365,
+    "native.u1D75D": 375,
+    "native.u1D75E": 150,
+    "native.u1D75F": 335,
+    "native.u1D760": 350,
+    "native.u1D761": 425,
+    "native.u1D762": 370,
+    "native.u1D763": 330,
+    "native.u1D764": 375,
+    "native.u1D765": 365,
+    "native.u1D766": 315,
+    "native.u1D767": 375,
+    "native.u1D768": 335,
+    "native.u1D769": 320,
+    "native.u1D76A": 325,
+    "native.u1D76B": 390,
+    "native.u1D76C": 340,
+    "native.u1D76D": 390,
+    "native.u1D76E": 390,
+    "native.u1D76F": 350,
+    "native.u1D770": 325,
+    "native.u1D771": 290,
+    "native.u1D772": 275,
+    "native.u1D773": 285,
+    "native.u1D774": 250,
+    "native.u1D775": 245,
+    "native.u1D776": 295,
+    "native.u1D777": 290,
+    "native.u1D778": 145,
+    "native.u1D779": 285,
+    "native.u1D77A": 290,
+    "native.u1D77B": 295,
+    "native.u1D77C": 270,
+    "native.u1D77D": 255,
+    "native.u1D77E": 295,
+    "native.u1D77F": 325,
+    "native.u1D780": 295,
+    "native.u1D781": 255,
+    "native.u1D782": 320,
+    "native.u1D783": 255,
+    "native.u1D784": 285,
+    "native.u1D785": 375,
+    "native.u1D786": 275,
+    "native.u1D787": 380,
+    "native.u1D788": 390,
+    "native.u1D789": 295,
+    "native.u1D78A": 250,
+    "native.u1D78B": 290,
+    "native.u1D78C": 285,
+    "native.u1D78D": 375,
+    "native.u1D78E": 295,
+    "native.u1D78F": 325,
+    "native.u1D790": 350,
+    "native.u1D791": 330,
+    "native.u1D792": 295,
+    "native.u1D793": 350,
+    "native.u1D794": 295,
+    "native.u1D795": 325,
+    "native.u1D796": 365,
+    "native.u1D797": 375,
+    "native.u1D798": 150,
+    "native.u1D799": 335,
+    "native.u1D79A": 350,
+    "native.u1D79B": 425,
+    "native.u1D79C": 370,
+    "native.u1D79D": 330,
+    "native.u1D79E": 375,
+    "native.u1D79F": 365,
+    "native.u1D7A0": 315,
+    "native.u1D7A1": 375,
+    "native.u1D7A2": 335,
+    "native.u1D7A3": 320,
+    "native.u1D7A4": 325,
+    "native.u1D7A5": 390,
+    "native.u1D7A6": 340,
+    "native.u1D7A7": 390,
+    "native.u1D7A8": 390,
+    "native.u1D7A9": 350,
+    "native.u1D7AA": 325,
+    "native.u1D7AB": 290,
+    "native.u1D7AC": 275,
+    "native.u1D7AD": 285,
+    "native.u1D7AE": 250,
+    "native.u1D7AF": 245,
+    "native.u1D7B0": 295,
+    "native.u1D7B1": 290,
+    "native.u1D7B2": 145,
+    "native.u1D7B3": 285,
+    "native.u1D7B4": 290,
+    "native.u1D7B5": 295,
+    "native.u1D7B6": 270,
+    "native.u1D7B7": 255,
+    "native.u1D7B8": 295,
+    "native.u1D7B9": 325,
+    "native.u1D7BA": 295,
+    "native.u1D7BB": 255,
+    "native.u1D7BC": 320,
+    "native.u1D7BD": 255,
+    "native.u1D7BE": 285,
+    "native.u1D7BF": 375,
+    "native.u1D7C0": 275,
+    "native.u1D7C1": 380,
+    "native.u1D7C2": 390,
+    "native.u1D7C3": 295,
+    "native.u1D7C4": 250,
+    "native.u1D7C5": 290,
+    "native.u1D7C6": 285,
+    "native.u1D7C7": 375,
+    "native.u1D7C8": 295,
+    "native.u1D7C9": 325,
+    "native.u1D7D8": 295,
+    "native.u1D7D9": 295,
+    "native.u1D7DA": 295,
+    "native.u1D7DB": 295,
+    "native.u1D7DC": 295,
+    "native.u1D7DD": 295,
+    "native.u1D7DE": 295,
+    "native.u1D7DF": 295,
+    "native.u1D7E0": 295,
+    "native.u1D7E1": 295,
+    "native.u1D7E2": 295,
+    "native.u1D7E3": 295,
+    "native.u1D7E4": 295,
+    "native.u1D7E5": 295,
+    "native.u1D7E6": 295,
+    "native.u1D7E7": 295,
+    "native.u1D7E8": 295,
+    "native.u1D7E9": 295,
+    "native.u1D7EA": 295,
+    "native.u1D7EB": 295,
+    "native.u1D7EC": 295,
+    "native.u1D7ED": 295,
+    "native.u1D7EE": 295,
+    "native.u1D7EF": 295,
+    "native.u1D7F0": 295,
+    "native.u1D7F1": 295,
+    "native.u1D7F2": 295,
+    "native.u1D7F3": 295,
+    "native.u1D7F4": 295,
+    "native.u1D7F5": 295,
+    "native.u1D7F6": 325,
+    "native.u1D7F7": 325,
+    "native.u1D7F8": 325,
+    "native.u1D7F9": 325,
+    "native.u1D7FA": 325,
+    "native.u1D7FB": 325,
+    "native.u1D7FC": 325,
+    "native.u1D7FD": 325,
+    "native.u1D7FE": 325,
+    "native.u1D7FF": 325,
+    "native.u27E6.bracketleft": 268,
+    "native.u27E6.ex.bracketleftbig": 302,
+    "native.u27E6.ex.bracketleftBig": 409,
+    "native.u27E6.ex.bracketleftbigg": 434,
+    "native.u27E6.ex.bracketleftBigg": 470,
+    "native.u27E6.part.bracketleftbt": 582,
+    "native.u27E6.part.bracketleftex": 582,
+    "native.u27E6.part.bracketlefttp": 582,
+    "native.u27E7.bracketright": 268,
+    "native.u27E7.ex.bracketrightbig": 302,
+    "native.u27E7.ex.bracketrightBig": 409,
+    "native.u27E7.ex.bracketrightbigg": 434,
+    "native.u27E7.ex.bracketrightBigg": 470,
+    "native.u27E7.part.bracketrightbt": 582,
+    "native.u27E7.part.bracketrightex": 582,
+    "native.u27E7.part.bracketrighttp": 582,
+    "native.u27EA.sy.angbracketleft": 328,
+    "native.u27EA.ex.angbracketleftbig": 331,
+    "native.u27EA.ex.angbracketleftBig": 407,
+    "native.u27EA.ex.angbracketleftbigg": 449,
+    "native.u27EA.ex.angbracketleftBigg": 491,
+    "native.u27EB.sy.angbracketright": 328,
+    "native.u27EB.ex.angbracketrightbig": 331,
+    "native.u27EB.ex.angbracketrightBig": 407,
+    "native.u27EB.ex.angbracketrightbigg": 449,
+    "native.u27EB.ex.angbracketrightBigg": 491,
+    "native.u222C.size0": 366,
+    "native.u222C.size1": 366,
+    "native.u222C.size2": 476,
+    "native.u222D.size0": 511,
+    "native.u222D.size1": 511,
+    "native.u222D.size2": 663,
+    "native.u2A0C.size0": 655,
+    "native.u2A0C.size1": 655,
+    "native.u2A0C.size2": 850,
+    "native.u2A03.display": 558,
+    "native.u2A05.display": 559,
+    "native.u2A09.display": 630,
+    "native.u2A11.display": 311,
+    "native.u2140.display": 469,
+    "native.u0305.wide1000": 0,
+    "native.u0305.wide1600": 0,
+    "native.u0305.wide2500": 0,
+    "native.u0305.wide4000": 0,
+    "native.u0305.wide6500": 0,
+    "native.u0305.wide10000": 0,
+    "native.u0305.wide16000": 0,
+    "native.u0305.wide24000": 0,
+    "native.u0330.wide1000": 0,
+    "native.u0330.wide1600": 0,
+    "native.u0330.wide2500": 0,
+    "native.u0330.wide4000": 0,
+    "native.u0330.wide6500": 0,
+    "native.u0330.wide10000": 0,
+    "native.u0330.wide16000": 0,
+    "native.u0330.wide24000": 0,
+    "native.u0332.wide1000": 0,
+    "native.u0332.wide1600": 0,
+    "native.u0332.wide2500": 0,
+    "native.u0332.wide4000": 0,
+    "native.u0332.wide6500": 0,
+    "native.u0332.wide10000": 0,
+    "native.u0332.wide16000": 0,
+    "native.u0332.wide24000": 0,
+    "native.u034D.wide1000": 0,
+    "native.u034D.wide1600": 0,
+    "native.u034D.wide2500": 0,
+    "native.u034D.wide4000": 0,
+    "native.u034D.wide6500": 0,
+    "native.u034D.wide10000": 0,
+    "native.u034D.wide16000": 0,
+    "native.u034D.wide24000": 0,
+    "native.u20D0.wide1000": 0,
+    "native.u20D0.wide1600": 0,
+    "native.u20D0.wide2500": 0,
+    "native.u20D0.wide4000": 0,
+    "native.u20D0.wide6500": 0,
+    "native.u20D0.wide10000": 0,
+    "native.u20D0.wide16000": 0,
+    "native.u20D0.wide24000": 0,
+    "native.u20D1.wide1000": 0,
+    "native.u20D1.wide1600": 0,
+    "native.u20D1.wide2500": 0,
+    "native.u20D1.wide4000": 0,
+    "native.u20D1.wide6500": 0,
+    "native.u20D1.wide10000": 0,
+    "native.u20D1.wide16000": 0,
+    "native.u20D1.wide24000": 0,
+    "native.u20D6.wide1000": 0,
+    "native.u20D6.wide1600": 0,
+    "native.u20D6.wide2500": 0,
+    "native.u20D6.wide4000": 0,
+    "native.u20D6.wide6500": 0,
+    "native.u20D6.wide10000": 0,
+    "native.u20D6.wide16000": 0,
+    "native.u20D6.wide24000": 0,
+    "native.u20E1.wide1000": 0,
+    "native.u20E1.wide1600": 0,
+    "native.u20E1.wide2500": 0,
+    "native.u20E1.wide4000": 0,
+    "native.u20E1.wide6500": 0,
+    "native.u20E1.wide10000": 0,
+    "native.u20E1.wide16000": 0,
+    "native.u20E1.wide24000": 0,
+    "native.u20E9.wide1000": 0,
+    "native.u20E9.wide1600": 0,
+    "native.u20E9.wide2500": 0,
+    "native.u20E9.wide4000": 0,
+    "native.u20E9.wide6500": 0,
+    "native.u20E9.wide10000": 0,
+    "native.u20E9.wide16000": 0,
+    "native.u20E9.wide24000": 0,
+    "native.u20EC.wide1000": 0,
+    "native.u20EC.wide1600": 0,
+    "native.u20EC.wide2500": 0,
+    "native.u20EC.wide4000": 0,
+    "native.u20EC.wide6500": 0,
+    "native.u20EC.wide10000": 0,
+    "native.u20EC.wide16000": 0,
+    "native.u20EC.wide24000": 0,
+    "native.u20ED.wide1000": 0,
+    "native.u20ED.wide1600": 0,
+    "native.u20ED.wide2500": 0,
+    "native.u20ED.wide4000": 0,
+    "native.u20ED.wide6500": 0,
+    "native.u20ED.wide10000": 0,
+    "native.u20ED.wide16000": 0,
+    "native.u20ED.wide24000": 0,
+    "native.u20EE.wide1000": 0,
+    "native.u20EE.wide1600": 0,
+    "native.u20EE.wide2500": 0,
+    "native.u20EE.wide4000": 0,
+    "native.u20EE.wide6500": 0,
+    "native.u20EE.wide10000": 0,
+    "native.u20EE.wide16000": 0,
+    "native.u20EE.wide24000": 0,
+    "native.u20EF.wide1000": 0,
+    "native.u20EF.wide1600": 0,
+    "native.u20EF.wide2500": 0,
+    "native.u20EF.wide4000": 0,
+    "native.u20EF.wide6500": 0,
+    "native.u20EF.wide10000": 0,
+    "native.u20EF.wide16000": 0,
+    "native.u20EF.wide24000": 0,
+    "native.u23B4.wide1000": 0,
+    "native.u23B4.wide1600": 0,
+    "native.u23B4.wide2500": 0,
+    "native.u23B4.wide4000": 0,
+    "native.u23B4.wide6500": 0,
+    "native.u23B4.wide10000": 0,
+    "native.u23B4.wide16000": 0,
+    "native.u23B4.wide24000": 0,
+    "native.u23B5.wide1000": 0,
+    "native.u23B5.wide1600": 0,
+    "native.u23B5.wide2500": 0,
+    "native.u23B5.wide4000": 0,
+    "native.u23B5.wide6500": 0,
+    "native.u23B5.wide10000": 0,
+    "native.u23B5.wide16000": 0,
+    "native.u23B5.wide24000": 0,
+    "native.u23DC.wide1000": 0,
+    "native.u23DC.wide1600": 0,
+    "native.u23DC.wide2500": 0,
+    "native.u23DC.wide4000": 0,
+    "native.u23DC.wide6500": 0,
+    "native.u23DC.wide10000": 0,
+    "native.u23DC.wide16000": 0,
+    "native.u23DC.wide24000": 0,
+    "native.u23DD.wide1000": 0,
+    "native.u23DD.wide1600": 0,
+    "native.u23DD.wide2500": 0,
+    "native.u23DD.wide4000": 0,
+    "native.u23DD.wide6500": 0,
+    "native.u23DD.wide10000": 0,
+    "native.u23DD.wide16000": 0,
+    "native.u23DD.wide24000": 0,
+    "native.u23E0.wide1000": 0,
+    "native.u23E0.wide1600": 0,
+    "native.u23E0.wide2500": 0,
+    "native.u23E0.wide4000": 0,
+    "native.u23E0.wide6500": 0,
+    "native.u23E0.wide10000": 0,
+    "native.u23E0.wide16000": 0,
+    "native.u23E0.wide24000": 0,
+    "native.u23E1.wide1000": 0,
+    "native.u23E1.wide1600": 0,
+    "native.u23E1.wide2500": 0,
+    "native.u23E1.wide4000": 0,
+    "native.u23E1.wide6500": 0,
+    "native.u23E1.wide10000": 0,
+    "native.u23E1.wide16000": 0,
+    "native.u23E1.wide24000": 0,
+    "native.u3016.size1.4": 220,
+    "native.u3016.size2": 220,
+    "native.u3016.size2.8": 220,
+    "native.u3016.size4": 220,
+    "native.u3016.size6": 220,
+    "native.u3017.size1.4": 220,
+    "native.u3017.size2": 220,
+    "native.u3017.size2.8": 220,
+    "native.u3017.size4": 220,
+    "native.u3017.size6": 220
   },
   "extendedShapes": [
     "bracketleft",
     "bracketright",
     "mi.slash",
+    "native.u2329",
+    "native.u232A",
+    "native.u27E6",
+    "native.u27E7",
+    "native.u27EA",
+    "native.u27EB",
+    "native.u27EE",
+    "native.u27EF",
     "op.circledot",
     "op.circlemultiply",
     "op.circleplus",
@@ -3755,6 +5229,326 @@
         "ex.radicalBigg",
         2711
       ]
+    ],
+    "native.u2329": [
+      [
+        "sy.angbracketleft",
+        890
+      ],
+      [
+        "ex.angbracketleftbig",
+        1065
+      ],
+      [
+        "ex.angbracketleftBig",
+        1599
+      ],
+      [
+        "ex.angbracketleftbigg",
+        2132
+      ],
+      [
+        "ex.angbracketleftBigg",
+        2664
+      ]
+    ],
+    "native.u232A": [
+      [
+        "sy.angbracketright",
+        890
+      ],
+      [
+        "ex.angbracketrightbig",
+        1065
+      ],
+      [
+        "ex.angbracketrightBig",
+        1599
+      ],
+      [
+        "ex.angbracketrightbigg",
+        2132
+      ],
+      [
+        "ex.angbracketrightBigg",
+        2664
+      ]
+    ],
+    "native.u27EE": [
+      [
+        "parenleft",
+        910
+      ],
+      [
+        "ex.parenleftbig",
+        1065
+      ],
+      [
+        "ex.parenleftBig",
+        1601
+      ],
+      [
+        "ex.parenleftbigg",
+        2131
+      ],
+      [
+        "ex.parenleftBigg",
+        2657
+      ]
+    ],
+    "native.u27EF": [
+      [
+        "parenright",
+        910
+      ],
+      [
+        "ex.parenrightbig",
+        1065
+      ],
+      [
+        "ex.parenrightBig",
+        1601
+      ],
+      [
+        "ex.parenrightbigg",
+        2131
+      ],
+      [
+        "ex.parenrightBigg",
+        2657
+      ]
+    ],
+    "native.u27E6": [
+      [
+        "native.u27E6.bracketleft",
+        910
+      ],
+      [
+        "native.u27E6.ex.bracketleftbig",
+        1065
+      ],
+      [
+        "native.u27E6.ex.bracketleftBig",
+        1599
+      ],
+      [
+        "native.u27E6.ex.bracketleftbigg",
+        2132
+      ],
+      [
+        "native.u27E6.ex.bracketleftBigg",
+        2664
+      ]
+    ],
+    "native.u27E7": [
+      [
+        "native.u27E7.bracketright",
+        910
+      ],
+      [
+        "native.u27E7.ex.bracketrightbig",
+        1065
+      ],
+      [
+        "native.u27E7.ex.bracketrightBig",
+        1599
+      ],
+      [
+        "native.u27E7.ex.bracketrightbigg",
+        2132
+      ],
+      [
+        "native.u27E7.ex.bracketrightBigg",
+        2664
+      ]
+    ],
+    "native.u27EA": [
+      [
+        "native.u27EA.sy.angbracketleft",
+        890
+      ],
+      [
+        "native.u27EA.ex.angbracketleftbig",
+        1065
+      ],
+      [
+        "native.u27EA.ex.angbracketleftBig",
+        1599
+      ],
+      [
+        "native.u27EA.ex.angbracketleftbigg",
+        2132
+      ],
+      [
+        "native.u27EA.ex.angbracketleftBigg",
+        2664
+      ]
+    ],
+    "native.u27EB": [
+      [
+        "native.u27EB.sy.angbracketright",
+        890
+      ],
+      [
+        "native.u27EB.ex.angbracketrightbig",
+        1065
+      ],
+      [
+        "native.u27EB.ex.angbracketrightBig",
+        1599
+      ],
+      [
+        "native.u27EB.ex.angbracketrightbigg",
+        2132
+      ],
+      [
+        "native.u27EB.ex.angbracketrightBigg",
+        2664
+      ]
+    ],
+    "native.u222C": [
+      [
+        "native.u222C.size0",
+        1063
+      ],
+      [
+        "native.u222C.size1",
+        1063
+      ],
+      [
+        "native.u222C.size2",
+        2115
+      ]
+    ],
+    "native.u222D": [
+      [
+        "native.u222D.size0",
+        1063
+      ],
+      [
+        "native.u222D.size1",
+        1063
+      ],
+      [
+        "native.u222D.size2",
+        2115
+      ]
+    ],
+    "native.u2A0C": [
+      [
+        "native.u2A0C.size0",
+        1063
+      ],
+      [
+        "native.u2A0C.size1",
+        1063
+      ],
+      [
+        "native.u2A0C.size2",
+        2115
+      ]
+    ],
+    "native.u2A03": [
+      [
+        "native.u2A03",
+        960
+      ],
+      [
+        "native.u2A03.display",
+        1344
+      ]
+    ],
+    "native.u2A05": [
+      [
+        "native.u2A05",
+        960
+      ],
+      [
+        "native.u2A05.display",
+        1344
+      ]
+    ],
+    "native.u2A09": [
+      [
+        "native.u2A09",
+        880
+      ],
+      [
+        "native.u2A09.display",
+        1232
+      ]
+    ],
+    "native.u2A11": [
+      [
+        "native.u2A11",
+        1063
+      ],
+      [
+        "native.u2A11.display",
+        1489
+      ]
+    ],
+    "native.u2140": [
+      [
+        "native.u2140",
+        820
+      ],
+      [
+        "native.u2140.display",
+        1148
+      ]
+    ],
+    "native.u3016": [
+      [
+        "native.u3016",
+        1016
+      ],
+      [
+        "native.u3016.size1.4",
+        1422
+      ],
+      [
+        "native.u3016.size2",
+        2032
+      ],
+      [
+        "native.u3016.size2.8",
+        2844
+      ],
+      [
+        "native.u3016.size4",
+        4064
+      ],
+      [
+        "native.u3016.size6",
+        6095
+      ]
+    ],
+    "native.u3017": [
+      [
+        "native.u3017",
+        1016
+      ],
+      [
+        "native.u3017.size1.4",
+        1422
+      ],
+      [
+        "native.u3017.size2",
+        2032
+      ],
+      [
+        "native.u3017.size2.8",
+        2844
+      ],
+      [
+        "native.u3017.size4",
+        4064
+      ],
+      [
+        "native.u3017.size6",
+        6095
+      ]
     ]
   },
   "horizGlyphVariants": {
@@ -3864,6 +5658,728 @@
       [
         "ex.braceunderBigg",
         2658
+      ]
+    ],
+    "native.u0305": [
+      [
+        "native.u0305",
+        269
+      ],
+      [
+        "native.u0305.wide1000",
+        1000
+      ],
+      [
+        "native.u0305.wide1600",
+        1600
+      ],
+      [
+        "native.u0305.wide2500",
+        2500
+      ],
+      [
+        "native.u0305.wide4000",
+        4000
+      ],
+      [
+        "native.u0305.wide6500",
+        6500
+      ],
+      [
+        "native.u0305.wide10000",
+        10000
+      ],
+      [
+        "native.u0305.wide16000",
+        16000
+      ],
+      [
+        "native.u0305.wide24000",
+        24000
+      ]
+    ],
+    "native.u0330": [
+      [
+        "native.u0330",
+        314
+      ],
+      [
+        "native.u0330.wide1000",
+        1000
+      ],
+      [
+        "native.u0330.wide1600",
+        1600
+      ],
+      [
+        "native.u0330.wide2500",
+        2500
+      ],
+      [
+        "native.u0330.wide4000",
+        4000
+      ],
+      [
+        "native.u0330.wide6500",
+        6500
+      ],
+      [
+        "native.u0330.wide10000",
+        10000
+      ],
+      [
+        "native.u0330.wide16000",
+        16000
+      ],
+      [
+        "native.u0330.wide24000",
+        24000
+      ]
+    ],
+    "native.u0332": [
+      [
+        "native.u0332",
+        269
+      ],
+      [
+        "native.u0332.wide1000",
+        1000
+      ],
+      [
+        "native.u0332.wide1600",
+        1600
+      ],
+      [
+        "native.u0332.wide2500",
+        2500
+      ],
+      [
+        "native.u0332.wide4000",
+        4000
+      ],
+      [
+        "native.u0332.wide6500",
+        6500
+      ],
+      [
+        "native.u0332.wide10000",
+        10000
+      ],
+      [
+        "native.u0332.wide16000",
+        16000
+      ],
+      [
+        "native.u0332.wide24000",
+        24000
+      ]
+    ],
+    "native.u034D": [
+      [
+        "native.u034D",
+        650
+      ],
+      [
+        "native.u034D.wide1000",
+        1000
+      ],
+      [
+        "native.u034D.wide1600",
+        1600
+      ],
+      [
+        "native.u034D.wide2500",
+        2500
+      ],
+      [
+        "native.u034D.wide4000",
+        4000
+      ],
+      [
+        "native.u034D.wide6500",
+        6500
+      ],
+      [
+        "native.u034D.wide10000",
+        10000
+      ],
+      [
+        "native.u034D.wide16000",
+        16000
+      ],
+      [
+        "native.u034D.wide24000",
+        24000
+      ]
+    ],
+    "native.u20D0": [
+      [
+        "native.u20D0",
+        650
+      ],
+      [
+        "native.u20D0.wide1000",
+        1000
+      ],
+      [
+        "native.u20D0.wide1600",
+        1600
+      ],
+      [
+        "native.u20D0.wide2500",
+        2500
+      ],
+      [
+        "native.u20D0.wide4000",
+        4000
+      ],
+      [
+        "native.u20D0.wide6500",
+        6500
+      ],
+      [
+        "native.u20D0.wide10000",
+        10000
+      ],
+      [
+        "native.u20D0.wide16000",
+        16000
+      ],
+      [
+        "native.u20D0.wide24000",
+        24000
+      ]
+    ],
+    "native.u20D1": [
+      [
+        "native.u20D1",
+        650
+      ],
+      [
+        "native.u20D1.wide1000",
+        1000
+      ],
+      [
+        "native.u20D1.wide1600",
+        1600
+      ],
+      [
+        "native.u20D1.wide2500",
+        2500
+      ],
+      [
+        "native.u20D1.wide4000",
+        4000
+      ],
+      [
+        "native.u20D1.wide6500",
+        6500
+      ],
+      [
+        "native.u20D1.wide10000",
+        10000
+      ],
+      [
+        "native.u20D1.wide16000",
+        16000
+      ],
+      [
+        "native.u20D1.wide24000",
+        24000
+      ]
+    ],
+    "native.u20D6": [
+      [
+        "native.u20D6",
+        650
+      ],
+      [
+        "native.u20D6.wide1000",
+        1000
+      ],
+      [
+        "native.u20D6.wide1600",
+        1600
+      ],
+      [
+        "native.u20D6.wide2500",
+        2500
+      ],
+      [
+        "native.u20D6.wide4000",
+        4000
+      ],
+      [
+        "native.u20D6.wide6500",
+        6500
+      ],
+      [
+        "native.u20D6.wide10000",
+        10000
+      ],
+      [
+        "native.u20D6.wide16000",
+        16000
+      ],
+      [
+        "native.u20D6.wide24000",
+        24000
+      ]
+    ],
+    "native.u20E1": [
+      [
+        "native.u20E1",
+        650
+      ],
+      [
+        "native.u20E1.wide1000",
+        1000
+      ],
+      [
+        "native.u20E1.wide1600",
+        1600
+      ],
+      [
+        "native.u20E1.wide2500",
+        2500
+      ],
+      [
+        "native.u20E1.wide4000",
+        4000
+      ],
+      [
+        "native.u20E1.wide6500",
+        6500
+      ],
+      [
+        "native.u20E1.wide10000",
+        10000
+      ],
+      [
+        "native.u20E1.wide16000",
+        16000
+      ],
+      [
+        "native.u20E1.wide24000",
+        24000
+      ]
+    ],
+    "native.u20E9": [
+      [
+        "native.u20E9",
+        740
+      ],
+      [
+        "native.u20E9.wide1000",
+        1000
+      ],
+      [
+        "native.u20E9.wide1600",
+        1600
+      ],
+      [
+        "native.u20E9.wide2500",
+        2500
+      ],
+      [
+        "native.u20E9.wide4000",
+        4000
+      ],
+      [
+        "native.u20E9.wide6500",
+        6500
+      ],
+      [
+        "native.u20E9.wide10000",
+        10000
+      ],
+      [
+        "native.u20E9.wide16000",
+        16000
+      ],
+      [
+        "native.u20E9.wide24000",
+        24000
+      ]
+    ],
+    "native.u20EC": [
+      [
+        "native.u20EC",
+        650
+      ],
+      [
+        "native.u20EC.wide1000",
+        1000
+      ],
+      [
+        "native.u20EC.wide1600",
+        1600
+      ],
+      [
+        "native.u20EC.wide2500",
+        2500
+      ],
+      [
+        "native.u20EC.wide4000",
+        4000
+      ],
+      [
+        "native.u20EC.wide6500",
+        6500
+      ],
+      [
+        "native.u20EC.wide10000",
+        10000
+      ],
+      [
+        "native.u20EC.wide16000",
+        16000
+      ],
+      [
+        "native.u20EC.wide24000",
+        24000
+      ]
+    ],
+    "native.u20ED": [
+      [
+        "native.u20ED",
+        650
+      ],
+      [
+        "native.u20ED.wide1000",
+        1000
+      ],
+      [
+        "native.u20ED.wide1600",
+        1600
+      ],
+      [
+        "native.u20ED.wide2500",
+        2500
+      ],
+      [
+        "native.u20ED.wide4000",
+        4000
+      ],
+      [
+        "native.u20ED.wide6500",
+        6500
+      ],
+      [
+        "native.u20ED.wide10000",
+        10000
+      ],
+      [
+        "native.u20ED.wide16000",
+        16000
+      ],
+      [
+        "native.u20ED.wide24000",
+        24000
+      ]
+    ],
+    "native.u20EE": [
+      [
+        "native.u20EE",
+        650
+      ],
+      [
+        "native.u20EE.wide1000",
+        1000
+      ],
+      [
+        "native.u20EE.wide1600",
+        1600
+      ],
+      [
+        "native.u20EE.wide2500",
+        2500
+      ],
+      [
+        "native.u20EE.wide4000",
+        4000
+      ],
+      [
+        "native.u20EE.wide6500",
+        6500
+      ],
+      [
+        "native.u20EE.wide10000",
+        10000
+      ],
+      [
+        "native.u20EE.wide16000",
+        16000
+      ],
+      [
+        "native.u20EE.wide24000",
+        24000
+      ]
+    ],
+    "native.u20EF": [
+      [
+        "native.u20EF",
+        650
+      ],
+      [
+        "native.u20EF.wide1000",
+        1000
+      ],
+      [
+        "native.u20EF.wide1600",
+        1600
+      ],
+      [
+        "native.u20EF.wide2500",
+        2500
+      ],
+      [
+        "native.u20EF.wide4000",
+        4000
+      ],
+      [
+        "native.u20EF.wide6500",
+        6500
+      ],
+      [
+        "native.u20EF.wide10000",
+        10000
+      ],
+      [
+        "native.u20EF.wide16000",
+        16000
+      ],
+      [
+        "native.u20EF.wide24000",
+        24000
+      ]
+    ],
+    "native.u23B4": [
+      [
+        "native.u23B4",
+        848
+      ],
+      [
+        "native.u23B4.wide1000",
+        1000
+      ],
+      [
+        "native.u23B4.wide1600",
+        1600
+      ],
+      [
+        "native.u23B4.wide2500",
+        2500
+      ],
+      [
+        "native.u23B4.wide4000",
+        4000
+      ],
+      [
+        "native.u23B4.wide6500",
+        6500
+      ],
+      [
+        "native.u23B4.wide10000",
+        10000
+      ],
+      [
+        "native.u23B4.wide16000",
+        16000
+      ],
+      [
+        "native.u23B4.wide24000",
+        24000
+      ]
+    ],
+    "native.u23B5": [
+      [
+        "native.u23B5",
+        848
+      ],
+      [
+        "native.u23B5.wide1000",
+        1000
+      ],
+      [
+        "native.u23B5.wide1600",
+        1600
+      ],
+      [
+        "native.u23B5.wide2500",
+        2500
+      ],
+      [
+        "native.u23B5.wide4000",
+        4000
+      ],
+      [
+        "native.u23B5.wide6500",
+        6500
+      ],
+      [
+        "native.u23B5.wide10000",
+        10000
+      ],
+      [
+        "native.u23B5.wide16000",
+        16000
+      ],
+      [
+        "native.u23B5.wide24000",
+        24000
+      ]
+    ],
+    "native.u23DC": [
+      [
+        "native.u23DC",
+        837
+      ],
+      [
+        "native.u23DC.wide1000",
+        1000
+      ],
+      [
+        "native.u23DC.wide1600",
+        1600
+      ],
+      [
+        "native.u23DC.wide2500",
+        2500
+      ],
+      [
+        "native.u23DC.wide4000",
+        4000
+      ],
+      [
+        "native.u23DC.wide6500",
+        6500
+      ],
+      [
+        "native.u23DC.wide10000",
+        10000
+      ],
+      [
+        "native.u23DC.wide16000",
+        16000
+      ],
+      [
+        "native.u23DC.wide24000",
+        24000
+      ]
+    ],
+    "native.u23DD": [
+      [
+        "native.u23DD",
+        837
+      ],
+      [
+        "native.u23DD.wide1000",
+        1000
+      ],
+      [
+        "native.u23DD.wide1600",
+        1600
+      ],
+      [
+        "native.u23DD.wide2500",
+        2500
+      ],
+      [
+        "native.u23DD.wide4000",
+        4000
+      ],
+      [
+        "native.u23DD.wide6500",
+        6500
+      ],
+      [
+        "native.u23DD.wide10000",
+        10000
+      ],
+      [
+        "native.u23DD.wide16000",
+        16000
+      ],
+      [
+        "native.u23DD.wide24000",
+        24000
+      ]
+    ],
+    "native.u23E0": [
+      [
+        "native.u23E0",
+        832
+      ],
+      [
+        "native.u23E0.wide1000",
+        1000
+      ],
+      [
+        "native.u23E0.wide1600",
+        1600
+      ],
+      [
+        "native.u23E0.wide2500",
+        2500
+      ],
+      [
+        "native.u23E0.wide4000",
+        4000
+      ],
+      [
+        "native.u23E0.wide6500",
+        6500
+      ],
+      [
+        "native.u23E0.wide10000",
+        10000
+      ],
+      [
+        "native.u23E0.wide16000",
+        16000
+      ],
+      [
+        "native.u23E0.wide24000",
+        24000
+      ]
+    ],
+    "native.u23E1": [
+      [
+        "native.u23E1",
+        832
+      ],
+      [
+        "native.u23E1.wide1000",
+        1000
+      ],
+      [
+        "native.u23E1.wide1600",
+        1600
+      ],
+      [
+        "native.u23E1.wide2500",
+        2500
+      ],
+      [
+        "native.u23E1.wide4000",
+        4000
+      ],
+      [
+        "native.u23E1.wide6500",
+        6500
+      ],
+      [
+        "native.u23E1.wide10000",
+        10000
+      ],
+      [
+        "native.u23E1.wide16000",
+        16000
+      ],
+      [
+        "native.u23E1.wide24000",
+        24000
       ]
     ]
   },
@@ -4186,6 +6702,110 @@
           30,
           30,
           566
+        ]
+      ],
+      0
+    ],
+    "native.u27EE": [
+      [
+        [
+          "part.parenleftbt",
+          0,
+          0,
+          30,
+          1618
+        ],
+        [
+          "part.parenleftex",
+          1,
+          30,
+          30,
+          566
+        ],
+        [
+          "part.parenlefttp",
+          0,
+          30,
+          0,
+          1618
+        ]
+      ],
+      0
+    ],
+    "native.u27EF": [
+      [
+        [
+          "part.parenrightbt",
+          0,
+          0,
+          30,
+          1618
+        ],
+        [
+          "part.parenrightex",
+          1,
+          30,
+          30,
+          566
+        ],
+        [
+          "part.parenrighttp",
+          0,
+          30,
+          0,
+          1618
+        ]
+      ],
+      0
+    ],
+    "native.u27E6": [
+      [
+        [
+          "native.u27E6.part.bracketleftbt",
+          0,
+          0,
+          30,
+          1618
+        ],
+        [
+          "native.u27E6.part.bracketleftex",
+          1,
+          30,
+          30,
+          566
+        ],
+        [
+          "native.u27E6.part.bracketlefttp",
+          0,
+          30,
+          0,
+          1618
+        ]
+      ],
+      0
+    ],
+    "native.u27E7": [
+      [
+        [
+          "native.u27E7.part.bracketrightbt",
+          0,
+          0,
+          30,
+          1618
+        ],
+        [
+          "native.u27E7.part.bracketrightex",
+          1,
+          30,
+          30,
+          566
+        ],
+        [
+          "native.u27E7.part.bracketrighttp",
+          0,
+          30,
+          0,
+          1618
         ]
       ],
       0
