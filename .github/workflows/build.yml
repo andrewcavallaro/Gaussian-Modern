@@ -25,7 +25,8 @@ jobs:
       - name: Check math additions are reproducible
         run: |
           python scripts/build_math_additions.py
-          git diff --exit-code -- source/masters source/ufo source/math-additions.json
+          python scripts/build_native_unicode.py
+          git diff --exit-code -- source/masters source/ufo source/math-additions.json source/native-unicode.json
       - name: Build from JSON masters
         run: |
           python source/build.py
@@ -52,5 +53,13 @@ jobs:
           ! grep -F 'Missing character:' math-additions.log
           lualatex -interaction=nonstopmode -halt-on-error math-additions.tex
           ! grep -F 'Missing character:' math-additions.log
+          xelatex -interaction=nonstopmode -halt-on-error dot-accents.tex
+          ! grep -F 'Missing character:' dot-accents.log
+          lualatex -interaction=nonstopmode -halt-on-error dot-accents.tex
+          ! grep -F 'Missing character:' dot-accents.log
+          xelatex -interaction=nonstopmode -halt-on-error native-unicode.tex
+          ! grep -F 'Missing character:' native-unicode.log
+          lualatex -interaction=nonstopmode -halt-on-error native-unicode.tex
+          ! grep -F 'Missing character:' native-unicode.log
       - name: Check release packaging
         run: python scripts/package.py

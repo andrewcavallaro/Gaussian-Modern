@@ -4,7 +4,11 @@ A serif text family with an OpenType mathematics companion based on the beautifu
 
 Glyphs were averaged from the original text but liberty was taken to optimize for viewing on digital screens.
 
-**Development release 0.108 · 18 October 2026**
+**Development release 0.108 · with an unreleased native Unicode expansion**
+
+The math companion now covers the full 1,082-character expansion checklist.
+See [design notes](docs/native-unicode-design.md) and the
+[four-page preview](docs/native-unicode-proof.pdf). This is a design draft for review.
 
 
 Gaussian Modern takes its upright proportions, serifs and terminals in part from
@@ -24,11 +28,11 @@ requirement to rename modified files/packages. See [LICENSE.md](LICENSE.md) and
 | Family | Styles | Unicode mappings per style |
 | --- | --- | ---: |
 | Gaussian Modern | Regular, Italic, Semibold, Semibold Italic | 303 |
-| Gaussian Modern Math | Regular | 990 |
+| Gaussian Modern Math | Regular | 2,078 |
 
 Both OTF and TTF are included. Install **one format**, using the five files in
 `fonts/otf/` or `fonts/ttf/`; installing both can create duplicate menu entries.
-The mathematical companion has 2,433 glyphs, including unencoded size variants
+The mathematical companion has 3,723 glyphs, including unencoded size variants
 and assembly parts.
 
 For older software and classic TeX, the four text styles also come as hinted

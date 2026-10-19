@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u23E1.wide4000" format="2">
+  <outline>
+    <contour>
+      <point x="-1968.1106" y="-110.0" type="line"/>
+      <point x="-2000.0" y="-145.8756" type="line"/>
+      <point x="-1820.0" y="-305.8756" type="line" smooth="yes"/>
+      <point x="-1815.6068" y="-309.7807"/>
+      <point x="-1809.9332" y="-311.9378"/>
+      <point x="-1804.0553" y="-311.9378" type="curve" smooth="yes"/>
+      <point x="1804.0553" y="-311.9378" type="line" smooth="yes"/>
+      <point x="1809.9332" y="-311.9378"/>
+      <point x="1815.6068" y="-309.7807"/>
+      <point x="1820.0" y="-305.8756" type="curve" smooth="yes"/>
+      <point x="2000.0" y="-145.8756" type="line"/>
+      <point x="1968.1106" y="-110.0" type="line"/>
+      <point x="1794.9305" y="-263.9378" type="line"/>
+      <point x="-1794.9305" y="-263.9378" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+% Run from tests/: xelatex dot-accents.tex or lualatex dot-accents.tex
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=22mm]{geometry}
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\setmainfont{GaussianModern-Regular.otf}[Path=../fonts/otf/,
+  BoldFont=GaussianModern-Semibold.otf]
+\setmathfont{GaussianModernMath-Regular.otf}[Path=../fonts/otf/]
+\tracinglostchars=3
+\pagestyle{empty}
+\newcommand{\dotrow}[1]{#1 & \dot{#1} & \ddot{#1} & \dddot{#1} & \ddddot{#1}}
+\begin{document}
+\section*{Gaussian Modern: dot accents and primes}
+Three and four dots extend the existing double-dot accent.
+\[
+\begin{array}{ccccc}
+\dotrow{x} \\[8pt]
+\dotrow{f} \\[8pt]
+\dotrow{X} \\[8pt]
+\dotrow{\alpha} \\[8pt]
+\dotrow{\imath} \\[8pt]
+\dotrow{\symbf{x}} \\[8pt]
+\dotrow{\symbfit{x}}
+\end{array}
+\]
+\subsection*{Superscripts and nested superscripts}
+\[
+a^{\dot{x}}\quad a^{\ddot{x}}\quad a^{\dddot{x}}\quad a^{\ddddot{x}}
+\qquad a^{b^{\dddot{x}}}\quad a^{b^{\ddddot{x}}}
+\]
+\subsection*{Subscripts, hats and wider expressions}
+\[
+a_{\dddot{x}}\quad a_{\ddddot{x}}\qquad
+\hat{x}\quad\dddot{xy}\quad\ddddot{xy}\quad\widehat{xyz}
+\]
+\subsection*{At ordinary text size}
+The derivatives $\dot{x}$, $\ddot{x}$, $\dddot{x}$ and $\ddddot{x}$
+share the height and spacing of the existing accents.
+\subsection*{Primes: apostrophes and Unicode input}
+\[
+f'\quad f''\quad f'''\quad f''''\qquad
+f′\quad f″\quad f‴\quad f⁗
+\]
+\[
+a^{f'''}\quad a^{f''''}\quad a^{b^{f'''}}\quad a^{b^{f''''}}
+\qquad f'''_n+f''''_n
+\]
+\end{document}

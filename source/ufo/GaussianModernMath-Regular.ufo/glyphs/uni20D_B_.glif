@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20DB" format="2">
+  <unicode hex="20DB"/>
+  <outline>
+    <contour>
+      <point x="-228.0519" y="600.0" type="line"/>
+      <point x="-146.116" y="600.0" type="line"/>
+      <point x="-146.116" y="685.3554" type="line"/>
+      <point x="-228.0519" y="685.3554" type="line"/>
+    </contour>
+    <contour>
+      <point x="-40.968" y="600.0" type="line"/>
+      <point x="40.968" y="600.0" type="line"/>
+      <point x="40.968" y="685.3554" type="line"/>
+      <point x="-40.968" y="685.3554" type="line"/>
+    </contour>
+    <contour>
+      <point x="146.1159" y="600.0" type="line"/>
+      <point x="228.0519" y="600.0" type="line"/>
+      <point x="228.0519" y="685.3554" type="line"/>
+      <point x="146.1159" y="685.3554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u2A05.display" format="2">
+  <advance width="1117.2168"/>
+  <outline>
+    <contour>
+      <point x="83.0088" y="953.2352" type="line"/>
+      <point x="83.0088" y="-391.2352" type="line"/>
+      <point x="213.6456" y="-391.2352" type="line"/>
+      <point x="213.6456" y="822.5984" type="line"/>
+      <point x="903.5712" y="822.5984" type="line"/>
+      <point x="903.5712" y="-391.2352" type="line"/>
+      <point x="1034.208" y="-391.2352" type="line"/>
+      <point x="1034.208" y="953.2352" type="line"/>
+    </contour>
+  </outline>
+</glyph>

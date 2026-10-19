@@ -1,0 +1,103 @@
+% Run in tests with XeLaTeX or LuaLaTeX. Missing glyphs are fatal.
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=20mm]{geometry}
+\usepackage{fontspec,unicode-math}
+\setmainfont{GaussianModern-Regular.otf}[Path=../fonts/otf/,BoldFont=GaussianModern-Semibold.otf]
+\setmathfont{GaussianModernMath-Regular.otf}[Path=../fonts/otf/]
+\unimathsetup{mathsf=sym,mathtt=sym,mathbf=sym,mathrm=sym,mathit=sym}
+\newfontfamily\coveragefont{GaussianModernMath-Regular.otf}[Path=../fonts/otf/]
+\tracinglostchars=3
+\setlength{\parindent}{0pt}
+\pagestyle{plain}
+\begin{document}
+% Legacy commands must select the native math alphabets, too.
+\[\mathsf{ABCxyz}\quad\mathtt{ABCxyz012}\quad\mathbf{ABCxyz}\]
+\section*{Native Unicode expansion: equations}
+Original constructions from Gaussian Modern outlines and new design-space drawings.
+\[
+A\parallel B\qquad A\setminus B\qquad A\cong B\qquad A\doteq B\qquad
+A\models B\qquad A\perp B
+\]
+\[
+a\coloneq b\quad a\eqcolon b\quad a\nequiv b\quad A\nsubset B\quad A\nsupset B
+\]
+\[
+A\longleftarrow B\longrightarrow C\longleftrightarrow D
+\]
+\[
+A\Longleftrightarrow B\quad x\longmapsto f(x)\quad A\longmapsfrom B
+\]
+\[
+\int_0^1 f(x)\,dx\quad \iint_D f\,dA\quad \iiint_V f\,dV\quad \iiiint_W f\,dW
+\]
+\[
+\textstyle\int f\quad\iint f\quad\iiint f\quad\iiiint f
+\]
+\[
+\bigcupdot_i A_i\quad\bigsqcap_i A_i\quad\bigtimes_i A_i\quad
+f^{\backdprime}\quad f^{\backtrprime}
+\]
+\[
+\dot{x}\quad\ddot{x}\quad\dddot{x}\quad\ddddot{x}\qquad f'\quad f''\quad f'''\quad f''''
+\]
+\[
+\ovhook{x}\quad\overleftharpoon{x}\quad\overrightharpoon{x}\quad
+\underleftarrow{x}\quad\underrightarrow{x}\quad\threeunderdot{x}
+\]
+\[
+\overleftarrow{a+b+c+d+e+f+g}\qquad\overleftrightarrow{a+b+c+d+e+f+g}
+\]
+\[
+\overbracket{a+b+c+d+e+f+g}\qquad\underbracket{a+b+c+d+e+f+g}
+\]
+\[
+\overparen{a+b+c+d+e+f+g}\qquad\underparen{a+b+c+d+e+f+g}
+\]
+\[
+\left\lBrack\frac{1}{1+\frac{a}{b}}\right\rBrack\qquad
+\left\lAngle\frac{1}{1+\frac{a}{b}}\right\rAngle\qquad
+\left\lgroup\frac{a}{b}\right\rgroup
+\]
+\newpage
+\section*{Native Unicode expansion: alphabets}
+\newcommand{\letters}[1]{\[ #1{ABCDEFGHIJKLMNOPQRSTUVWXYZ} \]\[ #1{abcdefghijklmnopqrstuvwxyz} \]}
+Fraktur\letters{\symfrak}
+Bold Fraktur\letters{\symbffrak}
+Sans serif\letters{\symsfup}
+Bold sans serif\letters{\symbfsfup}
+Italic sans serif\letters{\symsfit}
+\newpage
+\section*{More alphabet and script-size checks}
+Bold italic sans serif\letters{\symbfsfit}
+Monospaced\letters{\symtt}
+Double-struck lowercase and digits
+\[ \symbb{abcdefghijklmnopqrstuvwxyz}\qquad\symbb{0123456789} \]
+Bold script capitals
+\[ \symbfscr{ABCDEFGHIJKLMNOPQRSTUVWXYZ} \]
+Bold upright Greek
+\[\symbfup{\alpha\beta\gamma\delta\epsilon\zeta\eta\theta\iota\kappa\lambda\mu\nu\xi\pi\rho\sigma\tau\upsilon\phi\chi\psi\omega}\]
+\[\symbfup{\Gamma\Delta\Theta\Lambda\Xi\Pi\Sigma\Upsilon\Phi\Psi\Omega}\]
+Sans serif Greek
+\[\symbfsfup{\alpha\beta\gamma\delta\epsilon\theta\kappa\lambda\pi\rho\sigma\phi\psi\omega}\]
+\[\symbfsfit{\alpha\beta\gamma\delta\epsilon\theta\kappa\lambda\pi\rho\sigma\phi\psi\omega}\]
+\[x^{\symfrak{abc}}\quad x^{y^{\symfrak{abc}}}\quad
+x^{\symsfup{abc}}\quad x^{y^{\symsfup{abc}}}\quad
+x^{\symbb{abc}}\quad x^{y^{\symbb{abc}}}\]
+\newpage
+\section*{Accented letters and supporting characters}
+The math companion's additional upright text characters are shown directly below.
+
+\bigskip
+{\coveragefont\fontsize{17}{26}\selectfont
+Ā ā Đ Ē ē Ė ė Ģ ģ Ĩ ĩ Ī ī Į į Ķ ķ Ļ ļ Ņ ņ Ŋ ŋ\par
+Ō ō Ŗ ŗ Ũ ũ Ū ū Ų ų ſ Ơ ơ Ư ư Ș ș Ț ț\par
+Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ\par
+Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể ể\par
+Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ\par
+Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ\par
+Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự Ỳ ỳ Ỵ ỵ Ỷ ỷ Ỹ ỹ\par
+‱ ※ ‽ ⁒ ₡ ℉ № ℗ ℞ ℠ ℮\par
+↴ ↵ ↺ ↻ ⇦ ⇧ ⇨ ⇩ ⇳ ⬄ ➡ ⬅ ⬆ ⬇ ⬌ ⬍\par
+∻ ∾ ⊹ ⨃ ␢ ⟝ ⟞ ♡ ♢ ♤ ♧ ♪ ✓ ✠\par
+}
+\end{document}

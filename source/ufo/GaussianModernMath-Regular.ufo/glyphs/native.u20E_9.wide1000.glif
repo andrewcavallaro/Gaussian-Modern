@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u20E9.wide1000" format="2">
+  <outline>
+    <contour>
+      <point x="-460.0" y="600.0" type="line"/>
+      <point x="-460.0" y="690.0" type="line"/>
+      <point x="460.0" y="690.0" type="line"/>
+      <point x="460.0" y="600.0" type="line"/>
+      <point x="500.0" y="600.0" type="line"/>
+      <point x="500.0" y="710.0" type="line" smooth="yes"/>
+      <point x="500.0" y="715.2528"/>
+      <point x="497.8564" y="720.4278"/>
+      <point x="494.1421" y="724.1421" type="curve" smooth="yes"/>
+      <point x="490.4277" y="727.8565"/>
+      <point x="485.2528" y="730.0"/>
+      <point x="480.0" y="730.0" type="curve" smooth="yes"/>
+      <point x="-480.0" y="730.0" type="line" smooth="yes"/>
+      <point x="-485.2528" y="730.0"/>
+      <point x="-490.4277" y="727.8565"/>
+      <point x="-494.1421" y="724.1421" type="curve" smooth="yes"/>
+      <point x="-497.8564" y="720.4278"/>
+      <point x="-500.0" y="715.2528"/>
+      <point x="-500.0" y="710.0" type="curve" smooth="yes"/>
+      <point x="-500.0" y="600.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

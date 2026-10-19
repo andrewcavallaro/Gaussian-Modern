@@ -1,4 +1,4 @@
-"""Build the 0.108 mathematics additions from Gaussian Modern's own glyphs.
+"""Build mathematics additions from Gaussian Modern's own glyphs.
 
     python scripts/build_math_additions.py
 
@@ -9,6 +9,11 @@ so the additions share the font's drawing and need no outside material:
   U+22EF ⋯  three centred dots (am.centerdot) set solid, on the maths axis
   U+22EE ⋮  the same three dots stacked at the same pitch, centred on the axis
   U+22F1 ⋱  the same dots on the diagonal, at the same pitch
+  U+20DB    combining three dots above, using the diaeresis dot and pitch
+  U+20DC    combining four dots above, using the same dot and pitch
+  U+2033 ″  double prime, made from the existing single prime
+  U+2034 ‴  triple prime, at the same pitch as unicode-math's repeated primes
+  U+2057 ⁗  quadruple prime
   U+2223 ∣  a copy of the vertical bar (sy.bar), with the bar's assembly
   U+27F9 ⟹  the double arrow (sy.arrowdblright) with its rules lengthened by
   U+27F8 ⟸  the width of = less a 3mu \\joinrel, as TeX builds \\Longrightarrow;
@@ -86,6 +91,28 @@ def main():
     d = cp / math.sqrt(2)
     out['sy.ellipsisdownright'] = glyph(cp + 2 * d, [shift(c, k * d, (1 - k) * d) for k in range(3)
                                                      for c in cdot['contours']], 0x22F1)
+
+    # Multiple-dot accents: extend the existing diaeresis. Keep its dot size,
+    # pitch and vertical position; centre the complete accent at x=0, with
+    # zero advance and an explicit MATH top-accent attachment, like uni0308.
+    dots = sorted(model['uni0308']['contours'], key=lambda c: bounds({'contours': [c]})[0])
+    assert len(dots) == 2
+    boxes = [bounds({'contours': [c]}) for c in dots]
+    centres = [(b[0] + b[2]) / 2 for b in boxes]
+    pitch = centres[1] - centres[0]
+    for count, code in [(3, 0x20DB), (4, 0x20DC)]:
+        out[f'uni{code:04X}'] = glyph(0, [
+            shift(dots[0], (k - (count - 1) / 2) * pitch - centres[0], 0)
+            for k in range(count)
+        ], code)
+
+    # unicode-math composes absent multiple primes with a -1.5mu kern.
+    # Keep that spacing when providing the dedicated Unicode glyphs.
+    prime = model['sy.prime']
+    prime_pitch = prime['width'] - 1000 * 1.5 / 18
+    for count, code in [(2, 0x2033), (3, 0x2034), (4, 0x2057)]:
+        out[f'uni{code:04X}'] = glyph(prime['width'] + (count - 1) * prime_pitch,
+            [shift(c, k * prime_pitch, 0) for k in range(count) for c in prime['contours']], code)
 
     # Divides: the vertical bar itself.
     out['sy.divides'] = glyph(model['sy.bar']['width'], model['sy.bar']['contours'], 0x2223)
@@ -183,6 +210,10 @@ def main():
         spec['extendedShapes'] = sorted(set(spec['extendedShapes']) | {'sy.divides'})
     spec['horizGlyphVariants'].update(horiz_variants)
     spec['horizGlyphAssembly'] = {**spec.get('horizGlyphAssembly', {}), **horiz_assembly}
+    spec['topAccentAttachments'].update({'uni20DB': 0, 'uni20DC': 0})
+    for code in [0x2033, 0x2034, 0x2057]:
+        name = f'uni{code:04X}'
+        spec['topAccentAttachments'][name] = round(out[name]['width'] / 2)
 
     MASTER.write_text(json.dumps(model, separators=(',', ':')))
     MATH.write_text(json.dumps(spec, indent=2))

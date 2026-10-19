@@ -29,10 +29,10 @@
   },
   {
     "file": "fonts/otf/GaussianModernMath-Regular.otf",
-    "glyphs": 2433,
-    "unicode_mappings": 990,
+    "glyphs": 3723,
+    "unicode_mappings": 2078,
     "math": true,
-    "sha256": "b566f8d61ad2711780cb1cec4eaf19f56f6284deada214499b3aa4de054dbc1a"
+    "sha256": "121abdd0cca6ecdd2422d4898c17df402f432c7f6a7cd869cb5269620159da60"
   },
   {
     "file": "fonts/ttf/GaussianModern-Italic.ttf",
@@ -64,9 +64,9 @@
   },
   {
     "file": "fonts/ttf/GaussianModernMath-Regular.ttf",
-    "glyphs": 2433,
-    "unicode_mappings": 990,
+    "glyphs": 3723,
+    "unicode_mappings": 2078,
     "math": true,
-    "sha256": "7598ec06ed5da0a593293531b3b687431585f5064bafa71a643f23cf87b2a11c"
+    "sha256": "636c8c38b040c3b5369231f94286f7bdf20cbe3d160cf5d5c515115376b17c0d"
   }
 ]

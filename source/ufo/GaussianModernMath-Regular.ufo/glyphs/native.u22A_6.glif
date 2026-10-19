@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u22A6" format="2">
+  <advance width="750"/>
+  <unicode hex="22A6"/>
+  <outline>
+    <contour>
+      <point x="106.0" y="650.0" type="line"/>
+      <point x="106.0" y="-90.0" type="line" smooth="yes"/>
+      <point x="106.0" y="-96.3034"/>
+      <point x="108.5722" y="-102.5133"/>
+      <point x="113.0294" y="-106.9706" type="curve" smooth="yes"/>
+      <point x="117.4866" y="-111.4278"/>
+      <point x="123.6965" y="-114.0"/>
+      <point x="130.0" y="-114.0" type="curve" smooth="yes"/>
+      <point x="136.3035" y="-114.0"/>
+      <point x="142.5134" y="-111.4278"/>
+      <point x="146.9706" y="-106.9706" type="curve" smooth="yes"/>
+      <point x="151.4277" y="-102.5133"/>
+      <point x="154.0" y="-96.3034"/>
+      <point x="154.0" y="-90.0" type="curve" smooth="yes"/>
+      <point x="154.0" y="257.0" type="line"/>
+      <point x="650.0" y="257.0" type="line"/>
+      <point x="650.0" y="305.0" type="line"/>
+      <point x="154.0" y="305.0" type="line"/>
+      <point x="154.0" y="650.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

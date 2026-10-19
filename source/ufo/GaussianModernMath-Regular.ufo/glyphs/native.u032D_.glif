@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u032D" format="2">
+  <unicode hex="032D"/>
+  <outline>
+    <contour>
+      <point x="-157.722" y="-242.5404" type="line"/>
+      <point x="-116.9917" y="-242.5404" type="line"/>
+      <point x="0.0" y="-145.3435" type="line"/>
+      <point x="116.9917" y="-242.5404" type="line"/>
+      <point x="157.722" y="-242.5404" type="line"/>
+      <point x="52.574" y="-110.0" type="line"/>
+      <point x="-52.574" y="-110.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

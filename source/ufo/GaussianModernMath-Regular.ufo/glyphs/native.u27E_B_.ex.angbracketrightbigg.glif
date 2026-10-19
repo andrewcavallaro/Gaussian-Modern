@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u27EB.ex.angbracketrightbigg" format="2">
+  <advance width="897.336"/>
+  <outline>
+    <contour>
+      <point x="247.068" y="-784.798" type="line"/>
+      <point x="345.24" y="-784.798" type="line"/>
+      <point x="707.796" y="281.486" type="line"/>
+      <point x="345.24" y="1346.798" type="line"/>
+      <point x="247.068" y="1346.798" type="line"/>
+      <point x="608.652" y="281.486" type="line"/>
+    </contour>
+    <contour>
+      <point x="67.068" y="-784.798" type="line"/>
+      <point x="165.24" y="-784.798" type="line"/>
+      <point x="527.796" y="281.486" type="line"/>
+      <point x="165.24" y="1346.798" type="line"/>
+      <point x="67.068" y="1346.798" type="line"/>
+      <point x="428.652" y="281.486" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u250C" format="2">
+  <advance width="600"/>
+  <unicode hex="250C"/>
+  <outline>
+    <contour>
+      <point x="277.5" y="281.0" type="line"/>
+      <point x="277.5" y="-219.0" type="line"/>
+      <point x="322.5" y="-219.0" type="line"/>
+      <point x="322.5" y="258.5" type="line"/>
+      <point x="600.0" y="258.5" type="line"/>
+      <point x="600.0" y="303.5" type="line"/>
+      <point x="300.0" y="303.5" type="line"/>
+      <point x="300.0" y="281.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u2720" format="2">
+  <advance width="700"/>
+  <unicode hex="2720"/>
+  <outline>
+    <contour>
+      <point x="60.0" y="560.0" type="line"/>
+      <point x="60.0" y="180.0" type="line"/>
+      <point x="220.0" y="300.0" type="line"/>
+      <point x="280.0" y="240.0" type="line"/>
+      <point x="160.0" y="80.0" type="line"/>
+      <point x="540.0" y="80.0" type="line"/>
+      <point x="420.0" y="240.0" type="line"/>
+      <point x="480.0" y="300.0" type="line"/>
+      <point x="640.0" y="180.0" type="line"/>
+      <point x="640.0" y="560.0" type="line"/>
+      <point x="480.0" y="440.0" type="line"/>
+      <point x="420.0" y="500.0" type="line"/>
+      <point x="540.0" y="660.0" type="line"/>
+      <point x="160.0" y="660.0" type="line"/>
+      <point x="280.0" y="500.0" type="line"/>
+      <point x="220.0" y="440.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

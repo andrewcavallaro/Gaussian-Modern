@@ -1,5 +1,31 @@
 # Changes
 
+## Unreleased
+
+- Document explicit unicode-math alphabet selection and exercise legacy math
+  alphabet commands in the native proof to avoid unintended text-font fallback.
+
+- Build all 1,082 previously missing reference Unicode characters from native
+  Gaussian Modern outlines and original drawings, plus a combining horn needed
+  for Vietnamese compositions. No Latin Modern outlines are imported.
+- Add original alphabet families, symbols, accents, delimiter constructions and
+  display operator variants. Math now has 2,078 mappings and 3,723 glyphs.
+- Preserve the original checklist, add a four-page proof and reproducible native
+  geometry sources, and extend validation and CI. This remains a design draft.
+
+- Add combining three dots above (U+20DB) and four dots above (U+20DC) to
+  Gaussian Modern Math, for `\dddot` and `\ddddot`. Both extend the existing
+  double-dot accent with the same dot shape, spacing and height, zero advance,
+  and a centred MATH attachment. JSON and UFO sources and OTF/TTF fonts agree.
+- Add a TeX proof for one through four dots on lowercase, uppercase, Greek,
+  bold and italic variables, including script and scriptscript sizes.
+- Add double, triple and quadruple primes (U+2033, U+2034 and U+2057),
+  composed from the existing single prime with unicode-math's default
+  repeated-prime spacing. The proof covers Unicode input, apostrophes and
+  script sizes. That intermediate build had 995 Unicode mappings and 2,438 glyphs.
+- Add a reproducible Latin Modern Math coverage audit and a CSV of remaining
+  missing Unicode mappings, separating alphabet entries from other symbols.
+
 ## 0.108 — 18 October 2026
 
 Semibold i/l refinements and nine mathematics symbols.

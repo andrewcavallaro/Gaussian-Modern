@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="native.u0305.wide24000" format="2">
+  <outline>
+    <contour>
+      <point x="-12000.0" y="600.0" type="line"/>
+      <point x="12000.0" y="600.0" type="line"/>
+      <point x="12000.0" y="660.6824" type="line"/>
+      <point x="-12000.0" y="660.6824" type="line"/>
+    </contour>
+  </outline>
+</glyph>
