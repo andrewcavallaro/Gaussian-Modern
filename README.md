@@ -1,10 +1,11 @@
 # Gaussian Modern
 
-A serif text family with an OpenType mathematics companion, by Andrew Cavallaro.
+A serif text family with an OpenType mathematics companion based on the beautiful typesetting found in Gauss's Werke https://archive.org/details/werkecarlf03gausrich
+
+Glyphs were averaged from the original text but liberty was taken to optimize for viewing on digital screens.
 
 **Development release 0.108 · 18 October 2026**
 
-![Gaussian Modern specimen](specimens/GaussianModern-Preview.png)
 
 Gaussian Modern takes its upright proportions, serifs and terminals in part from
 the roman type of C. F. Gauss, *Werke*, Band III (Göttingen, 2nd printing 1876).
