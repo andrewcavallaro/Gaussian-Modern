@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="part.arrowdblright.tail" format="2">
+  <advance width="371.928"/>
+  <outline>
+    <contour>
+      <point x="71.928" y="163.296" type="line"/>
+      <point x="371.928" y="163.296" type="line"/>
+      <point x="371.928" y="210.924" type="line"/>
+      <point x="71.928" y="210.924" type="line"/>
+    </contour>
+    <contour>
+      <point x="71.928" y="350.892" type="line"/>
+      <point x="371.928" y="350.892" type="line"/>
+      <point x="371.928" y="398.52" type="line"/>
+      <point x="71.928" y="398.52" type="line"/>
+    </contour>
+  </outline>
+</glyph>

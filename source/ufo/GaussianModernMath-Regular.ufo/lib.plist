@@ -716,6 +716,10 @@
       <string>ex.braceleftbt</string>
       <string>ex.braceleftmid</string>
       <string>ex.bracelefttp</string>
+      <string>ex.braceoverBig</string>
+      <string>ex.braceoverBigg</string>
+      <string>ex.braceoverbig</string>
+      <string>ex.braceoverbigg</string>
       <string>ex.bracerightBig</string>
       <string>ex.bracerightBigg</string>
       <string>ex.bracerightbig</string>
@@ -723,6 +727,10 @@
       <string>ex.bracerightbt</string>
       <string>ex.bracerightmid</string>
       <string>ex.bracerighttp</string>
+      <string>ex.braceunderBig</string>
+      <string>ex.braceunderBigg</string>
+      <string>ex.braceunderbig</string>
+      <string>ex.braceunderbigg</string>
       <string>ex.bracketleftBig</string>
       <string>ex.bracketleftBigg</string>
       <string>ex.bracketleftbig</string>
@@ -1957,6 +1965,11 @@
       <string>part.arrowbt.both</string>
       <string>part.arrowdblbt</string>
       <string>part.arrowdblbt.both</string>
+      <string>part.arrowdblhoriz.ex</string>
+      <string>part.arrowdblleft.head</string>
+      <string>part.arrowdblleft.tail</string>
+      <string>part.arrowdblright.head</string>
+      <string>part.arrowdblright.tail</string>
       <string>part.arrowdbltp</string>
       <string>part.arrowdbltp.both</string>
       <string>part.arrowtp</string>
@@ -1972,9 +1985,17 @@
       <string>part.braceleftbt</string>
       <string>part.braceleftmid</string>
       <string>part.bracelefttp</string>
+      <string>part.braceoverex</string>
+      <string>part.braceoverlft</string>
+      <string>part.braceovermid</string>
+      <string>part.braceoverrt</string>
       <string>part.bracerightbt</string>
       <string>part.bracerightmid</string>
       <string>part.bracerighttp</string>
+      <string>part.braceunderex</string>
+      <string>part.braceunderlft</string>
+      <string>part.braceundermid</string>
+      <string>part.braceunderrt</string>
       <string>part.bracketleftbt</string>
       <string>part.bracketleftbt.floor</string>
       <string>part.bracketleftex</string>
@@ -2068,7 +2089,9 @@
       <string>sy.arrowdblbothv</string>
       <string>sy.arrowdbldown</string>
       <string>sy.arrowdblleft</string>
+      <string>sy.arrowdblleftlong</string>
       <string>sy.arrowdblright</string>
+      <string>sy.arrowdblrightlong</string>
       <string>sy.arrowdblup</string>
       <string>sy.arrowdown</string>
       <string>sy.arrowleft</string>
@@ -2083,7 +2106,9 @@
       <string>sy.bar</string>
       <string>sy.bardbl</string>
       <string>sy.braceleft</string>
+      <string>sy.braceover</string>
       <string>sy.braceright</string>
+      <string>sy.braceunder</string>
       <string>sy.bullet</string>
       <string>sy.calA</string>
       <string>sy.calA.ssty1</string>
@@ -2162,7 +2187,12 @@
       <string>sy.diamond</string>
       <string>sy.diamondmath</string>
       <string>sy.divide</string>
+      <string>sy.divides</string>
       <string>sy.element</string>
+      <string>sy.ellipsis</string>
+      <string>sy.ellipsisdownright</string>
+      <string>sy.ellipsismidline</string>
+      <string>sy.ellipsisvertical</string>
       <string>sy.emptyset</string>
       <string>sy.equivalence</string>
       <string>sy.equivasymptotic</string>

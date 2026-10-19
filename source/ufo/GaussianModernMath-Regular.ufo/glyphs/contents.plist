@@ -1426,6 +1426,14 @@
     <string>ex.braceleftmid.glif</string>
     <key>ex.bracelefttp</key>
     <string>ex.bracelefttp.glif</string>
+    <key>ex.braceoverBig</key>
+    <string>ex.braceoverB_ig.glif</string>
+    <key>ex.braceoverBigg</key>
+    <string>ex.braceoverB_igg.glif</string>
+    <key>ex.braceoverbig</key>
+    <string>ex.braceoverbig.glif</string>
+    <key>ex.braceoverbigg</key>
+    <string>ex.braceoverbigg.glif</string>
     <key>ex.bracerightBig</key>
     <string>ex.bracerightB_ig.glif</string>
     <key>ex.bracerightBigg</key>
@@ -1440,6 +1448,14 @@
     <string>ex.bracerightmid.glif</string>
     <key>ex.bracerighttp</key>
     <string>ex.bracerighttp.glif</string>
+    <key>ex.braceunderBig</key>
+    <string>ex.braceunderB_ig.glif</string>
+    <key>ex.braceunderBigg</key>
+    <string>ex.braceunderB_igg.glif</string>
+    <key>ex.braceunderbig</key>
+    <string>ex.braceunderbig.glif</string>
+    <key>ex.braceunderbigg</key>
+    <string>ex.braceunderbigg.glif</string>
     <key>ex.bracketleftBig</key>
     <string>ex.bracketleftB_ig.glif</string>
     <key>ex.bracketleftBigg</key>
@@ -3908,6 +3924,16 @@
     <string>part.arrowdblbt.glif</string>
     <key>part.arrowdblbt.both</key>
     <string>part.arrowdblbt.both.glif</string>
+    <key>part.arrowdblhoriz.ex</key>
+    <string>part.arrowdblhoriz.ex.glif</string>
+    <key>part.arrowdblleft.head</key>
+    <string>part.arrowdblleft.head.glif</string>
+    <key>part.arrowdblleft.tail</key>
+    <string>part.arrowdblleft.tail.glif</string>
+    <key>part.arrowdblright.head</key>
+    <string>part.arrowdblright.head.glif</string>
+    <key>part.arrowdblright.tail</key>
+    <string>part.arrowdblright.tail.glif</string>
     <key>part.arrowdbltp</key>
     <string>part.arrowdbltp.glif</string>
     <key>part.arrowdbltp.both</key>
@@ -3938,12 +3964,28 @@
     <string>part.braceleftmid.glif</string>
     <key>part.bracelefttp</key>
     <string>part.bracelefttp.glif</string>
+    <key>part.braceoverex</key>
+    <string>part.braceoverex.glif</string>
+    <key>part.braceoverlft</key>
+    <string>part.braceoverlft.glif</string>
+    <key>part.braceovermid</key>
+    <string>part.braceovermid.glif</string>
+    <key>part.braceoverrt</key>
+    <string>part.braceoverrt.glif</string>
     <key>part.bracerightbt</key>
     <string>part.bracerightbt.glif</string>
     <key>part.bracerightmid</key>
     <string>part.bracerightmid.glif</string>
     <key>part.bracerighttp</key>
     <string>part.bracerighttp.glif</string>
+    <key>part.braceunderex</key>
+    <string>part.braceunderex.glif</string>
+    <key>part.braceunderlft</key>
+    <string>part.braceunderlft.glif</string>
+    <key>part.braceundermid</key>
+    <string>part.braceundermid.glif</string>
+    <key>part.braceunderrt</key>
+    <string>part.braceunderrt.glif</string>
     <key>part.bracketleftbt</key>
     <string>part.bracketleftbt.glif</string>
     <key>part.bracketleftbt.floor</key>
@@ -4130,8 +4172,12 @@
     <string>sy.arrowdbldown.glif</string>
     <key>sy.arrowdblleft</key>
     <string>sy.arrowdblleft.glif</string>
+    <key>sy.arrowdblleftlong</key>
+    <string>sy.arrowdblleftlong.glif</string>
     <key>sy.arrowdblright</key>
     <string>sy.arrowdblright.glif</string>
+    <key>sy.arrowdblrightlong</key>
+    <string>sy.arrowdblrightlong.glif</string>
     <key>sy.arrowdblup</key>
     <string>sy.arrowdblup.glif</string>
     <key>sy.arrowdown</key>
@@ -4160,8 +4206,12 @@
     <string>sy.bardbl.glif</string>
     <key>sy.braceleft</key>
     <string>sy.braceleft.glif</string>
+    <key>sy.braceover</key>
+    <string>sy.braceover.glif</string>
     <key>sy.braceright</key>
     <string>sy.braceright.glif</string>
+    <key>sy.braceunder</key>
+    <string>sy.braceunder.glif</string>
     <key>sy.bullet</key>
     <string>sy.bullet.glif</string>
     <key>sy.calA</key>
@@ -4318,8 +4368,18 @@
     <string>sy.diamondmath.glif</string>
     <key>sy.divide</key>
     <string>sy.divide.glif</string>
+    <key>sy.divides</key>
+    <string>sy.divides.glif</string>
     <key>sy.element</key>
     <string>sy.element.glif</string>
+    <key>sy.ellipsis</key>
+    <string>sy.ellipsis.glif</string>
+    <key>sy.ellipsisdownright</key>
+    <string>sy.ellipsisdownright.glif</string>
+    <key>sy.ellipsismidline</key>
+    <string>sy.ellipsismidline.glif</string>
+    <key>sy.ellipsisvertical</key>
+    <string>sy.ellipsisvertical.glif</string>
     <key>sy.emptyset</key>
     <string>sy.emptyset.glif</string>
     <key>sy.equivalence</key>

@@ -1,0 +1,67 @@
+% Proof for the 0.108 changes: Semibold i/l and the nine maths additions
+% (… ∣ ⋮ ⋯ ⋱ ⏞ ⏟ ⟸ ⟹) with their size variants and assemblies. From this directory:
+%   xelatex math-additions.tex     or     lualatex math-additions.tex
+% The log must contain no "Missing character" lines, and pdffonts must list
+% only the five Gaussian Modern faces.
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=20mm]{geometry}
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\setmainfont{GaussianModern-Regular.otf}[Path=../fonts/otf/,
+  ItalicFont=GaussianModern-Italic.otf,BoldFont=GaussianModern-Semibold.otf,
+  BoldItalicFont=GaussianModern-SemiboldItalic.otf]
+\setmathfont{GaussianModernMath-Regular.otf}[Path=../fonts/otf/]
+\tracinglostchars=2
+% Give U+2223 the delimiter code of | (same family) so \bigm, \middle and \right
+% reach its vertical variants and assembly.
+\AtBeginDocument{\Udelcodenum"2223=\numexpr\Udelcodenum`|-`|+"2223\relax}
+\newcommand*{\dvd}{∣}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\pagestyle{empty}
+\begin{document}
+\textbf{Semibold i and l}\par
+{\fontsize{24}{29}\selectfont\bfseries Outline of the proof\quad Ill-posed\par}
+{\fontsize{30}{36}\selectfont\bfseries il ill lil fill ffi ffl fi fl ij\par
+íìîï ĺľ ı\quad hil dil bil kil\par}
+{\fontsize{30}{36}\selectfont il ill lil fill ffi ffl fi fl ij\quad (regular)\par}
+{\fontsize{16}{20}\selectfont\bfseries Willingly, the skilful Sicilian filled his little vial.\par}
+{\fontsize{16}{20}\selectfont\bfseries\itshape office affinity fi ffi\par}
+\[ \symbf{i}\ \symbf{l}\quad x^{\symbf{i}\symbf{l}}\quad x^{y^{\symbf{i}\symbf{l}}}\quad
+   \symbf{il}+\mathrm{il} \]
+
+\textbf{Nine additions, text size}\par
+\[ a_1,\ldots,a_n \qquad p\mid q \qquad a_1+\cdots+a_n \qquad
+   A\Longleftarrow B\Longrightarrow C \qquad
+   \begin{pmatrix} a_{11} & \cdots & a_{1n}\\ \vdots & \ddots & \vdots\\ a_{m1} & \cdots & a_{mn}\end{pmatrix} \]
+\[ … \quad ∣ \quad ⋮ \quad ⋯ \quad ⋱ \quad ⏞ \quad ⏟ \quad ⟸ \quad ⟹ \]
+
+\textbf{Neighbours for weight and position}\par
+\[ x.\,y\ \ldots\ \quad x\cdot y\cdot z\ \ x\cdots z \quad a|b\ \ a\mid b \quad
+   A\Rightarrow B\ \ A\Longrightarrow B \quad A\Leftarrow B\ \ A\Longleftarrow B \quad
+   x^{\cdots}_{\ldots}\ \ x^{p\mid q} \]
+
+\textbf{Sized divides (vertical variants and assembly)}\par
+\[ \dvd\ \bigm\dvd\ \Bigm\dvd\ \biggm\dvd\ \Biggm\dvd \qquad
+   \left\{ x \;\middle\dvd\; x=\frac{a}{b} \right\} \qquad
+   \left\{ x \;\middle\dvd\; \begin{matrix}1\\2\\3\\4\\5\\6\\7\\8\end{matrix} \right\} \qquad
+   \left. \begin{matrix}1\\2\\3\\4\\5\\6\\7\\8\\9\\10\\11\\12\end{matrix} \right\dvd \]
+
+\textbf{Overbrace and underbrace (horizontal variants and assembly)}\par
+\[ \overbrace{x}^{1}\quad \overbrace{x+y}^{2}\quad \overbrace{x_1+x_2+x_3}^{3}\quad
+   \overbrace{a+b+c+d+e+f+g}^{7}\quad
+   \overbrace{a_1+a_2+a_3+a_4+a_5+a_6+a_7+a_8+a_9+a_{10}}^{n=10} \]
+\[ \overbrace{\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad}^{\text{wide}} \]
+\[ \underbrace{x}_{1}\quad \underbrace{x+y}_{2}\quad \underbrace{x_1+x_2+x_3}_{3}\quad
+   \underbrace{a+b+c+d+e+f+g}_{7}\quad
+   \underbrace{a_1+a_2+a_3+a_4+a_5+a_6+a_7+a_8+a_9+a_{10}}_{n=10} \]
+\[ \underbrace{\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad}_{\text{wide}} \]
+
+\ifdefined\directlua
+\textbf{Long double arrows stretched (LuaTeX only: horizontal assembly)}\par
+\count255=\Udelcodenum`| \divide\count255 by "200000
+\[ \Uunderdelimiter\count255 "27F9 {\hbox to 2cm{}}\quad
+   \Uunderdelimiter\count255 "27F9 {\hbox to 5cm{}}\quad
+   \Uunderdelimiter\count255 "27F8 {\hbox to 5cm{}} \]
+\fi
+\end{document}

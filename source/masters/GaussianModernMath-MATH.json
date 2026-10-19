@@ -3223,6 +3223,7 @@
     "sy.braceright",
     "sy.ceilingleft",
     "sy.ceilingright",
+    "sy.divides",
     "sy.floorleft",
     "sy.floorright",
     "sy.radical"
@@ -3808,6 +3809,62 @@
         "wide.tilde.2800",
         2800
       ]
+    ],
+    "sy.arrowdblrightlong": [
+      [
+        "sy.arrowdblrightlong",
+        1270
+      ]
+    ],
+    "sy.arrowdblleftlong": [
+      [
+        "sy.arrowdblleftlong",
+        1270
+      ]
+    ],
+    "sy.braceover": [
+      [
+        "sy.braceover",
+        890
+      ],
+      [
+        "ex.braceoverbig",
+        1065
+      ],
+      [
+        "ex.braceoverBig",
+        1598
+      ],
+      [
+        "ex.braceoverbigg",
+        2133
+      ],
+      [
+        "ex.braceoverBigg",
+        2658
+      ]
+    ],
+    "sy.braceunder": [
+      [
+        "sy.braceunder",
+        890
+      ],
+      [
+        "ex.braceunderbig",
+        1065
+      ],
+      [
+        "ex.braceunderBig",
+        1598
+      ],
+      [
+        "ex.braceunderbigg",
+        2133
+      ],
+      [
+        "ex.braceunderBigg",
+        2658
+      ]
     ]
   },
   "vertGlyphAssembly": {
@@ -4117,6 +4174,152 @@
           30,
           30,
           566
+        ]
+      ],
+      0
+    ],
+    "sy.divides": [
+      [
+        [
+          "part.vextendsingle",
+          1,
+          30,
+          30,
+          566
+        ]
+      ],
+      0
+    ]
+  },
+  "horizGlyphAssembly": {
+    "sy.arrowdblrightlong": [
+      [
+        [
+          "part.arrowdblright.tail",
+          0,
+          0,
+          300,
+          372
+        ],
+        [
+          "part.arrowdblhoriz.ex",
+          1,
+          300,
+          300,
+          300
+        ],
+        [
+          "part.arrowdblright.head",
+          0,
+          100,
+          0,
+          495
+        ]
+      ],
+      0
+    ],
+    "sy.arrowdblleftlong": [
+      [
+        [
+          "part.arrowdblleft.head",
+          0,
+          0,
+          100,
+          496
+        ],
+        [
+          "part.arrowdblhoriz.ex",
+          1,
+          300,
+          300,
+          300
+        ],
+        [
+          "part.arrowdblleft.tail",
+          0,
+          300,
+          0,
+          371
+        ]
+      ],
+      0
+    ],
+    "sy.braceover": [
+      [
+        [
+          "part.braceoverlft",
+          0,
+          0,
+          30,
+          827
+        ],
+        [
+          "part.braceoverex",
+          1,
+          30,
+          30,
+          361
+        ],
+        [
+          "part.braceovermid",
+          0,
+          30,
+          30,
+          1639
+        ],
+        [
+          "part.braceoverex",
+          1,
+          30,
+          30,
+          361
+        ],
+        [
+          "part.braceoverrt",
+          0,
+          30,
+          0,
+          827
+        ]
+      ],
+      0
+    ],
+    "sy.braceunder": [
+      [
+        [
+          "part.braceunderlft",
+          0,
+          0,
+          30,
+          827
+        ],
+        [
+          "part.braceunderex",
+          1,
+          30,
+          30,
+          361
+        ],
+        [
+          "part.braceundermid",
+          0,
+          30,
+          30,
+          1639
+        ],
+        [
+          "part.braceunderex",
+          1,
+          30,
+          30,
+          361
+        ],
+        [
+          "part.braceunderrt",
+          0,
+          30,
+          0,
+          827
         ]
       ],
       0

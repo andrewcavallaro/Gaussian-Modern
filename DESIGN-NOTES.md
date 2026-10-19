@@ -40,7 +40,7 @@ Digits are tabular. Text word space is 280 units. Kerning was scaled to the fina
 
 The companion has its own `math` script registration and `ssty` substitutions. Script and scriptscript forms are 4% and 7.5% wider in their own em space; their displayed sizes are controlled by the MATH table. The table uses a 281-unit axis and a 47-unit fraction/radical rule thickness.
 
-Large delimiter chains and assembly parts are carried into OpenType. Hats and tildes have six width variants each. Common TeX overlay constructions such as not-equal and non-membership have been turned into encoded glyphs. Mathematical italic and bold italic are distinct from the text italic family.
+Large delimiter chains and assembly parts are carried into OpenType. The 0.108 additions are assembled from the font's own glyphs by `scripts/build_math_additions.py`: … ⋯ ⋮ ⋱ use the square math period and centred dot set solid at their own advance (vertical and diagonal dots keep the same pitch); ∣ is the vertical bar; ⟸ and ⟹ lengthen the rules of ⇐ and ⇒ by the width of = less a 3mu join, as TeX builds `\Longrightarrow`; ⏞ and ⏟ are the curly braces, all sizes and assembly parts, turned through 90° and set on the wide accents' 600-unit line and its mirror below the baseline. Hats and tildes have six width variants each. Common TeX overlay constructions such as not-equal and non-membership have been turned into encoded glyphs. Mathematical italic and bold italic are distinct from the text italic family.
 
 The font does not supply complete sans, monospaced, fraktur, or every other mathematical alphabet. Some math variants remain unencoded (`source/math-unencoded.txt`). Applications needing absent ranges should use an explicit fallback for those ranges.
 

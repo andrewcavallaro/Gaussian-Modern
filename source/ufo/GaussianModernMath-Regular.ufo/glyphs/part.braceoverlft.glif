@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="part.braceoverlft" format="2">
+  <advance width="827"/>
+  <outline>
+    <contour>
+      <point x="70.1403" y="600.0" type="line"/>
+      <point x="74.0283" y="726.36"/>
+      <point x="107.0763" y="810.924"/>
+      <point x="402.5643" y="811.896" type="curve" smooth="yes"/>
+      <point x="827.3283" y="811.896" type="line"/>
+      <point x="827.3283" y="951.864" type="line"/>
+      <point x="463.8003" y="951.864" type="line" smooth="yes"/>
+      <point x="151.7883" y="951.864"/>
+      <point x="-5.6757" y="833.28"/>
+      <point x="0.1563" y="600.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

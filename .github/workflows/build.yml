@@ -1,0 +1,56 @@
+name: Build and validate fonts
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Check committed sources and generated files
+        run: |
+          python scripts/check_sources.py
+          python source/validate.py
+          python scripts/check_identity.py
+          python scripts/check_type1.py
+      - name: Check math additions are reproducible
+        run: |
+          python scripts/build_math_additions.py
+          git diff --exit-code -- source/masters source/ufo source/math-additions.json
+      - name: Build from JSON masters
+        run: |
+          python source/build.py
+          python source/validate.py
+          python scripts/check_identity.py
+      - name: Build from UFO masters
+        run: |
+          python source/build.py --from-ufo
+          python source/validate.py
+          python scripts/check_identity.py
+      - name: Install Type 1 and TeX build tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fontforge-nox lcdf-typetools texlive-xetex texlive-luatex texlive-latex-extra texlive-fonts-recommended
+      - name: Rebuild and check Type 1 fonts
+        run: |
+          python scripts/build_type1.py
+          python scripts/check_type1.py
+      - name: Compile TeX proofs
+        working-directory: tests
+        run: |
+          TEXMFHOME=../texmf pdflatex -interaction=nonstopmode -halt-on-error type1-pdflatex.tex
+          xelatex -interaction=nonstopmode -halt-on-error math-additions.tex
+          ! grep -F 'Missing character:' math-additions.log
+          lualatex -interaction=nonstopmode -halt-on-error math-additions.tex
+          ! grep -F 'Missing character:' math-additions.log
+      - name: Check release packaging
+        run: python scripts/package.py

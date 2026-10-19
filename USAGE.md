@@ -219,12 +219,15 @@ comma-below forms (ș ț). Not yet covered: Croatian/Bosnian/Serbian Latin capit
 Lithuanian, Maltese, Welsh (ŵ ŷ) and Esperanto.
 
 **Symbols.** Common punctuation, quotes, dashes, guillemets, €, £, ¥, ™, ©, ®, ‰, and 13
-combining accents. Missing are the single-character ellipsis (…), the soft hyphen, small
-capitals and old-style figures. Type three full stops for an ellipsis, or use `\dots` in TeX.
+combining accents. Missing from the text fonts are the single-character ellipsis (…, which
+only the maths font has), the soft hyphen, small capitals and old-style figures. Type three
+full stops for an ellipsis, or use `\dots` in TeX.
 
 **Mathematics.** Gaussian Modern Math covers the usual operators, relations, arrows, set and
 calculus symbols, upright and italic Greek, italic, bold and bold italic Latin alphabets,
-blackboard-bold and script **capitals**, large delimiters and extensible accents. It has no
+blackboard-bold and script **capitals**, large delimiters and extensible accents, the dots
+… ⋯ ⋮ ⋱, divides ∣, the long double arrows ⟸ ⟹, and extensible over- and underbraces
+⏞ ⏟. Other long arrows (⟵ ⟶ ⟷ ⟺) are not yet included. It has no
 lowercase blackboard-bold or script letters, no bold Greek, and no fraktur, sans-serif or
 typewriter alphabets (see the `range` example in section 3).
 
