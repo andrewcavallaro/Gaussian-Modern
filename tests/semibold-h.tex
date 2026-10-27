@@ -1,0 +1,32 @@
+\documentclass[12pt]{article}
+\usepackage[margin=20mm]{geometry}
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\setmainfont{GaussianModern-Regular.otf}[
+  Path=../fonts/otf/,
+  BoldFont=GaussianModern-Semibold.otf]
+\setmathfont{GaussianModernMath-Regular.otf}[Path=../fonts/otf/]
+\tracinglostchars=2
+\pagestyle{empty}
+\begin{document}
+\noindent Gaussian Modern: upright Semibold h\par
+\bigskip
+{\bfseries\fontsize{96}{110}\selectfont The h\par}
+\bigskip
+{\bfseries\fontsize{40}{48}\selectfont b d h k n\par}
+\bigskip
+\noindent\textbf{The height of the hill is higher than the house.}\par
+\noindent\textbf{Each hypothesis has three thoughtful checks.}\par
+\bigskip
+{\bfseries\fontsize{10}{14}\selectfont
+\noindent The height of the hill is higher than the house.\par
+\noindent Each hypothesis has three thoughtful checks.\par}
+\bigskip
+\noindent Combining accents: \textbf{h́ ĥ ḧ ȟ}\par
+\bigskip
+\noindent Mathematical bold h, including script and scriptscript:\par
+\[
+  \symbf{h} + \symbf{h}_{\symbf{h}_{\symbf{h}}}
+  \qquad \hat{\symbf{h}} \qquad \symbf{b d h k n}
+\]
+\end{document}

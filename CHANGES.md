@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Straighten the upright Semibold h's inner ascender, removing the inward
+  pinch above its shoulder. The bold mathematical h and both script-size
+  variants carry the same fix; advances and spacing are unchanged.
+
 - Document explicit unicode-math alphabet selection and exercise legacy math
   alphabet commands in the native proof to avoid unintended text-font fallback.
 
