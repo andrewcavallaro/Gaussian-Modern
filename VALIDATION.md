@@ -2,6 +2,29 @@
 
 **Release 0.108 · 18 October 2026**
 
+## Unreleased Semibold h correction · 27 October 2026
+
+- The inner ascender of upright Semibold `h` is now a straight edge from the
+  shoulder to the top, matching its roughly 137-unit stem. The same correction
+  is present in `mb.h`, `mb.h.ssty1` and `mb.h.ssty2`. No other master glyphs
+  changed. Both JSON and UFO builds pass source, structural and identity checks.
+- Before/after comparisons of all OTF and TTF glyphs find only these four
+  outlines changed. The cmap, horizontal metrics, GSUB, GPOS and MATH tables
+  are unchanged where present. The math generators leave the corrected sources
+  intact. The new ascender regression check rejects all four original outlines
+  and passes the rebuilt OTF, TTF and Semibold Type 1 font.
+- Type 1 fonts and TeX files were rebuilt with FontForge 20230101 and LCDF
+  Typetools 2.110. This environment has no writable system temporary directory,
+  so FontForge exported PFA and FontTools repackaged the encrypted data as PFB
+  with FontForge's standard trailer. The three unchanged faces are byte-identical
+  to the committed PFBs; only Semibold `h` changes outline. All four fonts pass
+  `t1lint` and `scripts/check_type1.py`; AFM, PFM, TFM and VF files are unchanged.
+- `tests/semibold-h.tex` compiles with both XeLaTeX and LuaLaTeX without missing
+  characters, warnings or overfull boxes; both rendered pages were inspected.
+  The pdfLaTeX Type 1 smoke test also passes. See the
+  [before/after comparison](docs/semibold-h-comparison.png) and the
+  [enlarged and reading-size proof](docs/semibold-h-proof.pdf).
+
 ## Math alphabet selection follow-up
 
 - The usage example now explicitly selects symbol-font math alphabets with

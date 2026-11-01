@@ -2,11 +2,15 @@
 
 Pure Python (FontTools only), so CI can run it without FontForge or TeX.
 """
-import re, struct
+import re, struct, sys
 from pathlib import Path
 from fontTools.ttLib import TTFont
+from fontTools.t1Lib import T1Font
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / 'source'))
+from validate import check_h_stem
+
 T1 = ROOT / 'fonts' / 'type1'
 TEXMF = ROOT / 'texmf'
 STYLES = ['Regular', 'Italic', 'Semibold', 'SemiboldItalic']
@@ -29,6 +33,8 @@ for st in STYLES:
     ps = f'GaussianModern-{st}'
     otf = TTFont(ROOT / 'fonts' / 'otf' / f'{ps}.otf')
     hmtx = otf['hmtx']
+    if st == 'Semibold':
+        check_h_stem(T1Font(str(T1 / f'{ps}.pfb')).getGlyphSet(), 'h')
 
     segs = list(pfb_segments((T1 / f'{ps}.pfb').read_bytes()))
     head = segs[0][1].decode('latin-1')

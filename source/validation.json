@@ -18,7 +18,7 @@
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "0fbdc7e1066f6e4cbe8089ea2afd066fa7cac9d7ad1875d9a9672c93d8d10162"
+    "sha256": "c11edf2fdeb3f27ed40dc08e227e87e8873802f0e268b8b8c5d69beb74d3dca3"
   },
   {
     "file": "fonts/otf/GaussianModern-SemiboldItalic.otf",
@@ -32,7 +32,7 @@
     "glyphs": 3723,
     "unicode_mappings": 2078,
     "math": true,
-    "sha256": "121abdd0cca6ecdd2422d4898c17df402f432c7f6a7cd869cb5269620159da60"
+    "sha256": "1a6409ee353c18850e2e10cac71654580211ede85b62d8dafb08104d62e18659"
   },
   {
     "file": "fonts/ttf/GaussianModern-Italic.ttf",
@@ -53,7 +53,7 @@
     "glyphs": 311,
     "unicode_mappings": 303,
     "math": false,
-    "sha256": "8826f14ddbcec433529878fca404b4ace0b834519636080af1e53af1932bc6c6"
+    "sha256": "db7672fa135a5f4d68d24154412abe9b5daf7ffdb133e5ebbb38cf044a2731a4"
   },
   {
     "file": "fonts/ttf/GaussianModern-SemiboldItalic.ttf",
@@ -67,6 +67,6 @@
     "glyphs": 3723,
     "unicode_mappings": 2078,
     "math": true,
-    "sha256": "636c8c38b040c3b5369231f94286f7bdf20cbe3d160cf5d5c515115376b17c0d"
+    "sha256": "f45b502bab6d10565600ca2ac33d9f86f1ce52a277283e68b219c79dd71607d7"
   }
 ]

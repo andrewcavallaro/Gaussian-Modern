@@ -7,6 +7,21 @@ from fontTools.pens.recordingPen import RecordingPen
 ROOT=Path(__file__).resolve().parent.parent
 COMMON='…∣⋮⋯⋱⏞⏟⟸⟹≠≤≥≈≡∈∉∋∌∅∀∃∄∇∂∞↦→←↔⇒⇔⊂⊃⊆⊇∧∨¬∑∏∫∮√∝×÷±∓∴∵∶'
 
+def check_h_stem(glyphs,name,scale=1):
+    """The bold h's inner ascender must stay straight above its shoulder."""
+    pen=RecordingPen();glyphs[name].draw(pen)
+    current=None
+    for operation,points in pen.value:
+        if operation=='lineTo' and current is not None:
+            end=points[0]
+            low,high=sorted((current[1],end[1]))
+            if (420<=low<=440 and 740<=high<=750
+                    and abs(current[0]-end[0])<=1
+                    and 220<=end[0]/scale<=230):
+                return
+        if points:current=points[-1]
+    raise AssertionError((name,'bold h ascender is not straight'))
+
 def validate():
     records=[]
     for path in sorted([*(ROOT/'fonts').glob('otf/*'), *(ROOT/'fonts').glob('ttf/*')]):
@@ -21,7 +36,10 @@ def validate():
         assert set(empty)<=allowed_empty,(path.name,empty)
         assert all(c in cmap for c in range(32,127)),path.name
         math='Math' in path.name
+        if path.stem=='GaussianModern-Semibold':check_h_stem(glyphs,'h')
         if math:
+            for name,scale in [('mb.h',1),('mb.h.ssty1',1.04),('mb.h.ssty2',1.075)]:
+                check_h_stem(glyphs,name,scale)
             targets=json.loads((ROOT/'source/native-unicode-targets.json').read_text())
             assert all(row['codepoint'] in cmap for row in targets),path.name
             mono=list(range(0x1D670,0x1D6A4))+list(range(0x1D7F6,0x1D800))
